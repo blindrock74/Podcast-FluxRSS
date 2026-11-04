@@ -23,7 +23,7 @@ EMISSIONS = [
     "https://ici.radio-canada.ca/ohdio/balados/13247/louis-blouin-aux-etats-unis-de-trump",
     "https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs",
     "https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer",
-    "https://ici.radio-canada.ca/ohdio/balados/5548/histoires-enquete-reportage-proces-affaire-judiciaire/saison-9",
+    "https://ici.radio-canada.ca/ohdio/balados/5548/histoires-enquete-reportage-proces-affaire-judiciaire",
     "https://ici.radio-canada.ca/ohdio/balados/12185/enquete-de-crime-une-histoire-presque-vraie",
     "https://ici.radio-canada.ca/ohdio/balados/12949/ecotherapie-journal-dun-cataclysme",
     "https://ici.radio-canada.ca/ohdio/balados/12165/chiens-ecrases-nouvelles-insolites-sous-la-loupe",
@@ -58,16 +58,40 @@ def page_data(path, number):
     return state["pages"]["pages"][path]["data"]
 
 
-def fetch_all(path, first):
+def fetch_pages(path, first):
+    """Tous les épisodes d'une liste paginée (émission ou saison)."""
     pagination = first["pagination"]
     pages = math.ceil(pagination["totalCount"] / pagination["pageSize"])
     print(f"{pagination['totalCount']} épisodes sur {pages} pages")
-    episodes = first["episodes"]
+    episodes = list(first["episodes"])
     for n in range(2, pages + 1):
         time.sleep(PAUSE)
         print(f"page {n}/{pages}")
         episodes += page_data(path, n)["episodes"]
-    return first["program"], episodes
+    return episodes
+
+
+def fetch_all(path, first):
+    """Épisodes de l'émission ; si c'est un balado par saisons, parcourt toutes les saisons.
+
+    La page principale d'un balado par saisons ne liste que la saison courante,
+    mais ses filtres donnent l'URL de chaque saison.
+    """
+    saisons = [f["url"] for f in first.get("filters") or []
+               if re.search(r"/saison-\d+$", f.get("url") or "")]
+    if not saisons or re.search(r"/saison-\d+$", path):
+        return first["program"], fetch_pages(path, first)
+    episodes = {}
+    for url in saisons:
+        spath = "/ohdio" + url
+        numero = re.search(r"saison-(\d+)$", url).group(1)
+        print(f"-- saison {numero}")
+        time.sleep(PAUSE)
+        data = first if spath == path else page_data(spath, 1)
+        for ep in fetch_pages(spath, data):
+            ep.setdefault("season", numero)
+            episodes[ep["globalId"]["id"]] = ep
+    return first["program"], list(episodes.values())
 
 
 def resolve_audio(episodes):
@@ -115,6 +139,7 @@ def hms(seconds):
 def write_rss(path, slug, program, episodes, image):
     items = []
     for ep in episodes:
+        season = f"\n      <itunes:season>{ep['season']}</itunes:season>" if ep.get("season") else ""
         items.append(f"""    <item>
       <title>{escape(re.sub(r'<[^>]+>', '', ep['title']))}</title>
       <link>{escape(ep['link'])}</link>
@@ -122,7 +147,7 @@ def write_rss(path, slug, program, episodes, image):
       <pubDate>{format_datetime(ep['date'])}</pubDate>
       <description>{escape(ep['summary'] or '')}</description>
       <enclosure url="{escape(ep['audio'])}" length="0" type="audio/mp4"/>
-      <itunes:duration>{ep['seconds']}</itunes:duration>
+      <itunes:duration>{ep['seconds']}</itunes:duration>{season}
       <itunes:explicit>false</itunes:explicit>
     </item>""")
 
