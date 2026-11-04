@@ -21,6 +21,14 @@ from urllib.parse import urlsplit
 # Émissions à traiter : URL de la page du balado sur qub.ca (copier-coller du navigateur)
 EMISSIONS = [
     "https://www.qub.ca/balado/devine-qui-vient-souper-richard-martineau-et-sophie-durocher",
+    "https://www.qub.ca/balado/le-monde-a-l-envers",
+    "https://www.qub.ca/balado/le-balado-le-parloir",
+    "https://www.qub.ca/balado/ia-tu-pense",
+    "https://www.qub.ca/balado/histoires-de-crimes",
+    "https://www.qub.ca/balado/contact-avec-stephan-bureau",
+    "https://www.qub.ca/balado/sans-vice-cache",
+    "https://www.qub.ca/balado/le-sac-de-chips",
+
 ]
 
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "

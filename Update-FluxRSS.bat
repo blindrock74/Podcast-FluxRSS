@@ -8,8 +8,9 @@ echo === Recuperation de la derniere version (git pull)
 git pull --rebase --autostash || goto :erreur
 
 echo.
-echo === Generation des flux
+echo === Generation des flux pour OHDIO
 python ohdio_rss.py || goto :erreur
+echo === Generation des flux pour QUB
 python qub_rss.py || goto :erreur
 
 echo.
@@ -30,4 +31,3 @@ echo *** ERREUR : voir les messages ci-dessus.
 
 :fin
 echo.
-pause
