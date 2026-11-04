@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Décrypteurs : le balado</title>
+    <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs</link>
+    <description>&lt;p&gt;Les décrypteurs discutent de ce qui a retenu leur attention dans l’actualité de la semaine : des phénomènes web, des tendances virales, de l’intelligence artificielle, de la science et des technologies. Des discussions sans montage (ou presque), spontanées et très décontractées pour mieux comprendre le monde numérique et distinguer le vrai du faux. &lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/decrypteurs&quot; href=&quot;https://ici.tou.tv/decrypteurs&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Prix Signal 2025&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;: &lt;/strong&gt;bronze et prix du public dans la catégorie technologie&lt;/p&gt;</description>
+    <language>fr-ca</language>
+    <copyright>Radio-Canada</copyright>
+    <lastBuildDate>Wed, 04 Nov 2026 13:21:07 -0500</lastBuildDate>
+    <image>
+      <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/visuel-moteur-les-decrypteurs-balado-2026.jpg</url>
+      <title>Décrypteurs : le balado</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs</link>
+    </image>
+    <itunes:image href="https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/visuel-moteur-les-decrypteurs-balado-2026.jpg"/>
+    <itunes:author>Radio-Canada</itunes:author>
+    <itunes:owner>
+      <itunes:name>Radio-Canada</itunes:name>
+      <itunes:email>decrypteurs@radio-canada.ca</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>« Octobre noir » en cybersécurité: l’IA déclenche une alerte mondiale</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1285694/octobre-noir-lia-declenche-une-alerte-mondiale</link>
+      <guid isPermaLink="false">ohdio-1285694</guid>
+      <pubDate>Fri, 30 Oct 2026 15:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Un «&amp;nbsp;Octobre noir&amp;nbsp;» pour la cybersécurité mondiale; l’organisme à but non lucratif &lt;em&gt;Échec au crime&lt;/em&gt; victime d’un vol de données massif; l&amp;#x27;évaluation de la rentabilité réelle d&amp;#x27;Anthropic; la plateforme de jeux en ligne Roblox en voie d’être incluse dans le projet de loi C-34 sur la sécurité numérique; et les réflexions autour de l&amp;#x27;univers toxique des «&amp;nbsp;&lt;em&gt;lives &lt;/em&gt;&amp;nbsp;» sur la plateforme TikTok.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/df813f92-371a-4ff3-a2d2-5c9489120953/2026-10-30_11_05_13_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3656</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Désinformation&amp;nbsp;: un gros joueur démasqué</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1283813/desinformation-un-gros-joueur-demasque</link>
+      <guid isPermaLink="false">ohdio-1283813</guid>
+      <pubDate>Fri, 23 Oct 2026 15:50:00 +0000</pubDate>
+      <description>&lt;p&gt;Notre enquête sur le plus grand compte de désinformation au Québec; le web perturbé par une faille de sécurité majeure; la proposition d’Anthropic pour encadrer l’IA; les inquiétudes sur la gestion du dossier de l’IA par Ottawa; et des publicités ciblées au service de logiciels espions mercenaires.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/4b481ac9-4a50-4c58-aeb6-bc3da4b55cb6/2026-10-23_11_10_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3472</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Non, des frappes ukrainiennes n’ont pas démantelé de réseaux de bots au Canada</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1281651/non-des-frappes-ukrainiennes-nont-pas-demantele-de-reseaux-de-bots-au-canada</link>
+      <guid isPermaLink="false">ohdio-1281651</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Des frappes ukrainiennes sur des centres de données provoquent une vague de mésinformation; le journaliste Nicholas De Rosa raconte son &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;expérience &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;expérience &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;expérience &lt;/span&gt;&lt;/q&gt; avec Muse, l’assistant IA de Meta; la jeune pousse américaine Character.AI fait faillite; une avalanche de poursuites contre OpenAI; un expert canadien en cybersécurité arrêté en lien avec une cyberattaque visant le FBI.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/78a0f468-1bde-46f4-ae01-038ff3c9cafb/2026-10-16_10_57_49_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3600</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Faux défi TikTok : la police et les médias bernés</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1279812/faux-defi-tiktok-medias-et-policiers-bernes</link>
+      <guid isPermaLink="false">ohdio-1279812</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;L’anatomie d’un autre faux défi de l’application TikTok; des témoignages révélateurs sur les failles de sécurité à OpenAI; le côté sombre de Muse, l’assistant IA de Meta; et la quête religieuse d’Anthropic.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/e856730d-e120-4119-aa24-158b739a1d5d/2026-10-09_11_26_02_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3197</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les géants de l’IA s’entendent avec Trump</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1278198/entente-trump-compagnies-ia-intelligence-artificielle-anthropic-claude</link>
+      <guid isPermaLink="false">ohdio-1278198</guid>
+      <pubDate>Fri, 02 Oct 2026 15:45:00 +0000</pubDate>
+      <description>&lt;p&gt;Donald Trump signe une entente avec les géants de l’industrie de l’intelligence artificielle (IA); un regard inédit sur les finances d’Anthropic, la compagnie derrière l’IA Claude; une enquête sur un compte proséparation de l’Alberta; le FBI ciblé par une attaque de cyberpiratage sans précédent; et des médias canadiens bernés par un faux journaliste.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/6aec8695-23c9-4a58-9d3b-1b83f5372ae6/2026-10-02_11_29_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3228</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Affaire Thélyson Orélien&amp;nbsp;: et Pangram dans tout ça?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1276242/affaire-thelyson-orelien-et-pangram-dans-tout-ca</link>
+      <guid isPermaLink="false">ohdio-1276242</guid>
+      <pubDate>Fri, 25 Sep 2026 15:35:00 +0000</pubDate>
+      <description>&lt;p&gt;Le fonctionnement de Pangram, l’outil de détection de l’intelligence artificielle (IA) dont le verdict a déclenché l’affaire Thélyson Orélien; l’infiltration de façon autonome d’un agent d’IA rebelle dans des sites gouvernementaux australiens; du nouveau sur le rôle de l’IA dans le bombardement d’une école en Iran; les propositions des partis politiques en matière de cybersécurité au Québec; et un site web généré par l’IA derrière les conseils de ChatGPT offerts à l’électorat québécois.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/216c9ee5-adbe-4f74-9101-4742fec1c7fa/2026-09-25_11_23_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3816</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’IA et la fin du monde</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1274769/lia-et-la-fin-du-monde</link>
+      <guid isPermaLink="false">ohdio-1274769</guid>
+      <pubDate>Fri, 18 Sep 2026 15:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Des nuances sur les discours alarmistes relatifs à l’intelligence artificielle; l’essor du mouvement anti-technologie; les stratégies numériques des partis politiques pour vous séduire; et l’&lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;Amazon des drones &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Amazon des drones &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;Amazon des drones&lt;/span&gt;&lt;/q&gt; dans la mire d’Ottawa.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/27231ea7-55b7-4860-bbba-f49b727a3bc6/2026-09-18_11_10_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3409</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Des agents d’IA rebelles hors de contrôle</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1272764/des-agents-dia-rebelles-hors-de-controle</link>
+      <guid isPermaLink="false">ohdio-1272764</guid>
+      <pubDate>Fri, 11 Sep 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;L’essor des agents d’intelligence artificielle (IA) rebelles; une première élection québécoise à l&amp;#x27;ère de l’IA générative; le portrait d’une entreprise qui pollue votre fil Facebook; des infrastructures critiques du Canada ciblées par des &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;hacktivistes &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;hacktivistes &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;hacktivistes&lt;/span&gt;&lt;/q&gt; étrangers; et le phénomène &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;Kirkiversary &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Kirkiversary &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;Kirkiversary&lt;/span&gt;&lt;/q&gt; ou l’étrange gloire posthume de Charlie Kirk.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2d8c3134-2994-4095-8b2a-1fef7188f229/2026-09-11_10_30_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>4014</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Drones 100&amp;nbsp;% autonomes&amp;nbsp;: les premiers assassinats confirmés</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1201976/drones-100-autonomes-les-premiers-assassinats-confirmes</link>
+      <guid isPermaLink="false">ohdio-1201976</guid>
+      <pubDate>Fri, 19 Jun 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Des drones létaux complètement autonomes déployés en Ukraine et des milliers de bombardements en Iran guidés par l’IA; l’adoption accélérée d’une version amendée du projet de loi C-22; les dénouements de la saga Mythos aux États-Unis; des exemples troublants de campagnes d’ingérence étrangère menées en France et au Royaume-Uni; et une alerte à la fraude en marge de la Coupe du monde de soccer.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/52d88e2a-ae96-43ca-87d5-53762cf82f08/2026-06-19_16_06_37_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3890</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Projet de loi sur les réseaux sociaux : ce qu’il faut savoir</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1179856/projet-de-loi-sur-les-reseaux-sociaux-ce-quil-faut-savoir</link>
+      <guid isPermaLink="false">ohdio-1179856</guid>
+      <pubDate>Fri, 12 Jun 2026 15:50:00 +0000</pubDate>
+      <description>&lt;p&gt;Comment se déploiera le projet de loi C-34, qui vise l’interdiction des réseaux sociaux pour les moins de 16 ans; Anthropic dévoile une version grand public de Mythos, son puissant modèle d’IA; SpaceX entre en bourse, et la fortune d’Elon Musk est propulsée dans la stratosphère; on envisage la fin imminente de l’ère des robots conversationnels; et on fait un bref portrait de Cohere, l’entreprise torontoise censée incarner le visage canadien de l’IA.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/92803a87-0d90-4589-83bd-ceaf12044119/2026-06-12_11_34_35_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3546</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Des recoins du web à Hollywood : le phénomène Backrooms</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1178283/des-recoins-du-web-a-hollywood-le-phenomene-backrooms</link>
+      <guid isPermaLink="false">ohdio-1178283</guid>
+      <pubDate>Fri, 05 Jun 2026 15:55:00 +0000</pubDate>
+      <description>&lt;p&gt;La stratégie canadienne sur l’intelligence artificielle est enfin dévoilée; les coûts liés à l’IA font grincer des dents; Anthropic franchit un premier pas vers son entrée en Bourse; META est ciblée par une vague de piratage massif; et on fait la petite histoire derrière le grand succès du film &lt;em&gt;Backrooms&lt;/em&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/bc61720a-ac1e-4c61-aef3-26a38d3418b5/2026-06-05_11_28_17_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3888</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Extrémistes, les détracteurs de l’IA?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1176875/extremistes-les-detracteurs-de-lia</link>
+      <guid isPermaLink="false">ohdio-1176875</guid>
+      <pubDate>Fri, 29 May 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Les personnes critiques de l’intelligence artificielle sont dans la mire des forces de l’ordre aux États-Unis, au moment où s’amplifie la grogne contre l’implantation de centres de données; le pape Léon XIV entre en croisade contre les dérives de l’IA; une ex-influenceuse MAGA déchante et règle ses comptes; et Google et Apple réitèrent leur opposition à certaines dispositions du projet de loi C-22 sur l’accès légal à des données numériques personnelles. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2359199b-9d82-4e48-8ad5-5f27b4bb1b0f/2026-05-29_12_01_36_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3389</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vie privée : le projet de loi C-22 sème l’inquiétude</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1173964/vie-privee-le-projet-de-loi-c-22-seme-linquietude</link>
+      <guid isPermaLink="false">ohdio-1173964</guid>
+      <pubDate>Fri, 22 May 2026 21:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La colère gronde et des entreprises menacent de quitter le Canada en raison du projet de loi C-22; le virage de Google vers l’intelligence artificielle (IA) s’accentue; SpaceX lève le voile sur ses finances internes et ses projets démesurés; un homme monétise la haine raciale; et un livre sur la vérité à l’ère de l’IA est truffé de citations créées par l’IA.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/264f618c-30cb-4ac9-af42-cbb1a313cf2e/2026-05-22_16_55_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3677</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Poussée conspirationniste au Canada</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1171853/poussee-conspirationniste-au-canada</link>
+      <guid isPermaLink="false">ohdio-1171853</guid>
+      <pubDate>Fri, 15 May 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Le conspirationnisme semble plus populaire que jamais au Canada; l’action collective contre Meta orchestrée par Marie-Claude Barrette va de l’avant; on se penche sur l’alliage problématique du journalisme et de l’intelligence artificielle; et on évoque un tollé provoqué par les photos de la famille de Nick Suzuki générées par l’IA.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/acc58648-1633-4cf7-bedc-59f9078b3249/2026-05-15_11_45_35_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2878</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’Alberta ciblée par la Russie&amp;nbsp;: de l’ingérence en vue?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1169565/lalberta-ciblee-par-la-russie-de-lingerence-en-vue</link>
+      <guid isPermaLink="false">ohdio-1169565</guid>
+      <pubDate>Fri, 08 May 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Le mouvement séparatiste albertain pris pour cible par des acteurs étrangers; OpenAI, qui a violé la loi canadienne sur la protection des données personnelles, ne sera pas sanctionnée; la visibilité des republications sur Instagram réduite par Meta, ce qui met en lumière l’industrie du «&amp;nbsp;&lt;em&gt;clipping&lt;/em&gt;&amp;nbsp;»; et un survol des outils de vérification de l’âge sur le web, dont la portée est limitée.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/593f1747-44b8-4934-906f-131b16abe5e6/2026-05-08_11_24_40_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3584</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Frénésie complotiste aux États-Unis</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1167855/washington-chine-palantir-intelligence-artificielle</link>
+      <guid isPermaLink="false">ohdio-1167855</guid>
+      <pubDate>Fri, 01 May 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La déferlante complotiste déclenchée par la fusillade au dîner des correspondants à Washington; la répression transnationale orchestrée par le régime chinois contre ses opposants; la signature de l’IA sur le tiers des sites web créés depuis 2022; la colère des employés de l’entreprise Palantir; et la future interdiction des réseaux sociaux et des robots conversationnels aux jeunes au Manitoba.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/9d9eb52f-a2b5-467e-a647-dbce7cca4e39/2026-05-01_11_51_20_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3357</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>100e épisode du balado… devant public!</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1166475/100e-episode-balado-devant-public</link>
+      <guid isPermaLink="false">ohdio-1166475</guid>
+      <pubDate>Fri, 24 Apr 2026 15:10:00 +0000</pubDate>
+      <description>&lt;p&gt;Notre enquête sur un réseau de chaînes YouTube inauthentiques prônant la séparation de l’Alberta; les fausses influenceuses MAGA 100 % IA; de gros changements à la tête de l’empire Apple; un émoi déclenché par un manifeste de l’entreprise technologique Palantir; et le site satirique The Onion et son nouveau plan pour mettre la main sur Infowars.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8d4569dd-7b8f-41a6-aa8f-ace66dbb1ec3/2026-04-24_10_53_32_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>4520</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Musique en ligne et popularité «&amp;nbsp;artificielle&amp;nbsp;»</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1164899/musique-ligne-popularite-artificielle-decrypteurs</link>
+      <guid isPermaLink="false">ohdio-1164899</guid>
+      <pubDate>Fri, 17 Apr 2026 16:02:00 +0000</pubDate>
+      <description>&lt;p&gt;La part de construction artificielle dans la popularité des artistes sur les réseaux sociaux; gros plan sur la maximisation de l’apparence, ou &lt;em&gt;looksmaxxing&lt;/em&gt; en anglais, et les dérives narcissiques chez les masculinistes; la colère en ligne contre l&amp;#x27;industrie de l’IA qui bascule dans la vie réelle avec des actes violents contre Sam Altman; et le diagnostic fait par des agents conversationnels d’une maladie qui n’existe pas, une énième preuve des failles de l’IA.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/eba3a94c-4cd6-4c6c-9340-ab405d1dc822/2026-04-17_13_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3469</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sam Altman : « sociopathe » et « menteur pathologique »?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1163249/sam-altman-sociopathe-menteur-pathologique-decrypteurs</link>
+      <guid isPermaLink="false">ohdio-1163249</guid>
+      <pubDate>Fri, 10 Apr 2026 16:17:00 +0000</pubDate>
+      <description>&lt;p&gt;Le conflit en Iran est un terreau fertile pour les enquêtes en sources ouvertes; le modèle d’IA Mythos est &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;trop dangereux &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;trop dangereux &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;trop dangereux &lt;/span&gt;&lt;/q&gt; pour être accessible à tout le monde; qui est vraiment Sam Altman? Une enquête approfondie brosse un sombre portrait du patron d’OpenAI; le créateur d’un logiciel espion plaide coupable (fait rare)… mais écope d’une peine clémente; et le mystérieux Satoshi Nakamoto est-il enfin démasqué? C’est ce que prétend un journaliste du &lt;em&gt;New York Times&lt;/em&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8d3c1b8e-7c93-4d4b-a58f-607778f09339/2026-04-10_12_00_14_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3434</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cyberpiratage : une catastrophe mondiale évitée de près</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1161892/cyberpiratage-une-catastrophe-mondiale-evitee-de-pres</link>
+      <guid isPermaLink="false">ohdio-1161892</guid>
+      <pubDate>Fri, 03 Apr 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;L’incroyable histoire d’une tentative de piratage très sophistiquée du système d’exploitation Linux; un suivi de la campagne de cyberespionnage Salt Typhoon, téléguidée par le régime chinois; et une analyse du projet de loi 24 visant à lutter contre l’usurpation d’identité en ligne.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2bb31c4c-67ca-4271-a935-a18ab1ce43e3/2026-04-03_11_01_16_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3140</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Musique générée par l’IA : une fraude majeure dévoilée</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1160356/musique-generee-par-lia-une-fraude-majeure-devoilee</link>
+      <guid isPermaLink="false">ohdio-1160356</guid>
+      <pubDate>Fri, 27 Mar 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Meta et YouTube sont condamnés pour avoir alimenté la dépression d’une adolescente; un Américain récolte des millions de dollars grâce à de fausses chansons interprétées par des artistes qui n’existent pas, dont la popularité est basée sur des écoutes inauthentiques; OpenAI fermera Sora, son réseau social de vidéos courtes générées par l’intelligence artificielle; et Meta supprimera le chiffrement des messages privés sur Instagram.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/5701762f-4121-4840-8529-54c311296a88/2026-03-27_10_40_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3538</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Nétanyahou, mort ou vivant? L’IA brouille les cartes</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1158770/netanyahou-mort-vivant-ia-brouille-cartes</link>
+      <guid isPermaLink="false">ohdio-1158770</guid>
+      <pubDate>Fri, 20 Mar 2026 14:55:00 +0000</pubDate>
+      <description>&lt;p&gt;La plateforme de paris en ligne Polymarket et les dérives des marchés prédictifs en temps de guerre; projet de loi C-22 et données personnelles : les inquiétudes demeurent; Benyamin Nétanyahou est-il mort ou vivant?; réflexions sur le chaos informationnel alimenté par l’IA générative; et &lt;em&gt;Plongée dans la manosphère&lt;/em&gt; : les masculinistes sur la sellette dans un documentaire signé Louis Théroux.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/20601692-701d-409b-af2a-12682dcb3734/2026-03-20_09_59_21_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3345</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pièges à clics et fausses nouvelles anti-Trump</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1157285/pieges-a-clics-et-fausses-nouvelles-anti-trump</link>
+      <guid isPermaLink="false">ohdio-1157285</guid>
+      <pubDate>Fri, 13 Mar 2026 14:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La hausse marquée des publications anti-Trump sur Reddit et YouTube : entre pièges à clics et fausses nouvelles, il y a anguille sous roche. L’IA pourrait être en voie d’être exclue d’une loi fédérale sur les préjudices en ligne. Des trolls iraniens prorégime passent à l’attaque. Et le duo rock Angine de Poitrine enflamme la toile.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8ee16ca8-da64-4289-b2f9-e95be238675b/2026-03-13_11_10_18_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3364</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Guerre en Iran : alerte aux fausses nouvelles!</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1155611/guerre-en-iran-alerte-aux-fausses-nouvelles</link>
+      <guid isPermaLink="false">ohdio-1155611</guid>
+      <pubDate>Fri, 06 Mar 2026 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Les missiles pleuvent sur le Moyen-Orient et la désinformation inonde les réseaux sociaux; la saga du duel entre Anthropic et le Pentagone se poursuit; et les révélations sur les lunettes Meta Ray-Ban soulèvent des inquiétudes concernant la protection de la vie privée.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/61a04b78-c2b4-4573-8b11-f11b91848c43/2026-03-06_12_13_40_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3859</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Sous la loupe : Epstein et les « pizzas »</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1153520/dossier-epstein-mentions-pizzas</link>
+      <guid isPermaLink="false">ohdio-1153520</guid>
+      <pubDate>Fri, 27 Feb 2026 15:50:00 +0000</pubDate>
+      <description>&lt;p&gt;La thèse conspirationniste du &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;Pizzagate&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Pizzagate&amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;Pizzagate&lt;/span&gt;&lt;/q&gt; ravivée grâce aux centaines de mentions du mot  &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;pizza&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;pizza&amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;pizza&lt;/span&gt;&lt;/q&gt; dans les dossiers Epstein; OpenAI sur la sellette dans la foulée de la tuerie de Tumbler Ridge; discussion autour des dangers immédiats posés par le développement de l’IA; et une augmentation d&amp;#x27;un cran de la tension entre le Pentagone et Anthropic.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2ffa577d-97b6-4be1-a62f-7e59077a62e9/2026-02-27_10_18_18_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3189</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fin de ChatGPT-4o&amp;nbsp;: entre choc et consternation</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1151365/chatgpt4o-abandon-ia-anthropic</link>
+      <guid isPermaLink="false">ohdio-1151365</guid>
+      <pubDate>Fri, 20 Feb 2026 16:25:00 +0000</pubDate>
+      <description>&lt;p&gt;La désactivation de ChatGPT-4o consterne des milliers de personnes qui entretenaient une &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;relation intime &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;relation intime &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;relation intime&lt;/span&gt;&lt;/q&gt; avec le robot conversationnel; le Pentagone envisage de rompre sa relation avec l’entreprise d’intelligence artificielle Anthropic; Mark Zuckerberg témoigne dans un procès contre Meta; et l’administration Trump durcit sa traque des personnes qui s’opposent à la police de l&amp;#x27;immigration américaine (ICE) sur le web.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/08155ce9-0137-49e2-a51b-f2655ef2f34f/2026-02-20_11_10_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2611</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Dossiers Epstein&amp;nbsp;: le vrai, le faux et l’invérifiable</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1149351/dependance-reseaux-sociaux-jeunes</link>
+      <guid isPermaLink="false">ohdio-1149351</guid>
+      <pubDate>Fri, 13 Feb 2026 16:50:00 +0000</pubDate>
+      <description>&lt;p&gt;La confusion s’accentue et les informations trompeuses se multiplient dans la foulée de la divulgation des dossiers Epstein; Google et Meta sont accusés d&amp;#x27;avoir créé une dépendance aux réseaux sociaux chez les jeunes; le groupe de musique québécois Angine de Poitrine fait un tabac sur le web; et un rapport très attendu sur l’intelligence artificielle du gouvernement fédéral a été résumé avec… l’intelligence artificielle.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/5a001522-6ad4-48a7-b22a-24e59bff9077/2026-02-13_10_40_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3011</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Réseau social 100&amp;nbsp;% IA? La vérité sur Moltbook</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1147370/affaire-epstein-documents-conspiration</link>
+      <guid isPermaLink="false">ohdio-1147370</guid>
+      <pubDate>Fri, 06 Feb 2026 16:20:00 +0000</pubDate>
+      <description>&lt;p&gt;Le réseau social Moltbook suscite beaucoup d’engouement, mais des nuances importantes s’imposent sur son fonctionnement; on fait le point sur l’affaire Epstein alors que les thèses conspirationnistes se multiplient; les bonzes de l’intelligence artificielle rivalisent d’alarmisme sur les conséquences des technologies qu’ils mettent eux-mêmes de l’avant; et des pages Facebook publient de la désinformation sur le Canadien de Montréal.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/36fe5d82-c854-4eb7-9409-9b8a6cf990e4/2026-02-06_10_50_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3163</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’IA secoue le milieu de l’éducation</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1144791/intelligence-artificielle-etudiants-travaux</link>
+      <guid isPermaLink="false">ohdio-1144791</guid>
+      <pubDate>Fri, 30 Jan 2026 16:20:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: une analyse de notre sondage exclusif SOM/Radio-Canada sur l’utilisation de l’intelligence artificielle en éducation; des allégations de censure et de bogues techniques envers la branche américaine de TikTok; et des pourparlers entre Ottawa et META pour un possible retour des médias d’information canadiens sur Facebook.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/39a9e432-b9a7-4a6d-89da-8330df9069a4/2026-01-30_10_50_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3251</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Claude, un robot IA «&amp;nbsp;conscient&amp;nbsp;»?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1141799/claude-robot-ai-anthropic-tiktok</link>
+      <guid isPermaLink="false">ohdio-1141799</guid>
+      <pubDate>Fri, 23 Jan 2026 16:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : la charte du robot conversationnel Claude, de l’entreprise Anthropic, évoque une entité &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;consciente &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;consciente &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;consciente &lt;/span&gt;&lt;/q&gt;; la police fédérale ICE utilise des applications mobiles à la fiabilité douteuse; TikTok évite la liquidation de ses bureaux au Canada; un premier pas est franchi vers l’intégration des publicités à ChatGPT; et Digg, un ex-rival de Reddit, renaît de ses cendres.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/1960e3ef-1b7d-484a-a770-54d59e40dc9a/2026-01-23_10_42_26_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3224</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chaos au Minnesota : le rôle des réseaux sociaux</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1139645/chaos-minnesota-role-reseaux-sociaux</link>
+      <guid isPermaLink="false">ohdio-1139645</guid>
+      <pubDate>Fri, 16 Jan 2026 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : une véritable guerre de l’information est menée sur les réseaux sociaux en marge des actions de la police fédérale de l’immigration américaine ICE; l’arrestation du dirigeant d’un réseau d’arnaques en ligne permet de lever le voile sur son empire tentaculaire; la grogne s’amplifie contre Grok et X en raison de la production sans consentement d’images sexualisées, et les rumeurs de bannissement au Canada se multiplient; et Apple a choisi Gemini, l’assistant IA de Google, pour opérer le prochain virage de Siri.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/4855ecda-3a61-4676-8f52-aae4d18afabb/2026-01-16_12_25_45_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2778</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Grok génère des images à caractère sexuel: où sont les limites ?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1137800/grok-genere-images-caractere-sexuelle-limites</link>
+      <guid isPermaLink="false">ohdio-1137800</guid>
+      <pubDate>Fri, 09 Jan 2026 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : Grok est dans la tourmente. Au cours des derniers jours, à la demande d’utilisateurs, le robot conversationnel de XAI a produit des images sexualisées sans le consentement des personnes qui y figurent. La GRC et une vingtaine de partenaires passent à l’action contre des réseaux de fraudeurs et de cybercriminels. Un tournant? Le service de livraison Uber Eats est visé par un canular. Un vent de conspirationnisme se lève chez les fans de la populaire série &lt;em&gt;Stranger Things&lt;/em&gt;.	&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/871b7e7e-a362-46a1-8d62-6daf6fa95713/2026-01-09_12_13_36_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3374</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>FAQ : vos questions, nos réponses</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1134991/intelligence-artificielle-bulle-avantage</link>
+      <guid isPermaLink="false">ohdio-1134991</guid>
+      <pubDate>Fri, 02 Jan 2026 12:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: comme promis, on répond à vos questions. L’utilisation de l’intelligence artificielle (IA) est souvent critiquée, mais quels sont ses avantages? Notre dépendance à l’IA entraîne-t-elle une perte de nos compétences? Une bulle de l’IA va-t-elle éclater? Notre téléphone nous écoute-t-il? Et l’on vous entraîne dans les coulisses de production de notre balado.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0e5ea4a8-7111-45f6-a978-e2e91deb378c/2025-12-22_11_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2393</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Meta et OpenAI&amp;nbsp;: scandale après scandale</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1134611/publicites-fraude-chatgpt-disney-google-poursuite</link>
+      <guid isPermaLink="false">ohdio-1134611</guid>
+      <pubDate>Fri, 19 Dec 2025 18:15:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: une enquête lève le voile sur ce qui se trame en Chine, alors que l’épidémie de publicités frauduleuses continue sur les plateformes de Meta; un meurtre, suivi d’un suicide, causé par une utilisation prolongée de ChatGPT mène à une (autre) poursuite contre OpenAI; et Disney met en demeure Google pour violation massive de droits d’auteur. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0a2b4991-8ff5-41c6-8860-cedd70831a77/2025-12-19_10_47_22_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2994</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Réseaux sociaux interdits aux moins de 16&amp;nbsp;ans&amp;nbsp;: une fausse bonne idée?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1133119/reseaux-sociaux-interdiction-ados-australie</link>
+      <guid isPermaLink="false">ohdio-1133119</guid>
+      <pubDate>Fri, 12 Dec 2025 15:45:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: une analyse des effets et des limites de la décision de l’Australie de bannir les moins de 16 ans d’une dizaine de réseaux sociaux; la proposition de l’Inde de facturer à OpenAI et à Google l&amp;#x27;entraînement de leurs IA sur des contenus protégés par les droits d&amp;#x27;auteur; l’intensification du bras de fer transatlantique entre l’Union européenne et Elon Musk; et une enquête sur les dessous de l’empire de l’influenceur Nick Fuentes.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/f5859202-f9ec-4fd8-8e71-c32d1d80c065/2025-12-12_10_31_24_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3159</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Charlie Kirk&amp;nbsp;: viralité post-mortem</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1131658/charlie-kirk-viralite-post-mortem</link>
+      <guid isPermaLink="false">ohdio-1131658</guid>
+      <pubDate>Fri, 05 Dec 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: l’influenceur conservateur Charlie Kirk inspire une vague sans précédent de publications virales; vent de panique à OpenAI, le «&amp;nbsp;code rouge&amp;nbsp;» est déclenché pour résister à la concurrence; les gens qui ont conçu le bouton «&amp;nbsp;J&amp;#x27;aime&amp;nbsp;» et le défilement infini en croisade contre leurs propres inventions; et l’utilisation du marketing d’affiliation à des fins de fraude.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/40696605-a655-481d-bf6c-aed13c146737/2025-12-05_10_40_02_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3441</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Génération d’images par IA : Google loin devant, mais…</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1130046/generation-dimages-par-ia-google-loin-devant-mais</link>
+      <guid isPermaLink="false">ohdio-1130046</guid>
+      <pubDate>Fri, 28 Nov 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : l’équipe a testé Nano Banana Pro, le nouveau générateur d’images de Google alimenté par Gemini 3, et la qualité des images produites saute aux yeux… tout comme l’absence flagrante de plusieurs garde-fous; et en rafale, des discussions entourant la fonctionnalité de géolocalisation des comptes sur la plateforme X, un mégaprocès visant META et un autre dossier percutant sur les cas de détresse psychologique causée par ChatGPT.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/5024eb5a-0f06-40c7-ba71-ad03ee4a38c5/2025-11-28_12_08_55_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2919</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mark Carney influencé par la tech canadienne?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1128437/mark-carney-influence-par-la-tech-canadienne</link>
+      <guid isPermaLink="false">ohdio-1128437</guid>
+      <pubDate>Fri, 21 Nov 2025 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: les entreprises technologiques canadiennes expriment de plus en plus leur appréciation du gouvernement Carney, mais jusqu’où va leur influence sur les autorités fédérales? Et nous faisons un tour d’horizon, puis une analyse des réactions suscitées sur le web par l’affaire Epstein. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0a33f6e5-58fa-419a-9fe3-45c74ef05f44/2025-11-21_11_49_47_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2899</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Gros plan sur Nick Fuentes</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1127014/gros-plan-sur-nick-fuentes</link>
+      <guid isPermaLink="false">ohdio-1127014</guid>
+      <pubDate>Fri, 14 Nov 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : analyse des mécanismes à l&amp;#x27;œuvre dans la normalisation de l’influenceur d’extrême droite Nick Fuentes; les publicités de drogues illicites abondent sur Facebook et Instagram, et des Canadiens et Canadiennes vulnérables en paient le prix; et l’équipe se demande comment interpréter le fait qu’une chanson 100 % IA se retrouve au sommet des ventes numériques de la plateforme d’écoute en continu Spotify dans la catégorie &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;Country &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;Country &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;Country&lt;/span&gt;&lt;/q&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/96ac1108-931e-4743-a073-41d92fdd2995/2025-11-14_11_09_05_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3016</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Meta amasse une fortune grâce à la fraude</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1125632/meta-amasse-une-fortune-grace-a-la-fraude</link>
+      <guid isPermaLink="false">ohdio-1125632</guid>
+      <pubDate>Fri, 07 Nov 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : des documents internes révèlent les sommes astronomiques accumulées par Meta grâce aux publicités destinées aux arnaques et aux produits interdits; notre enquête sur de faux &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;médias locaux &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;médias locaux &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;médias locaux&lt;/span&gt;&lt;/q&gt; propulsés par l’IA présents sur Facebook; une déposition en cour lève le voile sur le coup d’État avorté à OpenAI; et pour la première fois, une chanteuse créée par l’IA se faufile dans des palmarès Billboard.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/5794ec45-f8e9-46cf-a7ed-d58dbdd77c58/2025-11-07_10_37_34_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2648</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les robots conversationnels en mode électoral</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1123957/les-robots-conversationnels-en-mode-electoral</link>
+      <guid isPermaLink="false">ohdio-1123957</guid>
+      <pubDate>Fri, 31 Oct 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: des robots conversationnels d’IA générative déclarent leur préférence pour certains candidats et candidates aux prochaines élections municipales; Elon Musk lance Grokipedia pour concurrencer Wikipédia; et l’effet des réseaux sociaux sur l’engouement envers la souveraineté chez les jeunes et sur un éventuel troisième référendum.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/45be8922-f113-4d13-8d94-356b8a5ef2ec/2025-10-31_10_54_37_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2954</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Cyberattaques et fraudes en ligne&amp;nbsp;: le Canada vulnérable et mal outillé</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1122360/cyberattaques-et-fraudes-en-ligne-le-canada-vulnerable-et-mal-outille</link>
+      <guid isPermaLink="false">ohdio-1122360</guid>
+      <pubDate>Fri, 24 Oct 2025 14:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: le Canada est mal préparé pour faire face aux cyberattaques, selon la vérificatrice générale; avec l’invitée de la semaine, Fanny Tan, l’équipe des &lt;em&gt;Décrypteurs &lt;/em&gt;analyse ce qui cloche et s’attarde à la nouvelle stratégie nationale antifraude du gouvernement fédéral; et pour clore l’émission, on fait une discussion sur la panne d’AWS et notre dépendance envers les entreprises technologiques américaines.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8193477c-3628-48c1-a5b2-886511b10d70/2025-10-24_10_35_05_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3003</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Des pièges à clics dopés à l’IA faits au Québec</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1120754/des-pieges-a-clics-dopes-a-lia-faits-au-quebec</link>
+      <guid isPermaLink="false">ohdio-1120754</guid>
+      <pubDate>Fri, 17 Oct 2025 14:40:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : l&amp;#x27;analyse d’une enquête de la RTBF sur la production massive d’articles d’actualité rédigés avec l’intelligence artificielle par un site web québécois; la théorie de l&amp;#x27;Internet mort (&lt;em&gt;Dead Internet Theory&lt;/em&gt;), plus vivante que jamais; et un mystérieux investisseur qui s’en met plein les poches en amont d’un des plus gros krachs du marché des cryptos.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/4d096910-6b2b-4f4c-8128-608123c8bce5/2025-10-17_11_52_12_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2918</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Projet de loi C-2&amp;nbsp;: une menace à la vie privée?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1119169/projet-de-loi-c-2-une-menace-a-la-vie-privee</link>
+      <guid isPermaLink="false">ohdio-1119169</guid>
+      <pubDate>Fri, 10 Oct 2025 15:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : est-ce que les amendements apportés au projet de loi C-2 suffisent à apaiser les craintes de &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;surveillance de masse&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;surveillance de masse&amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;surveillance de masse&lt;/span&gt;&lt;/q&gt;?; aux États-Unis, Apple cède encore face aux pressions du président; et des entreprises sont prêtes à vous payer des particuliers pour enregistrer vos conversations et les vendre ensuite à des entreprises de la Big Tech.&lt;/p&gt;&lt;p&gt;*Un extrait d&amp;#x27;une précédente version de ce balado affirmait que le projet de loi C-2 mènerait de facto à l&amp;#x27;installation de portes dérobées dans de systèmes de communications non-chiffrés. L&amp;#x27;information était inexacte, puisque le projet de loi ne fait qu&amp;#x27;ouvrir la porte à leur installation. Le passage a été ajusté.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0b6b93f5-3b53-4f31-a595-d50df09643cf/2025-10-10_15_07_54_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2759</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Réseaux sociaux 100&amp;nbsp;% IA&amp;nbsp;: le déluge</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1116393/reseaux-sociaux-100-ia-le-deluge</link>
+      <guid isPermaLink="false">ohdio-1116393</guid>
+      <pubDate>Fri, 03 Oct 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : virage important dans l’univers des réseaux sociaux. OpenAI et Meta lancent des plateformes calquées sur TikTok et alimentées par des générateurs de vidéos propulsés à l’intelligence artificielle (IA); Open AI étend ses tentacules avec Pulse et Instant Checkout; et Donald Trump s’amuse avec l’IA générative, et cela provoque un malaise.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/612eddfd-700c-4e7c-9488-8c77f90b530b/2025-10-03_11_43_31_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2820</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bulle IA, rachat de TikTok et controverse autour du Tylenol</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1114889/bulle-ia-rachat-de-tiktok-et-controverse-autour-du-tylenol</link>
+      <guid isPermaLink="false">ohdio-1114889</guid>
+      <pubDate>Fri, 26 Sep 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: des sommes astronomiques sont injectées pour sauver la planète IA, une industrie qui flirte avec l’insolvabilité; une analyse de l’entente signée entre la maison-mère de TikTok et le gouvernement américain; et ce que disent vraiment les études scientifiques sur les liens allégués entre la prise d’acétaminophène et l&amp;#x27;autisme.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/b40a673a-6f3d-4853-9a14-77523838148a/2025-09-26_11_19_35_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2917</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Iran-Israël&amp;nbsp;: gare aux images générées par IA, et un cellulaire à la gloire de Trump, un parfum de corruption?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1080217/guerre-iran-israel-images-ia-trump-telephone-mobile-asmr-tiktok</link>
+      <guid isPermaLink="false">ohdio-1080217</guid>
+      <pubDate>Fri, 20 Jun 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: le conflit entre Israël et l’Iran est un terreau très fertile pour les images générées par IA… et la désinformation; le clan Trump se lance dans la téléphonie mobile et les drapeaux rouges se multiplient à l’horizon; des cadres supérieurs de la Silicon Valley sont recrutés par l’armée américaine pour accélérer l’intégration des technologies de pointe; et une tendance «&amp;nbsp;ASMR&amp;nbsp;» sur TikTok pour détendre l’atmosphère.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/6dfe4f47-d996-46a1-b09c-2a6c7489367e/2025-06-20_11_59_33_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2895</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Guerre de l’information à L.A., et ChatGPT et le spectre de la psychose</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1078666/manifestations-los-angeles-desinformation-chatgpt-psychose-etudes-ia</link>
+      <guid isPermaLink="false">ohdio-1078666</guid>
+      <pubDate>Fri, 13 Jun 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: des personnes influenceuses et des créateurs et créatrices de contenus convergent vers Los Angeles pour présenter leur version des manifestations en cours, distorsion des faits en prime; la gauche américaine cherche maladroitement son «&amp;nbsp;Joe Rogan&amp;nbsp;»; on se penche sur les accusations voulant que ChatGPT puisse provoquer des psychoses; et on s’intéresse à deux études qui, coup sur coup, déconstruisent des exploits attribués aux outils d’IA. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/19277535-e70f-4f7b-8cdc-5daf99c2db72/2025-06-13_12_18_48_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3052</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tout ce que l’IA peut deviner sur vos photos, et vastes offensives contre le cybercrime</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1077347/geolocalisation-ia-photos-web-operations-police-cybercrime-marketing</link>
+      <guid isPermaLink="false">ohdio-1077347</guid>
+      <pubDate>Fri, 06 Jun 2025 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: les recherches en géolocalisation dopées à l’IA permettent de presque tout savoir sur les photos publiées sur le web, une avancée qui soulève de sérieuses questions sur le plan éthique; notre invité de la semaine, Jean-Philippe Décarie-Mathieu, décortique deux opérations policières d’envergure contre le cybercrime&amp;nbsp;: au-delà de ce qui est claironné par les autorités, quels sont les résultats réels de ces actions? &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/e34f2588-5516-458b-95e4-76f8e4df6070/2025-06-06_12_43_31_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3177</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La Russie finance-t-elle des vidéastes YouTube au Canada? et Donald Trump ou la monétisation du pouvoir</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1076038/youtubeurs-financement-russie-trump-crypto-droits-auteur-ia-assistant-personnel</link>
+      <guid isPermaLink="false">ohdio-1076038</guid>
+      <pubDate>Fri, 30 May 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: des cybervidéastes du Canada diffusant sur YouTube affirment avoir reçu une offre de financement en provenance de la Russie, une allégation qui soulève de sérieuses questions; Donald Trump a fait des cryptomonnaies une importante source de revenus pour lui et son entourage, suscitant de graves soupçons de corruption et de trafic d’influence; analyse du débat en cours au Royaume-Uni entourant l’IA et la protection des droits d’auteur; et verra-t-on bientôt sur le marché des gadgets sans écran propulsés par l’IA en guise d&amp;#x27;assistants personnels? Tel est le souhait de Sam Altman, qui vient de recruter l’ex-gourou du design chez Apple. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/754b7792-b42d-4776-b17b-565219b4f103/2025-05-30_11_00_38_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3223</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’empire Google met le paquet sur l’IA, et META, bar ouvert pour les pubs frauduleuses</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1074671/google-ia-meta-pubs-fraudes-projet-loi-decouvrabilite-contenu-quebecois</link>
+      <guid isPermaLink="false">ohdio-1074671</guid>
+      <pubDate>Fri, 23 May 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: la petite histoire derrière l’étonnant succès d’une chaîne YouTube d’actualités basée au Canada; les faits saillants du Google I/O 2025, alors que le virage IA du géant Google se confirme et pourrait métamorphoser le web; la fuite de documents internes qui démontre que META fait le choix délibéré de fermer les yeux sur le fléau des pubs frauduleuses; et le projet de loi visant à augmenter la découvrabilité des contenus québécois et francophones sur les grandes plateformes numériques.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/4e12fc4a-59f3-4438-a1c8-816bf3972be7/2025-05-23_11_24_36_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3320</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Balayage oculaire en échange de cryptomonnaies, et l’IA en éducation, l’heure est grave</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1072307/balayage-iris-crypto-sam-altman-worldcoin-ia-education</link>
+      <guid isPermaLink="false">ohdio-1072307</guid>
+      <pubDate>Fri, 16 May 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: un balayage de l’iris pour prouver son humanité en échange de cryptomonnaies, c’est ce que propose WorldCoin, de Sam Altman, qui soulève la controverse alors que sa commercialisation débute aux États-Unis; et on poursuit notre réflexion sur l’enjeu crucial de l’IA en éducation, un sujet qui a suscité beaucoup de réactions et de témoignages la semaine dernière.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8e5e6c37-93de-4e6c-a6e2-060722d74e94/2025-05-16_11_19_12_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3189</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>12 ans de prison pour un cryptofraudeur, et raz-de-marée de l’IA sur les campus universitaires</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1069952/sentence-prison-cryptofraudeur-enquete-ia-livres-electorat-canada</link>
+      <guid isPermaLink="false">ohdio-1069952</guid>
+      <pubDate>Fri, 09 May 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: 12 ans de prison pour un ex-partenaire de la CDPQ anciennement à la tête d’une firme d’investissements en cryptomonnaies; l’IA étend ses tentacules sur les campus universitaires et dans les cégeps en l’absence totale de balises; une enquête lève le voile sur un Canadien sans histoire à la tête du plus important site de porno non consensuelle générée par l’IA; les livres à 100&amp;nbsp;% écrits par l’IA de plus en plus vendus sur Amazon; et retour sur l’effet limité de l’IA sur l’électorat canadien lors de la dernière campagne.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/7a912bbe-527e-44bd-af0e-015091df6211/2025-05-09_11_43_44_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3130</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’influence des balados sur la campagne électorale, et Wikipédia dans la mire de Trump</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1067575/effets-balados-chefs-partis-election-wikipedia-trump-ia-sujets-clivants</link>
+      <guid isPermaLink="false">ohdio-1067575</guid>
+      <pubDate>Fri, 02 May 2025 14:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: en plus de revenir sur des cas de désinformation observés le jour du scrutin, nous évaluons les effets de la participation grandissante des chefs de partis à des balados en période électorale; sans cesse attaquée dans la sphère conservatrice, Wikipédia se trouve désormais dans la mire de l’administration Trump, et notre invitée Ariane Labrèche met en contexte l’ampleur de la menace qui plane sur cette encyclopédie «&amp;nbsp;libre&amp;nbsp;»; et on se demande si l’IA peut nous faire changer d’avis sur des sujets clivants : un test secret mené à ce sujet sur Reddit suscite la controverse.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/630bcc54-8fcb-4d99-9916-457337848122/2025-05-02_10_29_17_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3372</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les publicités frauduleuses à saveur électorale envahissent Facebook</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1066396/publicites-fraude-election-facebook-meta-enfants-influenceurs</link>
+      <guid isPermaLink="false">ohdio-1066396</guid>
+      <pubDate>Fri, 25 Apr 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : de nombreuses publicités électorales frauduleuses circulent sur les plateformes de Meta dans le seul but d’arnaquer des Canadiens et Canadiennes avec des fraudes à la cryptomonnaie; après une période de boycottage de deux ans, la CAQ, le PLQ et le PQ se sont mis à racheter des publicités sur Meta; et on revient sur la série documentaire Netflix &lt;em&gt;Mauvaise influence&lt;/em&gt;,&lt;em&gt; &lt;/em&gt;qui expose les côtés sombres des enfants influenceurs et influenceuses.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/f7367984-8b24-46ce-8cd9-ffc425389ee3/2025-04-25_10_19_02_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3178</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Des arrestations à Montréal reliées à une cyberfraude, et les dessous de la cyberattaque contre 4chan</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1065176/arrestations-montreal-cyberfraude-cyberattaque-4chan</link>
+      <guid isPermaLink="false">ohdio-1065176</guid>
+      <pubDate>Fri, 18 Apr 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : on parle de la SQ et de la GRC qui ont mené une rafle d’importance dans une affaire de cyberfraude utilisant un service d’hameçonnage clé en main conçu au Canada; on fait un tour d’horizon des propositions des partis politiques fédéraux pour lutter contre la fraude; et l’on s’intéresse au controversé forum de discussion 4chan, mis hors circuit après avoir été la cible d’une nébuleuse cyberattaque.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/1e39d113-74c7-48ad-aac8-c1dd6ad4976c/2025-04-18_11_49_18_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2721</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Une possible ingérence chinoise visant Mark Carney, et la modération électorale sur Reddit</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1063929/ingerence-chinoise-mark-carney-moderation-elections-federales-reddit</link>
+      <guid isPermaLink="false">ohdio-1063929</guid>
+      <pubDate>Fri, 11 Apr 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: une opération d’ingérence chinoise visant Mark Carney sur WeChat est-elle réellement en cours?; la campagne électorale telle que vécue par les modérateurs sur Reddit; la petite histoire derrière une publication sur X qui a semé le chaos sur les marchés boursiers; et une discussion sur la frénésie des fans de &lt;em&gt;Minecraft &lt;/em&gt;dans les salles de cinéma.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/37dd4811-f89b-4ec4-b186-aedce64b76da/2025-04-11_11_32_38_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3008</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’IA plus humaine que l’être humain? Et les fausses bandes-annonces démonétisées sur YouTube</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1062505/lia-plus-humaine-que-letre-humain-et-les-fausses-bandes-annonces-demonetisees-sur-youtube</link>
+      <guid isPermaLink="false">ohdio-1062505</guid>
+      <pubDate>Fri, 04 Apr 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: un point de bascule vient-il vraiment d’être franchi par l’intelligence artificielle (IA)? On se pose la question alors que ChatGPT 4.5 a passé «&amp;nbsp;haut la main&amp;nbsp;» le célèbre test Turing; sur YouTube, la production de fausses bandes-annonces de films s’est «&amp;nbsp;industrialisée&amp;nbsp;» avec l’avènement de l’IA générative; et face au tollé causé par cette pratique, deux chaînes d’importance ont été démonétisées.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/a2740e5c-3999-4ece-bb47-7682941a3d23/2025-04-04_11_40_04_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2356</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La pseudoscience en action avec une «&amp;nbsp;ville cachée&amp;nbsp;» sous une pyramide, et la désinformation propulsée par l’IA à saveur électorale</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1061058/la-pseudoscience-en-action-avec-une-ville-cachee-sous-une-pyramide-et-la-desinformation-propulsee-par-lia-a-saveur-electorale</link>
+      <guid isPermaLink="false">ohdio-1061058</guid>
+      <pubDate>Fri, 28 Mar 2025 15:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : anatomie de la prétendue «&amp;nbsp;découverte&amp;nbsp;» d’une ville souterraine sous le plateau de Gizeh, en Égypte, une autre preuve du potentiel hautement viral de la pseudoscience; un site web consacré au chef conservateur Pierre Poilievre démontre (encore) à quel point l’intelligence artificielle pollue le web; et une mise à jour d’OpenAi déclenche une frénésie «&amp;nbsp;Studio Ghibli&amp;nbsp;».&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/c3b34ef4-4b95-424d-8110-84f176050001/2025-03-28_11_13_49_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2546</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les risques de « fitleaking » sur les applis sportives, et la pollution du web dopée à l’IA passée en vitesse supérieure</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1020788/breches-securite-applications-sports-strava-contenu-etranger-ia-reconnaissance-faciale</link>
+      <guid isPermaLink="false">ohdio-1020788</guid>
+      <pubDate>Fri, 21 Mar 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: avec notre invité Jean-Hugues Roy, on se penche sur les brèches de sécurité liées aux applications sportives comme Strava; on s’intéresse à la production massive et à bas prix de contenus étranges générés par l’intelligence artificielle (&lt;em&gt;AI slop&lt;/em&gt;), qui risque de bouleverser profondément le web tel qu’on le connaît; et on parle de la reconnaissance faciale qui se bute à un obstacle de taille au Canada.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8a8ee543-48da-4658-84e0-f12dc6d8a8d2/2025-03-21_11_02_52_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3003</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le plan controversé de Facebook pour conquérir la Chine, et les robots conversationnels dopés à la désinfo russe</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1010491/plan-facebook-meta-chine-robots-ia-cybermenaces-democratie</link>
+      <guid isPermaLink="false">ohdio-1010491</guid>
+      <pubDate>Fri, 14 Mar 2025 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: censure contre profits, une lanceuse d’alerte lève le voile sur un plan concocté en 2015 par Facebook pour conquérir le lucratif marché chinois; les principaux robots conversationnels sont gavés à la désinformation russe, selon une enquête dont on analyse les grandes lignes; et l’IA au service des cybermenaces visant les processus démocratiques.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/d4367c5e-c657-48d3-946e-521cb83ab88c/2025-03-14_11_16_57_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2358</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La montée d’un cran de la cybermenace russe, et l’accès inédit au quotidien des fraudeurs</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1008639/cybermenace-russe-dangers-osint-crimes-guerre-desinformation-fraudes-crypto</link>
+      <guid isPermaLink="false">ohdio-1008639</guid>
+      <pubDate>Fri, 07 Mar 2025 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: en compagnie de notre invitée spéciale Fanny Tan, on analyse la montée en puissance des cybermenaces en provenance de la Russie alors que Washington et Moscou effectuent un rapprochement; on explore les vertus et les dangers de l’utilisation des renseignements d’origine sources ouvertes (Open Source Intelligence, ou OSINT) pour démasquer les crimes de guerre et combattre la désinformation; et grâce à une fuite inédite, on vous présente le quotidien des fraudeurs responsables des faux investissements en cryptomonnaies.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/e88dfdd0-6e0b-4ef5-85f0-5db419392f64/2025-03-07_12_37_03_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3000</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>« Trump Gaza » et l’IA au service de la politique, un possible réseau de dropshipping actif sur Facebook</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1007069/trump-gaza-intelligence-artificielle-politique-reseau-dropshipping-facebook</link>
+      <guid isPermaLink="false">ohdio-1007069</guid>
+      <pubDate>Fri, 28 Feb 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: à quel jeu (dangereux) joue Donald Trump en relayant une vidéo 100&amp;nbsp;% générée par l’intelligence artificielle (IA) de Gaza transformée en station balnéaire? On vous fait part de notre analyse d’un possible réseau de parachutage (&lt;em&gt;dropshipping&lt;/em&gt;) qui sévit sur Facebook, et des chiffres inquiétants sur la musique générée par IA alimentent notre réflexion sur ce phénomène.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8e26c6b8-6be4-45fc-ad54-84a1694aa6c9/2025-02-28_11_13_01_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2689</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>«&amp;nbsp;Cryptoscandale&amp;nbsp;» en Argentine, et la merdification de Reddit</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1005738/cryptoscandale-argentine-merdification-reddit-monetisation-ia-journalisme</link>
+      <guid isPermaLink="false">ohdio-1005738</guid>
+      <pubDate>Fri, 21 Feb 2025 16:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : le président argentin est embourbé dans une grave crise politique pour avoir fait la promotion d’un cryptoactif dont la valeur s’est effondrée; la plateforme Reddit a pris le virage de la monétisation et sa qualité se dégrade : y a-t-il merdification en vue?; et discussion sur l’intégration de l’IA au travail journalistique… Une fausse bonne idée?&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/65dea171-612d-4bd8-a6d0-0c3ce5865aaa/2025-02-21_11_14_30_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2948</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Musk et le spectre du «&amp;nbsp;coup d’État&amp;nbsp;», et Q est-il vraiment de retour?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1004231/musk-coup-etat-qanon-retour-intelligence-artificielle-aide-etrangere-canada</link>
+      <guid isPermaLink="false">ohdio-1004231</guid>
+      <pubDate>Fri, 14 Feb 2025 16:25:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: les actions de l’équipe pilotée par Elon Musk alimentent les craintes de dérives autoritaires; des Canadiens s’inspirent du «&amp;nbsp;Doge&amp;nbsp;» et épluchent les subventions d’aide étrangère du Canada; l’Europe chancelle face à la nécessité de mieux encadrer l’IA; et suspense de courte durée autour du retour improbable de QAnon.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/feebbb27-8a36-4943-93a6-b5272a0a68fb/2025-02-14_11_04_55_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2353</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La Big Tech canadienne opte pour Poilievre, et une purge sur le web aux États-Unis</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1002489/big-tech-elections-poilievre-trump-web-purge</link>
+      <guid isPermaLink="false">ohdio-1002489</guid>
+      <pubDate>Fri, 07 Feb 2025 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : une part significative de l’industrie technologique canadienne se range derrière Pierre Poilievre et énonce ses priorités; une purge est en cours sur les sites web gouvernementaux américains; et les dommages causés par Elon Musk et sa garde rapprochée dans la bureaucratie américaine.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/ee42ddec-7990-4748-a2d4-573204577437/2025-02-07_12_02_37_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2980</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Une bombe nommée DeepSeek et la cyberattaque du siècle aux États-Unis</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1000831/intelligence-artificielle-chat-gpt-trump-gouvernement-chine</link>
+      <guid isPermaLink="false">ohdio-1000831</guid>
+      <pubDate>Fri, 31 Jan 2025 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : en compagnie de notre invité spécial, Jean-Philippe Décarie Mathieu, on plonge au cœur des remous causés par l’entrée en scène du robot conversationnel chinois DeepSeek. Incursion dans les méandres de ce qui serait la cyberattaque la plus massive de l’histoire, et retour sur les conclusions du rapport de la commissaire Hogue sur l’ingérence étrangère.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/1be7822d-f0ec-4160-839c-6dadcb2599a8/2025-01-31_10_30_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3038</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le retour de Donald Trump et la révolte contre les géants du web</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/999401/retour-donald-trump-elon-musk-amazon-quebec-revolte-geants-web</link>
+      <guid isPermaLink="false">ohdio-999401</guid>
+      <pubDate>Fri, 24 Jan 2025 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: Amazon largue le Québec, le salut d’Elon Musk et la révolte naissante contre les géants du numérique. Analyse des possibles répercussions des annonces de l’administration Trump sur l’IA et le web. Et Donald Trump et sa cryptomonnaie&amp;nbsp;: Jeff remet les pendules à l’heure.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/794e461f-9bde-4ee2-9055-321da231505c/2025-01-24_10_45_49_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2537</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les réfugiés de TikTok débarquent sur RedNote et la panne d’idées des géants de la Big Tech</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/998116/refugies-tiktok-rednote-geants-big-tech</link>
+      <guid isPermaLink="false">ohdio-998116</guid>
+      <pubDate>Fri, 17 Jan 2025 18:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : la mise à jour sur le possible bannissement de TikTok aux États-Unis et nos impressions sur RedNote, l’application chinoise sur laquelle se rabattent les réfugiés de TikTok . S’informer à 100 % sur TikTok : Nicholas raconte son expérience. Discussion sur le manque d’innovations chroniques des géants du web.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/52b20243-b9bb-4e1a-920f-3df2ca71568d/2025-01-17_12_12_16_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2776</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Modération et vérification des faits : Meta change de cap</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/996781/moderation-et-verification-des-faits-meta-change-de-cap</link>
+      <guid isPermaLink="false">ohdio-996781</guid>
+      <pubDate>Fri, 10 Jan 2025 18:40:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine :&amp;nbsp; notre réflexion au sujet des changements majeurs sur les plateformes de Meta. La réduction de la modération et l’abolition du programme de vérification des faits sont au cœur de ce virage effectué au nom de la «&amp;nbsp;liberté d’expression&amp;nbsp;» et qui s’inscrit dans un contexte politique bien précis.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/0578b7d0-b6ec-47cd-b2b0-8382a62e64be/2025-01-10_14_02_10_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2614</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La panique semée par des drones aux États-Unis et des artistes fantômes à la solde de Spotify</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/993871/la-panique-semee-par-des-drones-aux-etats-unis-et-des-artistes-fantomes-a-la-solde-de-spotify</link>
+      <guid isPermaLink="false">ohdio-993871</guid>
+      <pubDate>Fri, 20 Dec 2024 16:13:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme de cette semaine : le point sur la panique causée par des drones aperçus dans le ciel du New Jersey. Analyse d’un reportage qui lève le voile sur la production musicale d’une petite armée d’artistes fantômes pilotée par Spotify. Et réflexions sur la dégradation accélérée de nos vies numériques.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/eda9aa6f-9767-48a2-a023-8da67e5196d3/2024-12-20_10_00_36_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2809</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Luigi Mangione, le présumé meurtrier qui fascine le web et le générateur de vidéos Sora lancé par OpenAI</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/992592/luigi-mangione-le-presume-meurtrier-qui-fascine-le-web-et-le-generateur-de-videos-sora-lance-par-openai</link>
+      <guid isPermaLink="false">ohdio-992592</guid>
+      <pubDate>Fri, 13 Dec 2024 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine&amp;nbsp;: tour d’horizon de l’engouement et de la fascination sur le web pour le tueur présumé Luigi Mangione. Nos impressions sur Sora, le générateur de vidéos de l’entreprise OpenAI et notre suivi de la rocambolesque saga électorale qui secoue encore la Roumanie. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/1ef9d0b4-cd4d-43a5-ab89-0f21cbf64c31/2024-12-13_11_47_07_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2585</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>« Oui, allô »&amp;nbsp;: pas de fraude en vue, tomber en amour avec un agent conversationnel, et guerre linguistique sur Reddit</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/991222/oui-allo-pas-de-fraude-en-vue-tomber-en-amour-avec-un-agent-conversationnel-et-guerre-linguistique-sur-reddit</link>
+      <guid isPermaLink="false">ohdio-991222</guid>
+      <pubDate>Fri, 06 Dec 2024 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme de cette semaine&amp;nbsp;: est-ce qu’un simple &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;oui allô &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;oui allô &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;oui allô &lt;/span&gt;&lt;/q&gt; peut vous valoir de vous faire frauder? Pas de panique, des nuances s’imposent. L’amour au temps des robots&amp;nbsp;: les risques d’une liaison avec un agent conversationnel (&lt;em&gt;chatbot)&lt;/em&gt;. Les deux solitudes à la sauce Reddit.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/a4645d0a-0122-4040-bb20-915398125139/2024-12-06_11_51_07_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2556</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>TikTok propulse une étrange rumeur née à Vancouver et alimente une percée de l’extrême droite en Roumanie</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/989218/tiktok-propulse-une-etrange-rumeur-nee-a-vancouver-et-alimente-une-percee-de-lextreme-droite-en-roumanie</link>
+      <guid isPermaLink="false">ohdio-989218</guid>
+      <pubDate>Fri, 29 Nov 2024 16:40:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme de cette semaine&amp;nbsp;: des cris entendus près du port de Vancouver lancent une rumeur qui fait le tour du monde grâce à TikTok. Petite enquête sur cette étrange affaire. En Roumanie, la percée électorale d’un obscur candidat d’extrême droite braque les projecteurs sur TikTok. On vous dit pourquoi. Et gros plan sur un petit scandale né sur Bluesky qui écorche une entreprise d’IA bien connue.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/e1acdc72-51d6-470c-8347-c6a847acbac6/2024-11-29_11_00_51_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2634</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vu sur Facebook : images sexualisées de mineures, et Maripier Morin dénudée dans une pub frauduleuse</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/987622/vu-sur-facebook-images-sexualisees-de-mineures-et-mariepier-morin-denudee-dans-une-pub-frauduleuse</link>
+      <guid isPermaLink="false">ohdio-987622</guid>
+      <pubDate>Fri, 22 Nov 2024 16:36:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : par le biais de l’algorithme de Facebook, des images sexualisées de mineures produites par IA sont apparues sur nos radars. Nous analysons ce phénomène troublant. Sur le même réseau social, la nudité s’est ajoutée au stratagème bien connu des pubs frauduleuses qui usurpent l’identité de personnalités publiques. Cette fois-ci, l’animatrice Mariepier Morin en paie le prix. Analyse de cette autre dérive.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/786c221c-7a33-491d-802e-03f15062a8a0/2024-11-22_11_27_59_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2544</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Bluesky décrypté, TikTok Canada liquidé et victoire juridique d’OpenAI</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/986177/bluesky-decrypte-tiktok-canada-liquide-et-victoire-juridique-dopenai</link>
+      <guid isPermaLink="false">ohdio-986177</guid>
+      <pubDate>Fri, 15 Nov 2024 16:35:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme de cette semaine&amp;nbsp;: au-delà de l’emballement actuel, notre analyse du potentiel du réseau social Bluesky, une discussion autour de la décision d’Ottawa de liquider la filiale canadienne de TikTok et notre regard sur un jugement favorable à OpenAI en matière de droits d’auteur. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/00c5b719-3ed5-4944-ae19-d7a46a5e10a7/2024-11-15_11_18_54_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2512</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Trump élu, la désinformation continue, et une des grandes énigmes du web est enfin résolue</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/984933/trump-elu-la-desinformation-continue-et-une-des-grandes-enigmes-du-web-est-enfin-resolue</link>
+      <guid isPermaLink="false">ohdio-984933</guid>
+      <pubDate>Fri, 08 Nov 2024 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : on analyse l’évolution de la désinformation au cours de la soirée électorale ayant mené à la victoire de Donald Trump, et une des plus grandes énigmes d’Internet a été résolue : l’origine de la chanson &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;la plus mystérieuse &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;la plus mystérieuse &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;la plus mystérieuse &lt;/span&gt;&lt;/q&gt; du web est enfin découverte!&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/88fdc872-e4cb-4e58-a85a-f2cfc3cb3ce8/2024-11-08_11_41_29_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2723</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Une élection qui se joue sur le web, Musk comme joker de Trump, et l’univers des vidéos morbides</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/983366/joe-rogan-twitter-tuer-crimes-peur</link>
+      <guid isPermaLink="false">ohdio-983366</guid>
+      <pubDate>Fri, 01 Nov 2024 14:44:00 +0000</pubDate>
+      <description>&lt;p&gt;L’équipe analyse les stratégies en matière de médias numériques de la candidate et du candidat à la présidentielle américaine. Kamala Harris et Donald Trump ont beaucoup fait campagne en ligne, notamment dans des balados populaires qui partagent leurs idéologies. On se penche aussi sur ce qui motive Elon Musk à tirer les ficelles en faveur du candidat républicain. Et TikTok pullule de renvois vers des vidéos de meurtres; la journaliste spécialisée Camille Lopez démystifie cette fascination pour le moins inquiétante pour la &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;mort en direct &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;mort en direct &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;mort en direct &lt;/span&gt;&lt;/q&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/4a036101-3891-4b86-8810-3516cd67b08c/2024-11-01_09_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2632</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Une fausse vidéo salit Tim Walz et qui croire entre sondages et paris en ligne?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/981781/une-fausse-video-salit-tim-walz-et-qui-croire-entre-sondages-et-paris-en-ligne</link>
+      <guid isPermaLink="false">ohdio-981781</guid>
+      <pubDate>Fri, 25 Oct 2024 16:27:00 +0000</pubDate>
+      <description>&lt;p&gt;On se demande si le colistier de Kamala Harris, Tim Walz, est victime de fausses nouvelles à cause d’une vidéo faite au moyen d’hypertrucage, et on parle du mauvais fonctionnement des détecteurs d&amp;#x27;images IA. On vous explique le phénomène des plateformes de paris comme Polymarket. On cherche à comprendre si les mesures mises en place par Meta pour éradiquer les fausses publicités sont suffisantes. Et l&amp;#x27;équipe commente la visite de Donald Trump dans la cuisine d&amp;#x27;un restaurant McDonald.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/5dd93b27-dbe3-41e8-8b7c-ffe05de17c7b/2024-10-25_11_25_32_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2327</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Fausse pub dans une vraie pub, désinfo autour d’une mort, et musique 100 % IA </title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/979994/fausse-pub-dans-une-vraie-pub-desinfo-autour-dune-mort-et-musique-100-ia</link>
+      <guid isPermaLink="false">ohdio-979994</guid>
+      <pubDate>Fri, 18 Oct 2024 15:35:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme de cette semaine : réflexion autour de l’allusion aux pubs frauduleuses sur Normand Brathwaite… dans une pub avec Normand Brathwaite, le point sur la désinformation entourant la mort tragique d’une étudiante congolaise en Mauricie, et tour de table sur les plus récentes dérives du phénomène de la musique créée avec l’intelligence artificielle qui prend d&amp;#x27;assaut les grandes plateformes d&amp;#x27;écoute en continu.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/37c50ed0-662b-453a-94a5-9281fbb50e14/2024-10-18_11_07_47_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2272</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un an de désinfo Israël-Hamas, le prétendu démasquage de Satoshi, et les pubs de drogue sur Facebook</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/978569/un-an-de-desinfo-israel-hamas-le-pretendu-demasquage-de-satoshi-et-les-pubs-de-drogue-sur-facebook</link>
+      <guid isPermaLink="false">ohdio-978569</guid>
+      <pubDate>Fri, 11 Oct 2024 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au programme cette semaine : après un an de conflit au Proche-Orient, &lt;em&gt;Les décrypteurs&lt;/em&gt; analysent la désinformation qui en découle. L’inventeur du Bitcoin a-t-il vraiment été démasqué cette semaine? Et des publicités de drogues illicites (encore) présentes sur Facebook, une plateforme en pleine métamorphose.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/53ab3960-799a-44e4-8bda-105a4cd78975/2024-10-11_11_37_56_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2518</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La désinfo aux États-Unis, et le point sur les comptes zombies</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/976812/la-desinfo-aux-etats-unis-et-le-point-sur-les-bots</link>
+      <guid isPermaLink="false">ohdio-976812</guid>
+      <pubDate>Fri, 04 Oct 2024 15:14:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;em&gt;Les décrypteurs&lt;/em&gt; profitent de leur retour en ondes pour revisiter un été complètement fou aux États-Unis : la fièvre conspirationniste chez les démocrates, les graves conséquences d’une fausse nouvelle, l’IA au service de Donald Trump et la grande confusion autour des comptes robotisés. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/696710c7-7e3f-4287-85ac-7c9d36c63533/2024-10-04_10_39_17_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2023</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>De la haine sur demande avec ChatGPT-4o et des téléchargements sous surveillance</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/920629/gpt-4o-jailbreak-faille-desinformation-haine-racisme-bittorrent</link>
+      <guid isPermaLink="false">ohdio-920629</guid>
+      <pubDate>Fri, 31 May 2024 15:26:00 +0000</pubDate>
+      <description>&lt;p&gt;Dans le dernier épisode de la saison 1 du balado, Nicholas nous apprend qu&#x27;il a trouvé une faille dans le robot conversationnel ChatGPT-4o et réussi à lui faire rédiger de longs essais truffés de contenus haineux et racistes. Les Décrypteurs analysent cette «&amp;nbsp;erreur&amp;nbsp;» pour le moins inquiétante. De son côté, Jeff lève le voile sur un site web qui permet de savoir ce que les internautes qui utilisent BitTorrent téléchargent sur le web.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/24ce9dc4-4881-44bb-9be0-4773e8feccd4/2024-05-31_11_08_15_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2778</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La désinformation&amp;nbsp;: menace n°1 au Canada, Scarlett Johansson contre OpenAI, et un festival d&#x27;erreurs sur Google</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/918616/rapport-ministere-emploi-developpement-social-scarlett-johansson-open-ia-google</link>
+      <guid isPermaLink="false">ohdio-918616</guid>
+      <pubDate>Fri, 24 May 2024 15:50:00 +0000</pubDate>
+      <description>&lt;p&gt;&lt;em&gt;Les Décrypteurs&lt;/em&gt; commentent un rapport fédéral qui place la désinformation au sommet d&#x27;un palmarès des perturbations majeures qui menacent le Canada, Scarlett Johansson part en guerre contre OpenAI, et l&#x27;intégration de l&#x27;intelligence artificielle à Google fait exploser la quantité d&#x27;erreurs dans les réponses du moteur de recherche. Une (autre) semaine folle en IA.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/ecb681f9-6553-4690-a09c-cb83e3e74ed2/2024-05-24_11_33_36_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2507</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Guerre entre Google et OpenAI&amp;nbsp;: quelles conséquences?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/917668/chatgpt-4o-projet-astra-assistants-vocaux-avenir</link>
+      <guid isPermaLink="false">ohdio-917668</guid>
+      <pubDate>Fri, 17 May 2024 16:08:00 +0000</pubDate>
+      <description>&lt;p&gt;Cette semaine, OpenAI et Google ont présenté coup sur coup leurs nouveaux assistants vocaux multimodaux&amp;nbsp;: ChatGPT-4o et le Projet Astra. Or, au-delà de ces robots conversationnels, les deux entreprises ont aussi précisé leur vision de l&#x27;avenir en matière d&#x27;intelligence artificielle. L&#x27;équipe des Décrypteurs nous propose son regard critique sur les visées stratégiques de ces éléments clés de l&#x27;industrie et de l&#x27;incidence qu&#x27;auront ces nouvelles technologies dans nos vies.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/3ec60581-f785-4d61-958c-2fe0a1b1fa93/2024-05-17_11_55_05_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2596</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Guerre interne chez Google, ingérence étrangère confirmée et mensonge d’Hollywood</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/916591/moteur-recherche-resultats-desinformation-effets-speciaux</link>
+      <guid isPermaLink="false">ohdio-916591</guid>
+      <pubDate>Fri, 10 May 2024 16:38:00 +0000</pubDate>
+      <description>&lt;p&gt;La qualité des résultats de recherche est en chute libre sur Google et l&#x27;équipe raconte l&#x27;histoire de l&#x27;homme qui serait responsable de cette dérive. Les Décrypteurs expliquent aussi ce qui fait que le Canada est vulnérable face à la désinformation venue de l&#x27;étranger et nous disent pourquoi l&#x27;industrie du cinéma nous ment au sujet des effets spéciaux générés par ordinateur.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/cf3a9698-9b0e-48c3-acbf-51fba129ae06/2024-05-10_12_07_54_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2377</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Des milliers d&#x27;internautes à la recherche d&#x27;une chanson perdue, et des gadgets d’IA conspués</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/914591/everybody-knows-enquete-rabbit-ra-humain-aipin-gemini-intelligence-artificielle</link>
+      <guid isPermaLink="false">ohdio-914591</guid>
+      <pubDate>Fri, 03 May 2024 15:15:00 +0000</pubDate>
+      <description>&lt;p&gt;L&#x27;équipe des &lt;em&gt;Décrypteurs&lt;/em&gt; raconte comment une petite armée d&#x27;internautes est parvenue à retracer après trois ans d&#x27;enquête les origines d&#x27;une mystérieuse chanson perdue. Notre collègue Stéphanie Dupuis explique comment les attentes élevées envers deux gadgets propulsés par l&#x27;intelligence artificielle (IA), Rabbit R1 et Human Ai Pin, ont abouti à une amère déception et à une salve de critiques sur Internet. Et Gemini, la nouvelle intelligence artificielle de Google, débarque sur mobile! C&#x27;est l&#x27;occasion de glisser quelques mots sur ce que cela changera dans nos cellulaires.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/23720961-33fd-4917-8f43-dc5140e8d4d5/2024-05-03_10_54_43_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2279</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La stratégie derrière Meta AI, l’ultimatum américain pour la vente de TikTok, et la (re)découverte de Normand Marineau par le Québec</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/913526/intelligence-artificielle-mark-zuckerberg-roulement-r-tiktok-chine</link>
+      <guid isPermaLink="false">ohdio-913526</guid>
+      <pubDate>Fri, 26 Apr 2024 15:44:00 +0000</pubDate>
+      <description>&lt;p&gt;Cette semaine, gros plan sur les visées de Mark Zuckerberg avec le lancement de l&#x27;assistant virtuel Meta AI; notre collègue Stéphanie Dupuis, de Radio-Canada Techno, vient nous en parler. Aussi, l&#x27;équipe analyse des retombées potentielles de la loi visant à couper les liens de TikTok avec la Chine. Enfin, nous faisons un clin d&#x27;œil à la folie Normand «&amp;nbsp;Marrrineau&amp;nbsp;» qui s&#x27;est emparée du web.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/44dcc3e2-bdef-4400-834e-2679c6b0bbd8/2024-04-26_10_03_39_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2191</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Opération mondiale contre des fraudeurs, révélations-choc sur TikTok, et engouement autour de Joël Legendre</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/912493/donnee-chine-fraude-operation-labhost-police-canada-grc</link>
+      <guid isPermaLink="false">ohdio-912493</guid>
+      <pubDate>Fri, 19 Apr 2024 15:06:00 +0000</pubDate>
+      <description>&lt;p&gt;Une opération policière internationale force la suppression d&#x27;une plateforme canadienne très prisée des fraudeurs liés aux textos d&#x27;hameçonnage. Une trentaine de fraudeurs se sont fait arrêter dans le monde entier. Les Décrypteurs racontent ce coup de filet. L&#x27;équipe se penche aussi sur les témoignages d&#x27;une dizaine d&#x27;ex-employés de TikTok et sur les données de ses utilisateurs qui seraient transmises à la Chine. En prime : le sursaut de popularité de la musique traditionnelle québécoise... une gracieuseté de Joël Legendre.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/132dfb93-62ab-4d43-b564-1a5df3af68cf/2024-04-19_10_03_42_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2049</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le Canada et l’ingérence étrangère, la pénurie de données en IA et le phénomène &amp;laquo;&amp;nbsp;TikTok Rizz Party&amp;nbsp;&amp;raquo;</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/911377/canada-ingerence-donnees-intelligence-artificielle-tiktok-rizz-party</link>
+      <guid isPermaLink="false">ohdio-911377</guid>
+      <pubDate>Fri, 12 Apr 2024 16:05:00 +0000</pubDate>
+      <description>&lt;p&gt;Les décrypteurs analysent deux cas précis qui ont retenu leur attention lors de la première semaine d&#x27;audience de l&#x27;enquête publique sur l&#x27;ingérence étrangère. L&#x27;équipe s&#x27;attarde aussi au désespoir des bonzes de l&#x27;IA en raison de la ruée vers les données, qui atteignent déjà leurs limites. De son côté, Nicholas décortique les mille et un visages du phénomène viral «&amp;nbsp;TikTok Rizz Party&amp;nbsp;», une vidéo virale de 17&amp;nbsp;secondes qui compte près de 60&amp;nbsp;millions de vues en un mois.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/4596f17a-6ac8-4b07-9263-9fdd1a9edf9a/2024-04-12_11_09_46_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2741</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’IA utilisée par Israël comme instrument de guerre, la &amp;laquo;&amp;nbsp;menace&amp;nbsp;&amp;raquo; des téléphones intelligents, et la désinfo liée à l’éclipse solaire</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/899047/ia-israel-guerre-telephone-eclipse-solaire</link>
+      <guid isPermaLink="false">ohdio-899047</guid>
+      <pubDate>Fri, 05 Apr 2024 16:07:00 +0000</pubDate>
+      <description>&lt;p&gt;Jeff analyse l&#x27;utilisation présumée d&#x27;un outil d&#x27;IA par l&#x27;armée israélienne dans le cadre de ses attaques aériennes contre Gaza, l&#x27;équipe commente le débat entourant les liens potentiels entre les enjeux de santé mentale chez les jeunes et leur utilisation des téléphones intelligents, et Maire-Pier fait un tour d&#x27;horizon surréel des croyances associées à l&#x27;éclipse solaire totale, prévue le 8&amp;nbsp;avril prochain.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/2e7ea7d5-ead7-4a57-ab89-3bd922cc938d/2024-04-05_11_37_52_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2287</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les soupçons d’espionnage envers Temu, et les controverses autour de Kate Middleton et d’un hypertrucage</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/873974/site-chinois-ia-influenceuse-video-polemique</link>
+      <guid isPermaLink="false">ohdio-873974</guid>
+      <pubDate>Fri, 29 Mar 2024 16:40:00 +0000</pubDate>
+      <description>&lt;p&gt;L&#x27;entreprise chinoise Temu s&#x27;impose de plus en plus dans l&#x27;univers du commerce en ligne. L&#x27;équipe décortique son succès planétaire et relativise certaines craintes liées à nos données personnelles, malgré de vraies polémiques. Une vidéo virale d&#x27;une prétendue influenceuse a rapidement été étiquetée cette semaine comme étant générée à 100&amp;nbsp;% par IA. Une vidéo de la princesse Kate Middleton a subi le même sort. Dans les deux cas, c&#x27;est faux! L&#x27;équipe vous fait part de ses réflexions à ce sujet.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/d3ba93c5-8115-4f39-ac16-f220c3290ecb/2024-03-29_12_18_55_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2350</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le &amp;laquo;&amp;nbsp;bain de sang&amp;nbsp;&amp;raquo; de Donald Trump, et Jésus Christ à la sauce IA</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/872678/violence-defaite-economie-jesus-crevette-ramen-facebook</link>
+      <guid isPermaLink="false">ohdio-872678</guid>
+      <pubDate>Fri, 22 Mar 2024 15:32:00 +0000</pubDate>
+      <description>&lt;p&gt;Quand Donald Trump promet «&amp;nbsp;un bain de sang&amp;nbsp;»... Les Décrypteurs analysent comment un extrait décontextualisé d&#x27;un discours de l&#x27;ancien président des États-Unis a fait le tour du web et des médias. «&amp;nbsp;Jésus-crevettes&amp;nbsp;», «&amp;nbsp;Jésus-ramen&amp;nbsp;», etc.&amp;nbsp;: d&#x27;où sortent toutes ces images délirantes générées par l&#x27;intelligence artificielle (IA) qui se multiplient sur Facebook? L&#x27;équipe décortique cet autre exemple de pollupostage viral.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/c34ba5fe-1815-4c6c-84a2-b1f5af8bc3a1/2024-03-22_11_03_55_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2246</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La menace d’une interdiction de TikTok aux États-Unis, le pessimisme des gros joueurs de l’IA et le nettoyage numérique</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/871468/loi-bannir-reseau-social-pekin-google-amazon-intelligence-artificielle</link>
+      <guid isPermaLink="false">ohdio-871468</guid>
+      <pubDate>Fri, 15 Mar 2024 17:02:00 +0000</pubDate>
+      <description>&lt;p&gt;TikTok est à nouveau au cœur de l&#x27;actualité cette semaine. Cette fois-ci, des membres de la Chambre des représentants des États-Unis ont massivement voté en faveur d&#x27;un bannissement de TikTok si le réseau social ne coupe pas ses liens avec la société mère ByteDance, basée en Chine. Nicholas De Rosa se penche sur le sujet. Jeff Yates explique pourquoi Google et Amazon diminuent leurs attentes vis-à-vis de l&#x27;IA générative. Et Alexis De Lancer parle des gestes écologiques pour réduire son empreinte environnementale à l&#x27;occasion de la Journée mondiale du nettoyage numérique.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/1ab2e577-a810-492c-be72-41ffe93221b0/2024-03-15_11_48_48_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2182</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Des conspirations virales inventées par IA pour faire de l’argent, et découverte de la nouvelle IA Claude</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/867144/intelligence-artificielle-chatpgpt-desinformation-anthropic</link>
+      <guid isPermaLink="false">ohdio-867144</guid>
+      <pubDate>Fri, 08 Mar 2024 16:50:00 +0000</pubDate>
+      <description>&lt;p&gt;On fait un gros plan sur une tendance en vogue sur TikTok&amp;nbsp;: des contenus viraux et de la désinformation créés par l&#x27;intelligence artificielle (IA) censés générer beaucoup de revenus. Et l&#x27;équipe discute à bâtons rompus de l&#x27;arrivée de Claude 3, le modèle d&#x27;IA de l&#x27;entreprise Anthropic prétendument plus performant que ChatGPT-4.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/5fab8362-4887-4c91-b42a-ac76397b8e90/2024-03-08_10_57_38_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2353</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les effets secondaires des vaccins contre la COVID-19, projet de loi sur les méfaits en ligne, et vos données vendues à l’IA</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/865915/vaccin-covid-loi-63-tumblr-open-ai-midjourney</link>
+      <guid isPermaLink="false">ohdio-865915</guid>
+      <pubDate>Fri, 01 Mar 2024 16:27:00 +0000</pubDate>
+      <description>&lt;p&gt;Marie-Pier décortique une étude mondiale qui s&#x27;est penchée sur les effets secondaires des vaccins contre la COVID-19. Nicholas explique en quoi consiste le projet de loi 63 sur les préjudices en ligne, qui vise notamment à protéger les enfants de certains contenus dangereux. De son côté, Jeff s&#x27;intéresse aux sites Tumblr et Wordpress qui vendent les données de leurs usagers et usagères aux plateformes d&#x27;intelligence artificielle OpenAI et Midjourney.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/dde3c839-0bd1-4ece-b81f-aab051ae0798/2024-03-01_10_58_59_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2321</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Notre plus importante enquête enfin dévoilée, la révolution Sora et l&#x27;erreur coûteuse de Air Canada</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/864669/fraude-cybercrime-decrypteurs-canada-ukraine-elon-musk-infiltration</link>
+      <guid isPermaLink="false">ohdio-864669</guid>
+      <pubDate>Fri, 23 Feb 2024 17:59:00 +0000</pubDate>
+      <description>&lt;p&gt;Jeff et Nicholas racontent leur plus importante enquête réalisée à ce jour&amp;nbsp;: une incursion dans un vaste stratagème frauduleux qui vise des Canadiens et Canadiennes depuis l&#x27;Ukraine. L&#x27;équipe se penche aussi sur le générateur de vidéos Sora dévoilé par OpenAI et on fait un tour d&#x27;horizon des récents ratés dans le monde des robots conversationnels avec ChatGPT et Air Canada. En fin d&#x27;épisode, Jeff revient sur un admirateur d&#x27;Elon Musk qui a semé le doute chez bien des personnes.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/6b184211-a001-411d-9ccd-fdc3361abd85/2024-02-23_12_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2322</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Un faux défi TikTok cause la panique, des esclaves fraudent des Canadiens et une histoire de poulet</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/862504/defi-acte-fatal-danger-fraude-arnaque-cryptomonnaies-cole-caufield</link>
+      <guid isPermaLink="false">ohdio-862504</guid>
+      <pubDate>Fri, 16 Feb 2024 16:31:00 +0000</pubDate>
+      <description>&lt;p&gt;Cette semaine, Nicholas revient sur un (autre) faux défi lancé sur TikTok la veille de la Saint-Valentin et qui a inquiété bien du monde. Jeff nous raconte le terrible récit des centaines de milliers de Cambodgiennes et de Cambodgiens réduits à l&#x27;esclavage pour frauder la population canadienne avec la cryptomonnaie. Et une belle histoire, publiée sur X, mêlant la chaîne de restauration rapide Poulet Rouge et Cole Caufield, le joueur de hockey des Canadiens de Montréal.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/805e4238-e734-4310-b64e-ce1cb6781bf0/2024-02-16_11_10_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1960</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La révision de la politique de Meta sur l’IA, la vérité sur Bigfoot, et la face cachée de YouTube</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/861253/politique-meta-ia-bigfoot-yeti-etude-ours-deep-youtube</link>
+      <guid isPermaLink="false">ohdio-861253</guid>
+      <pubDate>Fri, 09 Feb 2024 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Cette semaine, Nicholas nous parle de la volonté de Meta d&#x27;instaurer des filigranes sur les images générées par l&#x27;intelligence artificielle (IA) sur ses réseaux (Facebook, Instagram, Threads) et des failles de sa stratégie contre la désinformation politique. Marie-Pier nous dévoile les découvertes d&#x27;une étude concernant les «&amp;nbsp;apparitions&amp;nbsp;» du fameux Bigfoot (ou Sasquatch), et Jeff nous révèle d&#x27;étonnantes données sur la face cachée de la plateforme YouTube, également appelée le «&amp;nbsp;deep YouTube&amp;nbsp;».&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/3b6841b8-c6ac-48c4-bc0f-dc9e9a0bbf8f/2024-02-09_10_22_46_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2224</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Taylor Swift&amp;nbsp;: images choquantes et complots, et la guerre TikTok-Universal</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/860045/decrypteurs-taylor-swift-theories-complot-universal-tiktok-licences</link>
+      <guid isPermaLink="false">ohdio-860045</guid>
+      <pubDate>Fri, 02 Feb 2024 16:15:00 +0000</pubDate>
+      <description>&lt;p&gt;Les Décrypteurs s&#x27;intéressent aux raisons qui font que la complosphère américaine est obsédée par Taylor Swift. La qualification de son petit ami, Travis Kelce, au Super Bowl a d&#x27;ailleurs aggravé le phénomène. L&#x27;histoire derrière les images choquantes de la mégastar pop générées par IA et les conséquences du retrait des chansons de la maison de disques Universal Music sur TikTok sont aussi au menu de la semaine.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/8527517c-f3b1-4bb5-9203-a57024344d15/2024-02-02_10_37_52_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1722</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les mesures d’urgence jugées injustifiées, des fraudeurs qui imitent vos proches, et un filtre pour empoisonner l’IA</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/857751/image-canada-rogan-ia-fraudes</link>
+      <guid isPermaLink="false">ohdio-857751</guid>
+      <pubDate>Fri, 26 Jan 2024 15:45:00 +0000</pubDate>
+      <description>&lt;p&gt;L&#x27;équipe décrypte le jugement sur la Loi des mesures d&#x27;urgence du Canada, et s&#x27;intéresse à l&#x27;image d&#x27;un Canada «&amp;nbsp;autoritaire&amp;nbsp;» qui se développe dans la complosphère internationale, véhiculée notamment par Tucker Carlson et Joe Rogan; Nicholas De Rosa démystifie les fraudes de type grands-parents soi-disant aidées par l&#x27;intelligence artificielle (IA); et Jeff Yates nous parle de l&#x27;émergence d&#x27;outils novateurs pour protéger les œuvres artistiques contre l&#x27;IA.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/7959c339-c67e-4c72-ba61-b5a30ca21123/2024-01-26_09_21_33_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2026</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Ce qu’est la &amp;laquo;&amp;nbsp;maladie X&amp;nbsp;&amp;raquo;, un complotiste à l’origine de feux de forêt, et pourquoi le web se dégrade</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/853422/davos-quebec-complosphere-desinformation-declin</link>
+      <guid isPermaLink="false">ohdio-853422</guid>
+      <pubDate>Fri, 19 Jan 2024 16:28:00 +0000</pubDate>
+      <description>&lt;p&gt;Les Décrypteurs se penchent sur une discussion au Forum économique mondial de Davos sur la «&amp;nbsp;maladie X&amp;nbsp;», qui nourrit l&#x27;imagination de la complosphère; au Québec, l&#x27;aveu de culpabilité d&#x27;un Québécois ayant provoqué des feux de forêt déclenche une autre vague de désinformation; et l&#x27;équipe s&#x27;intéresse au phénomène de «&amp;nbsp;merdification&amp;nbsp;», grand responsable entre autres du déclin de la qualité de l&#x27;information sur des plateformes telles que Amazon ou Google, et sur le web tel que vous l&#x27;avez connu.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/487db39e-44d1-4b47-a5bf-bcb6990268f3/2024-01-19_09_53_48_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2172</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Les dessous de la &amp;laquo;&amp;nbsp;liste&amp;nbsp;&amp;raquo; d&#x27;Epstein, des procès contre les cadors de l&#x27;IA, et le succès des Stanley Cups</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/852113/desinformation-ia-actions-juridiques-stanley-cups</link>
+      <guid isPermaLink="false">ohdio-852113</guid>
+      <pubDate>Fri, 12 Jan 2024 15:32:00 +0000</pubDate>
+      <description>&lt;p&gt;De retour de vacances, les Décrypteurs se penchent sur la centaine de documents de cour liés à l&#x27;affaire Epstein qui ont été récemment rendus publics, ouvrant la voie à beaucoup de désinformation. Sur le front de l&#x27;intelligence artificielle (IA), plusieurs actions juridiques d&#x27;envergure pourraient briser l&#x27;élan de cette filière technologique. Et l&#x27;équipe s&#x27;intéresse aussi à un succès viral (pourtant pas si nouveau)&amp;nbsp;: les gobelets isothermiques Stanley Cups.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/ee5755fd-2ed5-400e-aaf1-759adc969f5c/2024-01-12_09_29_31_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1926</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Foire aux questions&amp;nbsp;: on vous répond! (notre travail, IA, arnaques…)</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/849197/techno-desinformation-web-ia-arnarques-travail</link>
+      <guid isPermaLink="false">ohdio-849197</guid>
+      <pubDate>Fri, 22 Dec 2023 15:42:00 +0000</pubDate>
+      <description>&lt;p&gt;Comme promis, le dernier épisode de l&#x27;année&amp;nbsp;2023 prend la forme d&#x27;une foire aux questions! L&#x27;équipe des &lt;em&gt;Décrypteurs&lt;/em&gt; prend le temps de répondre à plusieurs interrogations soumises par le public. Notre travail, l&#x27;intelligence artificielle (IA), la désinformation et les arnaques web sont au menu de cette édition spéciale.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/9a3237c9-eb9f-4a94-b4bd-352e47363f0e/2023-12-22_10_09_03_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2269</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>La décentralisation de Threads, un fou rire dans l&#x27;équipe causé par des chansons générées par l’IA, et la révélation d’un gourou montréalais en Californie</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/848127/threads-ia-anna-indiana-gourou-silicon-valley</link>
+      <guid isPermaLink="false">ohdio-848127</guid>
+      <pubDate>Fri, 15 Dec 2023 17:21:00 +0000</pubDate>
+      <description>&lt;p&gt;Threads, le concurrent de X lancé par Meta, fait ses premiers pas vers sa décentralisation; Jeff nous explique ce qu&#x27;il faut savoir. Marie-Pier fait écouter, non sans peine, la nouvelle chanson d&#x27;Anna Indiana 100&amp;nbsp;% générée par l&#x27;intelligence artificielle (IA). Et Nicholas nous parle de la nouvelle «&amp;nbsp;religion&amp;nbsp;» qui est en vogue à la Silicon Valley et dont le «&amp;nbsp;gourou&amp;nbsp;» est Montréalais.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/553ce9f2-099a-4bf2-9464-5cd7f2b68f21/2023-12-15_11_44_57_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2290</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le malaise de Valérie Plante vu par les antivax, Google lance Gemini, et la folie de GTA&amp;nbsp;6</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/846916/antivax-valerie-plante-gemini-google-gta-6-jeu-video</link>
+      <guid isPermaLink="false">ohdio-846916</guid>
+      <pubDate>Fri, 08 Dec 2023 16:15:00 +0000</pubDate>
+      <description>&lt;p&gt;L&#x27;équipe des &lt;em&gt;Décrypteurs&lt;/em&gt; commente la réaction viscérale des antivaccins au malaise subi par Valérie Plante, le «&amp;nbsp;hype&amp;nbsp;» entourant le lancement de Gemini, ce qui se trame derrière les suppressions d&#x27;emplois dans les médias et la frénésie autour de l&#x27;arrivée de GTA 6.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/8b5b90d2-2a63-4e08-9aed-53913a203938/2023-12-08_11_53_31_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2009</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Explosion de la porno générée par IA, mensonges de ChatGPT, et humiliation d’une chanteuse IA</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/845694/chatpgpt-porngraphie-anna-indiana-chanteuse-intelligence-artificielle-failles</link>
+      <guid isPermaLink="false">ohdio-845694</guid>
+      <pubDate>Fri, 01 Dec 2023 15:48:00 +0000</pubDate>
+      <description>&lt;p&gt;La troublante popularité de sites web qui permettent de dénuder quiconque grâce à l&#x27;intelligence artificielle (IA); la fiabilité des moteurs de recherche menacée par les failles de ChatGPT; et une «&amp;nbsp;chanteuse&amp;nbsp;» 100&amp;nbsp;% conçue par IA conspuée sur le web.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/99569bc7-f010-4b2f-9b1a-67c0dab90faa/2023-12-01_10_06_06_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2088</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Folle semaine du côté d’OpenAI, l’homme le plus riche au pays face à la justice, et le phénomène Andrew Tate</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/839687/open-ai-andrew-tate-masculiniste-sam-altman</link>
+      <guid isPermaLink="false">ohdio-839687</guid>
+      <pubDate>Fri, 24 Nov 2023 16:02:00 +0000</pubDate>
+      <description>&lt;p&gt;À quoi joue Sam Altman? Les Décrypteurs se penchent sur les dessous de la saga OpenAI. Jeff nous parle de l&#x27;assourdissant silence médiatique entourant l&#x27;inculpation de l&#x27;homme le plus riche au pays et l&#x27;équipe analyse la popularité tenace d&#x27;Andrew Tate, notamment chez les jeunes.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/59701cc0-6086-4bcf-8cf1-7e863c3ca335/2023-11-24_11_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2195</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le streamer xQc banni du casino, Ben Laden viral sur TikTok, et l&#x27;erreur de l’armée israélienne</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/838368/israel-videos-hopital-ben-laden-armee-xqc-tiktok</link>
+      <guid isPermaLink="false">ohdio-838368</guid>
+      <pubDate>Fri, 17 Nov 2023 16:18:00 +0000</pubDate>
+      <description>&lt;p&gt;Cette semaine, la journaliste Stéphanie Dupuis est à la table des Décrypteurs pour parler des «&amp;nbsp;malheurs&amp;nbsp;» de l&#x27;instavidéaste québécois xQc. L&#x27;équipe analyse également l&#x27;étonnante popularité sur TikTok de l&#x27;architecte des attentats du 11&amp;nbsp;septembre&amp;nbsp;2001, Oussama Ben Laden, et la médiatisation problématique d&#x27;une vidéo entièrement produite par l&#x27;armée israélienne dans le contexte du conflit qui oppose le Hamas et Israël.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/ebb09eff-cdd6-4a23-a35f-97186d48e1e4/2023-11-17_11_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1642</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Le danger des photos de guerre générées par l’IA, la fin de Omegle, et une fête qui tourne mal</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/837132/intelligence-artificielle-photos-guerre-isreal-hamas-omegle-nft</link>
+      <guid isPermaLink="false">ohdio-837132</guid>
+      <pubDate>Fri, 10 Nov 2023 15:30:00 +0000</pubDate>
+      <description>&lt;p&gt;L&#x27;équipe des Décrypteurs réagit à la vente d&#x27;images générées par l&#x27;intelligence artificielle du conflit au Proche-Orient, à la mort du site de discussions vidéo en direct Omegle et à une fête d&#x27;adeptes de NFT qui s&#x27;est terminée aux urgences.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/2b495e04-4a77-47fa-b9ec-b2588755500b/2023-11-10_11_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1879</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Tirer profit de la guerre sur X, réglementer l&#x27;IA, et analyser les bottes de Ron DeSantis</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/833463/compte-propalestine-twitter-bella-hadid-intelligence-artificelle-decret-joe-biden-ron-desantis-bottes</link>
+      <guid isPermaLink="false">ohdio-833463</guid>
+      <pubDate>Fri, 03 Nov 2023 20:05:00 +0000</pubDate>
+      <description>&lt;p&gt;Cette semaine, l&#x27;équipe des Décrypteurs parle des dessous d&#x27;un compte X très populaire auprès des gens qui ont une posture pro-palestinienne, de l&#x27;hypertrucage dont est victime une mannequin d&#x27;origine palestinienne, du décret de Joe Biden pour contrer les dangers de l&#x27;intelligence artificielle, mais aussi de la dégradation de Facebook et de la double fonction des bottes du gouverneur de Floride Ron DeSantis.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/6bd326b5-3afa-4e51-a14c-5f9696db67c8/2023-11-03_11_30_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2382</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Désinformation à propos des otages du Hamas, la face cachée d&#x27;Amazon, et panique autour des punaises</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/831463/hamas-otages-amazon-punaises-lit-twitter</link>
+      <guid isPermaLink="false">ohdio-831463</guid>
+      <pubDate>Fri, 27 Oct 2023 17:10:00 +0000</pubDate>
+      <description>&lt;p&gt;Les otages comme outil de propagande dans la guerre Israël-Hamas. &lt;em&gt;The Great Amazon Heist&lt;/em&gt; : une enquête rocambolesque sur le côté sombre d&#x27;Amazon. Des Russes soupçonnés d&#x27;avoir généré de faux articles sur «&amp;nbsp;l&#x27;épidémie&amp;nbsp;» de punaises de lit en France. Le déclin de Twitter, un an après son rachat par Elon Musk.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/1f67d19d-c976-4a0b-b1b9-f1680b71b8c0/2023-10-27_12_15_53_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1843</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Brouillard de guerre, vol de données génétiques et panique morale sur TikTok</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/814752/desinformation-guerre-reseaux-sociaux-donnees-fuite-defi-tik-tok</link>
+      <guid isPermaLink="false">ohdio-814752</guid>
+      <pubDate>Fri, 20 Oct 2023 14:35:00 +0000</pubDate>
+      <description>&lt;p&gt;Hôpital «&amp;nbsp;bombardé&amp;nbsp;», bébés «&amp;nbsp;décapités&amp;nbsp;»... La confusion et la désinformation persistent autour du conflit Israël-Hamas. Les Décrypteurs commentent aussi la fuite majeure de données personnelles sur un site consacré à la génétique et décortiquent la panique morale provoquée par un autre défi bidon sur TikTok.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/9a0c5da8-77fd-4106-b93a-24bfe805d59f/2023-10-20_00_39_36_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1908</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pubs de pistolets sur Facebook, un Nobel contesté et le délire GameStop</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/812389/pub-armes-facebook-prix-nobel-vaccin-arn-messagers-gamestop</link>
+      <guid isPermaLink="false">ohdio-812389</guid>
+      <pubDate>Fri, 06 Oct 2023 16:33:00 +0000</pubDate>
+      <description>&lt;p&gt;L&#x27;apparition de publicités de pistolets sur Facebook fait réagir les Décrypteurs, qui abordent aussi dans cette émission la contestation du prix Nobel de médecine par une figure de proue du mouvement antivaccin, et on discute de la spirale conspirationniste de spéculateurs et spéculatrices qui s&#x27;intéressent à l&#x27;affaire du magasin de jeux vidéos GameStop.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/d6f48f1d-0eac-404c-8e7c-523bbf089aab/2023-10-06_12_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1841</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Troller Taylor Swift pour de l’argent, qui se fait le plus arnaquer en ligne&amp;nbsp;? Et les actus IA</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/811096/trolls-fraudes-cybersecurite-arnaque-taylor-swift-boomers</link>
+      <guid isPermaLink="false">ohdio-811096</guid>
+      <pubDate>Fri, 29 Sep 2023 15:55:00 +0000</pubDate>
+      <description>&lt;p&gt;Dans cette première émission, on se demande qui de la génération Z ou de celle des baby-boomers tombe le plus dans le piège des arnaques sur le web. On vous parle du fait que troller, c&#x27;est-à-dire envoyer des messages provocateurs sur Internet, est payant, même aux dépens de Taylor Swift, et on présente quelques nouveautés dans l&#x27;univers de l&#x27;intelligence artificielle.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/e6744fcc-587b-49ed-a1e6-ec9d554bad25/2023-09-29_11_50_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1775</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Décrypteurs&amp;nbsp;: le balado – bande-annonce</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/805618/desinformation-tendance-actualite-techno</link>
+      <guid isPermaLink="false">ohdio-805618</guid>
+      <pubDate>Mon, 28 Aug 2023 19:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Les décrypteurs passent de la télé au balado! L&#x27;équipe échange sur ce qui a retenu son attention dans l&#x27;actualité de la semaine : des phénomènes web, des tendances virales, de l&#x27;intelligence artificielle, de la science et des technologies. Des discussions sans montage, spontanées et très décontractées pour distinguer le vrai du faux et, surtout, lutter contre la désinformation.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-static.akamaized.net/mp4/dd941ef0-5bb6-466d-b538-a81017dc79ef/2023-08-28_15_00_00_decrypteurslebaladoohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>72</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

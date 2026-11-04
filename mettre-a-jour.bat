@@ -10,6 +10,7 @@ git pull --rebase --autostash || goto :erreur
 echo.
 echo === Generation des flux
 python ohdio_rss.py || goto :erreur
+python qub_rss.py || goto :erreur
 
 echo.
 echo === Envoi sur GitHub

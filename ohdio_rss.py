@@ -20,8 +20,13 @@ EMISSIONS = [
     "https://ici.radio-canada.ca/ohdio/balados/7135/pires-moments-histoire-charles-beauchesne-humoriste",
     "https://ici.radio-canada.ca/ohdio/premiere/emissions/3855/aujourd-hui-l-histoire",
     "https://ici.radio-canada.ca/ohdio/premiere/emissions/6056/moteur-de-recherche",
-
-
+    "https://ici.radio-canada.ca/ohdio/balados/13247/louis-blouin-aux-etats-unis-de-trump",
+    "https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs",
+    "https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer",
+    "https://ici.radio-canada.ca/ohdio/balados/5548/histoires-enquete-reportage-proces-affaire-judiciaire/saison-9",
+    "https://ici.radio-canada.ca/ohdio/balados/12185/enquete-de-crime-une-histoire-presque-vraie",
+    "https://ici.radio-canada.ca/ohdio/balados/12949/ecotherapie-journal-dun-cataclysme",
+    "https://ici.radio-canada.ca/ohdio/balados/12165/chiens-ecrases-nouvelles-insolites-sous-la-loupe",
 ]
 
 BASE = "https://ici.radio-canada.ca"
