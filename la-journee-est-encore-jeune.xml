@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>La journée (est encore jeune)</title>
+    <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune</link>
+    <description>&lt;p&gt;Jean-Philippe Wauthier et ses complices, dont le bel Olivier Niquet, passent l&#x27;actualité dans le tordeur, avec l&#x27;esprit mordant et affûté qu&#x27;on leur connaît. Évidemment, Jean-Sébastien Girard y fait quelques saucettes. Les fans de l&#x27;émission culte &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt; en retrouveront l&#x27;énergie, le plaisir et le côté juste assez piquant.&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot; href=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Retrouvez les produits dérivés de&lt;em&gt; La journée (est encore jeune)&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;/em&gt;&lt;a title=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot; href=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;</description>
+    <language>fr-ca</language>
+    <copyright>Radio-Canada</copyright>
+    <lastBuildDate>Wed, 04 Nov 2026 09:09:15 -0500</lastBuildDate>
+    <image>
+      <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg</url>
+      <title>La journée (est encore jeune)</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune</link>
+    </image>
+    <itunes:image href="https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg"/>
+    <itunes:author>Radio-Canada</itunes:author>
+    <itunes:owner>
+      <itunes:name>Radio-Canada</itunes:name>
+      <itunes:email>lajournee@radio-canada.ca</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mardi 3 nov. 2026 : Louis Blouin et Sasha Luccioni</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1286718/mardi-3-nov-2026-louis-blouin-et-sasha-luccioni</link>
+      <guid isPermaLink="false">ohdio-1286718</guid>
+      <pubDate>Tue, 03 Nov 2026 19:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier nous fait écouter Jean Tremblay, qui est très inspiré par les prières générées par l’intelligence artificielle. Louis Blouin fait ses prédictions pour les élections de mi-mandat aux États-Unis. Et Sasha Luccioni explique quelles sont les mauvaises pratiques liées à l’intelligence artificielle.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/58fecf58-8b65-428e-9e74-5e8dec0f7fb3/2026-11-03_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lundi 2 nov. 2026 : David Thibodeau et Nimâ Machouf</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1286263/lundi-2-nov-2026-david-thibodeau-et-nima-machouf</link>
+      <guid isPermaLink="false">ohdio-1286263</guid>
+      <pubDate>Mon, 02 Nov 2026 19:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier résume la saga entourant la nomination de Jacinthe-Eve Arel au PQ. David Thibodeau fouille dans les archives de &lt;em&gt;La journée (est encore jeune)&lt;/em&gt; et de &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt;. Et Nimâ Machouf explique pourquoi, après quatre fois à se présenter dans Laurier—Sainte-Marie, elle gagnera enfin.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2752c7a1-a934-430f-b9ad-08ffa37456bd/2026-11-02_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1991</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Samedi 31 oct. 2026 : Olivier Niquet en brochette</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1285828/samedi-31-oct-2026-olivier-niquet-en-brochette</link>
+      <guid isPermaLink="false">ohdio-1285828</guid>
+      <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Le député du Bloc québécois Xavier Barsalou-Duval dénonce le manque d’interprètes à la Chambre des communes, mais se fait interrompre, car il n’y a pas d’interprète. Dimitri Soudas fait perdre patience à Sébastien Bovet aux &lt;em&gt;Mordus de politique&lt;/em&gt;. Et Richard Martineau boit une boisson au goût de Kraft Dinner et subit les effets secondaires en ondes.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/c9fc6f85-0561-487c-a153-31350b0caf74/2026-10-30_15_10_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2498</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vendredi 30 oct. 2026 : Marc Cassivi et Éloïse Coulombe</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1285765/vendredi-30-oct-2026-marc-cassivi-et-eloise-coulombe</link>
+      <guid isPermaLink="false">ohdio-1285765</guid>
+      <pubDate>Fri, 30 Oct 2026 18:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier parle du scandale de la semaine&amp;nbsp;: l&amp;#x27;Halloween devancée le 30 octobre. La députée Éloïse Colombe, porte-parole conservatrice en matière d’environnement, propose d’exploiter le gaz naturel. Et Marc Cassivi fait la critique d’un documentaire sur la carrière d’Elon Musk.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/d8e01d95-d7bb-413c-8420-cb2178e32134/2026-10-30_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2159</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Jeudi 29 oct. 2026 : Nathalie Petrowski, Hugo Dumas et Francis Verreault-Paul</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1285158/jeudi-29-oct-2026-nathalie-petrowski-hugo-dumas-et-francis-verreault-paul</link>
+      <guid isPermaLink="false">ohdio-1285158</guid>
+      <pubDate>Thu, 29 Oct 2026 18:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Nathalie Petrowski s&amp;#x27;indigne que le Québec oublie ses tragédies. Hugo Dumas s’intéresse à la série documentaire &lt;em&gt;Salvatoré&lt;/em&gt;&amp;nbsp;&lt;em&gt;: une recette de famille&lt;/em&gt;. Et Francis Verreault-Paul explique les pour et les contre de la Loi sur les Indiens. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/f309dc68-ecec-4456-9f4b-f788d86b0ff1/2026-10-29_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2043</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mercredi 28 oct. 2026 Jean-Sébastien Girard, Simon-Olivier Lorange et Alain Branchaud</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1284905/mercredi-28-oct-2026-jean-sebastien-girard-simon-olivier-lorange-et-alain-branchaud</link>
+      <guid isPermaLink="false">ohdio-1284905</guid>
+      <pubDate>Wed, 28 Oct 2026 18:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier résume la chicane entre Mark Carney et PSPP. Simon-Olivier Lorange raconte comment s’est déroulée la Classique Héritage. Et le biologiste Alain Branchaud parle de la COP17 sur la biodiversité.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/31198491-712d-44af-8598-c95b94fa30e6/2026-10-28_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mardi 27 oct. 2026 : Simon et Tyler, et Martin Champoux</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1284657/mardi-27-oct-2026-simon-et-tyler-et-martin-champoux</link>
+      <guid isPermaLink="false">ohdio-1284657</guid>
+      <pubDate>Tue, 27 Oct 2026 18:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier nous fait écouter des réactions à la mise en vente d’une tuque qui insulte Bruno Marchand. Le député du BQ Martin Champoux déplore l’inaction du PLC pour protéger la culture québécoise. Simon et Tyler donnent des trucs pour se débarrasser des locataires.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/953af3f5-6f38-42c1-b857-266f7cd51db9/2026-10-27_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Lundi 26 oct. 2026 : Jean-Sébastien Girard, Suzie Bouchard et Gabrielle Côté </title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1284403/lundi-26-oct-2026-jean-sebastien-girard-suzie-bouchard-et-gabrielle-cote</link>
+      <guid isPermaLink="false">ohdio-1284403</guid>
+      <pubDate>Mon, 26 Oct 2026 18:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier nous fait écouter Luc Ferrandez, qui prédit que Paul St-Pierre Plamondon va divorcer. Suzie Bouchard explique ce qui changerait si le droit au logement était inscrit dans la Charte des droits et libertés de la personne. Et Gabrielle Côté, en Europe, donne de ses nouvelles.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/7d259124-424f-46ab-aaa1-739587b49aae/2026-10-26_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Samedi 24 oct. 2026 : Olivier Niquet en brochette</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1283945/samedi-24-oct-2026-olivier-niquet-en-brochette</link>
+      <guid isPermaLink="false">ohdio-1283945</guid>
+      <pubDate>Sat, 24 Oct 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La colère gronde à Louiseville, en raison du bruit des motards. Québec solidaire se &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;poilievrise &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;poilievrise &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;poilievrise&lt;/span&gt;&lt;/q&gt;. Et Jean-François Lisée et Dimitri Soudas ont des opinions différentes sur les couilles de Paul St-Pierre Plamondon.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/cf52e960-9651-4c46-a417-9fcb72995563/2026-10-23_15_00_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2249</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Vendredi 23 oct. 2026 : Pierre Brassard, Gabriel Nadeau-Dubois et Stéphanie Chouinard</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1283907/vendredi-23-oct-2026-pierre-brassard-gabriel-nadeau-dubois-et-stephanie-chouinard</link>
+      <guid isPermaLink="false">ohdio-1283907</guid>
+      <pubDate>Fri, 23 Oct 2026 18:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Stéphanie Chouinard explique les ambitions de Mark Carney en Turquie. Gabriel Nadeau-Dubois salue la priorité de Paul St-Pierre Plamondon, soit la lutte contre l’itinérance. Et Pierre Brassard s’inspire de Thélyson Orélien dans sa chronique.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/6e797b0c-e722-4005-accf-d794c064f639/2026-10-23_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1854</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
