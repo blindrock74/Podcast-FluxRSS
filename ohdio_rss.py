@@ -208,7 +208,10 @@ def write_html(slug, program, episodes, image):
 
 def traiter(url):
     path = urlsplit(url).path.rstrip("/")  # /ohdio/balados/9887/la-journee-est-encore-jeune
-    slug = path.rstrip("/").rsplit("/", 1)[-1]  # la-journee-est-encore-jeune
+    parts = path.split("/")
+    slug = parts[-1]  # la-journee-est-encore-jeune
+    if re.fullmatch(r"saison-\d+", slug):  # .../histoires-enquete-.../saison-9
+        slug = f"{parts[-2]}-{slug}"
     print(f"== {slug}")
     first = page_data(path, 1)
     feed = HERE / f"{slug}.xml"
