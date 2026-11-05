@@ -15,7 +15,9 @@ python qub_rss.py || goto :erreur
 
 echo.
 echo === Envoi sur GitHub
-git add *.xml *.html cache_audio.json
+rem TEMPORAIRE : copie des .xml a la racine pour les anciens liens (a retirer une fois les abonnements migres vers docs/)
+copy /y docs\*.xml . >nul
+git add docs *.xml cache_audio.json
 git diff --cached --quiet && (
     echo Aucun changement a envoyer.
     goto :fin

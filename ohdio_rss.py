@@ -1,4 +1,4 @@
-"""Génère <balado>.xml (RSS 2.0 + iTunes) et <balado>.html pour chaque balado OHdio de EMISSIONS.
+"""Génère <balado>.xml (RSS 2.0 + iTunes) et <balado>.html pour chaque balado OHdio de emissions.txt.
 
 Usage : python ohdio_rss.py
 """
@@ -13,21 +13,6 @@ from html import escape
 from pathlib import Path
 from urllib.parse import urlsplit
 
-# Émissions à traiter : URL de la page du balado (copier-coller du navigateur)
-EMISSIONS = [
-    "https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune",
-    "https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune",
-    "https://ici.radio-canada.ca/ohdio/balados/7135/pires-moments-histoire-charles-beauchesne-humoriste",
-    "https://ici.radio-canada.ca/ohdio/premiere/emissions/3855/aujourd-hui-l-histoire",
-    "https://ici.radio-canada.ca/ohdio/premiere/emissions/6056/moteur-de-recherche",
-    "https://ici.radio-canada.ca/ohdio/balados/13247/louis-blouin-aux-etats-unis-de-trump",
-    "https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs",
-    "https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer",
-    "https://ici.radio-canada.ca/ohdio/balados/5548/histoires-enquete-reportage-proces-affaire-judiciaire",
-    "https://ici.radio-canada.ca/ohdio/balados/12185/enquete-de-crime-une-histoire-presque-vraie",
-    "https://ici.radio-canada.ca/ohdio/balados/12949/ecotherapie-journal-dun-cataclysme",
-    "https://ici.radio-canada.ca/ohdio/balados/12165/chiens-ecrases-nouvelles-insolites-sous-la-loupe",
-]
 
 BASE = "https://ici.radio-canada.ca"
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -38,7 +23,23 @@ MEDIA_API = ("https://services.radio-canada.ca/media/validation/v2/?appCode=medi
              "&tech=progressive&idMedia={}")
 
 HERE = Path(__file__).parent
+OUT = HERE / "docs"  # publié par GitHub Pages
 CACHE_FILE = HERE / "cache_audio.json"
+
+SOURCE_DOMAINE = "radio-canada.ca"  # URL de emissions.txt traitées par ce script
+
+
+def emissions():
+    """URL de emissions.txt appartenant à ce site (lignes vides et # ignorées)."""
+    urls = []
+    for ligne in (HERE / "emissions.txt").read_text("utf-8").splitlines():
+        ligne = ligne.strip()
+        if ligne and not ligne.startswith("#"):
+            hote = urlsplit(ligne).hostname or ""
+            if hote == SOURCE_DOMAINE or hote.endswith("." + SOURCE_DOMAINE):
+                urls.append(ligne)
+    return urls
+
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
@@ -180,7 +181,7 @@ def write_rss(path, slug, program, episodes, image):
   </channel>
 </rss>
 """
-    (HERE / f"{slug}.xml").write_text(rss, "utf-8")
+    (OUT / f"{slug}.xml").write_text(rss, "utf-8")
 
 
 def write_html(slug, program, episodes, image):
@@ -228,7 +229,7 @@ def write_html(slug, program, episodes, image):
 </body>
 </html>
 """
-    (HERE / f"{slug}.html").write_text(page, "utf-8")
+    (OUT / f"{slug}.html").write_text(page, "utf-8")
 
 
 def traiter(url):
@@ -239,7 +240,7 @@ def traiter(url):
         slug = f"{parts[-2]}-{slug}"
     print(f"== {slug}")
     first = page_data(path, 1)
-    feed = HERE / f"{slug}.xml"
+    feed = OUT / f"{slug}.xml"
     avec_audio = [ep for ep in first["episodes"] if ep.get("mediaIds")]
     if avec_audio and feed.exists():
         newest = max(avec_audio, key=lambda ep: ep["broadcastedFirstTimeAt"])
@@ -258,7 +259,7 @@ def traiter(url):
 
 
 def main():
-    for url in EMISSIONS:
+    for url in emissions():
         traiter(url)
 
 

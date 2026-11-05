@@ -6,7 +6,7 @@
     <description>Stéphan Bureau mène de longs entretiens avec des invités qui pensent, créent ou façonnent notre monde. Dans l’air du temps sans être dans l’actualité brûlante, Contact se veut une tribune plurielle pour sortir des sentiers battus du prêt-à-penser.</description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 14:23:09 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:31:58 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/5d2ac7a2-858e-4b84-9a7f-af96016df29f/image.jpg?t=1706562609&amp;size=Large</url>
       <title>Contact - avec Stéphan Bureau</title>
@@ -20,6 +20,21 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Colère dans les villes du monde : les jeunes d&#x27;extrême-gauche anticapitalistes ne représentent pas la classe ouvrière et les classes populaires. Entretien avec le géographe et essayiste Christophe Guilluy.</title>
+      <link>https://www.qub.ca/balado/contact-avec-stephan-bureau/20261026-contact-christophe-guilluy-vf-a-q-2075598998</link>
+      <guid isPermaLink="false">qub-be7390d0-d0d8-4859-9d68-b4f801226c32</guid>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
+      <description>Le géographe et essayiste Christophe Guilluy poursuit sa réflexion sur les fractures qui traversent les sociétés occidentales. Auteur de L’Atlas des fractures françaises et de La France périphérique, il revient sur le concept de « Métropolia », au cœur de son plus récent ouvrage : une métaphore du modèle néolibéral qui, depuis les années 1980, a concentré les richesses, les emplois et le pouvoir d’influence dans les grandes métropoles. À ses yeux, cette concentration a progressivement creusé le fossé entre les catégories supérieures, les classes populaires et les classes moyennes, jusqu’à provoquer une profonde déconnexion entre ceux qui façonnent le discours public et ceux qui vivent les conséquences des choix économiques. « Un bocal qui n&#x27;est plus connecté à ce que j&#x27;appelle l&#x27;hinterland, finalement au travailleur, au pays », résume-t-il.
+
+Cette fracture, Christophe Guilluy la voit aussi dans le débat politique, médiatique et culturel. Il estime que les élites, les journalistes et les intellectuels évoluent dans une même bulle, loin des préoccupations de la majorité ordinaire : pouvoir d’achat, travail, services publics, accès au logement et avenir des jeunes générations. Il analyse également les manifestations récentes, la colère sociale et le mouvement des Gilets jaunes, en mettant en garde contre une confusion entre le spectacle médiatique et la réalité des territoires. 
+
+Au-delà du constat politique et économique, l’entretien aborde enfin ce qui, selon lui, permet encore aux sociétés de tenir debout : le lien social, la solidarité, la famille et une forme de transcendance. À rebours des discours déclinistes, Christophe Guilluy refuse de voir dans les classes populaires le symptôme d’un effondrement moral ou culturel. Il y trouve plutôt des ressources que les grandes métropoles auraient perdues en faisant de la consommation l’horizon ultime de l’existence.</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/5d2ac7a2-858e-4b84-9a7f-af96016df29f/be7390d0-d0d8-4859-9d68-b4f801226c32/audio.mp3" length="0" type="audio/mpeg"/>
+      <itunes:duration>4338</itunes:duration>
+      <itunes:season>1</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>« On ne peut pas dénoncer l&#x27;invasion russe de l&#x27;Ukraine, mais ne rien dire des exactions commises par Israël à Gaza ».  Robert Malley, conseiller de trois présidents américains.</title>
       <link>https://www.qub.ca/balado/contact-avec-stephan-bureau/261016-contact-robert-malley-vf-a-q-1944336409</link>

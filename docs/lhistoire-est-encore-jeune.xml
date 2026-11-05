@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L’histoire (est encore jeune)</title>
+    <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune</link>
+    <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
+    <language>fr-ca</language>
+    <copyright>Radio-Canada</copyright>
+    <lastBuildDate>Thu, 05 Nov 2026 12:02:43 -0500</lastBuildDate>
+    <image>
+      <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
+      <title>L’histoire (est encore jeune)</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune</link>
+    </image>
+    <itunes:image href="https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg"/>
+    <itunes:author>Radio-Canada</itunes:author>
+    <itunes:owner>
+      <itunes:name>Radio-Canada</itunes:name>
+      <itunes:email>lhistoireestencorejeune@radio-canada.ca</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>4 novembre 2008&amp;nbsp;: l’élection de Barack Obama</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1286191/4-novembre-2008-lelection-de-barack-obama</link>
+      <guid isPermaLink="false">ohdio-1286191</guid>
+      <pubDate>Wed, 04 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Le 4 novembre 2008, on peut lire dans la presse que Gérard Deltell a très hâte de prendre le pouvoir avec l’Action démocratique du Québec… mais ça n’arrivera pas! Pour sa part, Barack Obama remporte ses élections et devient président des États-Unis. Jean-Philippe s’entretient avec David Grondin au sujet des grands discours politiques d’Obama. De son côté, Julien Normand nous apprend des faits cocasses sur l’ex-président américain, comme son incapacité à se faire pousser la barbe, ou encore, le fait qu’il ait déjà eu un singe comme animal de compagnie.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/c37e7214-98ec-49c3-b998-95bb8f36c6db/2026-11-02_10_45_00_lhistoireestencorejeune_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>1900</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>3 novembre 1906&amp;nbsp;: adoption du SOS</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1285730/3-novembre-1906-adoption-du-sos</link>
+      <guid isPermaLink="false">ohdio-1285730</guid>
+      <pubDate>Tue, 03 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Le 3 novembre 1906 est adopté le SOS, utilisé jusqu’en 1999. L’archéologue et anthropologue Éric Phaneuf parle de l’utilisation de ce signal de détresse lors du naufrage de l’Empress of Ireland. Olivier présente des événements qui se sont déroulés un 3 novembre, comme l’imposition d’un prix plancher pour la bière et la célèbre entrevue de Monique-Jérôme Forget à l’émission &lt;em&gt;Enquête&lt;/em&gt;, et Jean-Sébastien Girard lit le journal de sa grand-mère.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/aaa0697c-94a8-4636-b159-a6b730af7142/2026-10-30_11_52_00_lhistoireestencorejeune_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2015</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2 novembre 1936&amp;nbsp;: la fondation de Radio-Canada</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1285728/2-novembre-1936-la-fondation-de-radio-canada</link>
+      <guid isPermaLink="false">ohdio-1285728</guid>
+      <pubDate>Mon, 02 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Le 2 novembre 1936, le Canadien de Montréal se remettait d’une défaite, le ministre de l’Industrie, Joseph Bilodeau, et sa femme étaient en visite à Montréal, mais surtout, Radio-Canada était fondée. Jean-Philippe Wauthier reçoit Sylvain Lafrance, ex-vice-président de Radio-Canada, qui raconte l’histoire du diffuseur public. Olivier présente des événements qui se sont déroulés un 2 novembre, et Magali Saint-Vincent parle des émissions jeunesse marquantes.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2102a94a-8582-4c29-b02c-c0814112647f/2026-10-30_11_51_00_lhistoireestencorejeune_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>2035</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

@@ -1,4 +1,4 @@
-"""Génère <balado>.xml (RSS 2.0 + iTunes) et <balado>.html pour chaque balado QUB de EMISSIONS.
+"""Génère <balado>.xml (RSS 2.0 + iTunes) et <balado>.html pour chaque balado QUB de emissions.txt.
 
 Source : les données embarquées dans la page QUB du balado (toutes les saisons).
 Historique maison : les épisodes déjà présents dans <balado>.xml sont conservés,
@@ -18,23 +18,27 @@ from html import escape
 from pathlib import Path
 from urllib.parse import urlsplit
 
-# Émissions à traiter : URL de la page du balado sur qub.ca (copier-coller du navigateur)
-EMISSIONS = [
-    "https://www.qub.ca/balado/devine-qui-vient-souper-richard-martineau-et-sophie-durocher",
-    "https://www.qub.ca/balado/le-monde-a-l-envers",
-    "https://www.qub.ca/balado/le-balado-le-parloir",
-    "https://www.qub.ca/balado/ia-tu-pense",
-    "https://www.qub.ca/balado/histoires-de-crimes",
-    "https://www.qub.ca/balado/contact-avec-stephan-bureau",
-    "https://www.qub.ca/balado/sans-vice-cache",
-    "https://www.qub.ca/balado/le-sac-de-chips",
-
-]
 
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36")
 
 HERE = Path(__file__).parent
+OUT = HERE / "docs"  # publié par GitHub Pages
+
+SOURCE_DOMAINE = "qub.ca"  # URL de emissions.txt traitées par ce script
+
+
+def emissions():
+    """URL de emissions.txt appartenant à ce site (lignes vides et # ignorées)."""
+    urls = []
+    for ligne in (HERE / "emissions.txt").read_text("utf-8").splitlines():
+        ligne = ligne.strip()
+        if ligne and not ligne.startswith("#"):
+            hote = urlsplit(ligne).hostname or ""
+            if hote == SOURCE_DOMAINE or hote.endswith("." + SOURCE_DOMAINE):
+                urls.append(ligne)
+    return urls
+
 
 ITUNES = "{http://www.itunes.com/dtds/podcast-1.0.dtd}"
 
@@ -179,7 +183,7 @@ def write_rss(slug, show, episodes):
   </channel>
 </rss>
 """
-    (HERE / f"{slug}.xml").write_text(rss, "utf-8")
+    (OUT / f"{slug}.xml").write_text(rss, "utf-8")
 
 
 def write_html(slug, show, episodes):
@@ -227,13 +231,13 @@ def write_html(slug, show, episodes):
 </body>
 </html>
 """
-    (HERE / f"{slug}.html").write_text(page, "utf-8")
+    (OUT / f"{slug}.html").write_text(page, "utf-8")
 
 
 def traiter(url):
     slug = urlsplit(url).path.rstrip("/").rsplit("/", 1)[-1]
     print(f"== {slug}")
-    feed = HERE / f"{slug}.xml"
+    feed = OUT / f"{slug}.xml"
     show, site = qub_show(url)
     history = load_history(feed)
     nouveaux = site.keys() - history.keys()
@@ -251,7 +255,7 @@ def traiter(url):
 
 
 def main():
-    for url in EMISSIONS:
+    for url in emissions():
         traiter(url)
 
 
