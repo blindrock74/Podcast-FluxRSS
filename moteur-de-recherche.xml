@@ -6,7 +6,7 @@
     <description>&lt;p&gt;En plus de &lt;a title=&quot;https://ici.radio-canada.ca/ohdio/balados/12879/moteur-en-herbe&quot; href=&quot;https://ici.radio-canada.ca/ohdio/balados/12879/moteur-en-herbe&quot;&gt;&lt;em&gt;Moteur en herb&lt;/em&gt;e&lt;/a&gt;, Matthieu Dugal et son équipe présentent&lt;em&gt; Moteur de recherche&lt;/em&gt;, une émission conviviale axée sur vos questions en matière de consommation, de technologie, de science, d&#x27;environnement et de santé, et vous proposent les meilleures réponses.&lt;/p&gt;&lt;p&gt;L&#x27;émission veut donner un sens au fouillis de liens et de résultats que vos questions génèrent lorsque vous effectuez une recherche sur Internet... parce que les algorithmes nous cachent autant de choses qu&#x27;ils nous en montrent.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Moteur de recherche&lt;/em&gt; vous propose une infolettre remplie de sujets étonnants. &lt;a title=&quot;https://ici.radio-canada.ca/infolettres/moteur-de-recherche&quot; href=&quot;https://ici.radio-canada.ca/infolettres/moteur-de-recherche&quot;&gt;&lt;strong&gt;Abonnez-vous!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/moteur-de-recherche&quot; href=&quot;https://ici.tou.tv/moteur-de-recherche&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 12:01:02 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:30:47 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/moteur-de-recherche-ohdio-visuel-moteur-2025-matthieu-dugal.jpg</url>
       <title>Moteur de recherche</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mercredi 4 nov. 2026&amp;nbsp;: Les conséquences des antiacides, et l’eau des tourbières</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/1242327/mercredi-4-nov-2026-les-consequences-des-antiacides-et-leau-des-tourbieres</link>
+      <guid isPermaLink="false">ohdio-1242327</guid>
+      <pubDate>Thu, 05 Nov 2026 00:06:00 +0000</pubDate>
+      <description>&lt;p&gt;La difficulté biologique à concevoir le futur; les risques éventuels de l&amp;#x27;utilisation prolongée des médicaments contre les brûlures d&amp;#x27;estomac et les ulcères; l’état de l&amp;#x27;eau des tourbières ainsi que les conditions nécessaires à la présence des poissons; et l&amp;#x27;existence potentielle d&amp;#x27;un rythme circadien chez les bactéries.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0e45648e-a7d0-49a1-b638-3768e6ce9d89/2026-11-04_19_06_00_moteurderecherche_0000_128.mp4" length="0" type="audio/mp4"/>
+      <itunes:duration>3180</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mardi 3 nov. 2026 : La protection des données numériques, et le sommeil des chevaux </title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/1242304/mardi-3-nov-2026-la-protection-des-donnees-numeriques-et-le-sommeil-des-chevaux</link>
