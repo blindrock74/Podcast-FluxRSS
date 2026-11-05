@@ -7,7 +7,8 @@ import json
 import math
 import time
 import urllib.request
-from datetime import datetime
+import xml.etree.ElementTree as ET
+from datetime import date, datetime
 from email.utils import format_datetime
 from html import escape
 from pathlib import Path
@@ -18,6 +19,8 @@ BASE = "https://ici.radio-canada.ca"
 USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
               "(KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36")
 PAUSE = 1.0  # secondes entre deux requêtes
+REESSAI_JOURS = 30  # délai avant de réessayer un audio introuvable
+PAUSE_HEAD = 0.2  # secondes entre deux requêtes HEAD (taille des fichiers, sur Akamai)
 MEDIA_API = ("https://services.radio-canada.ca/media/validation/v2/?appCode=medianet"
              "&connectionType=hd&deviceType=ipad&multibitrate=true&output=json"
              "&tech=progressive&idMedia={}")
@@ -107,22 +110,62 @@ def resolve_audio(episodes):
             print(f"audio {i}/{len(episodes)} : SAUTÉ, pas d'audio : {ep['title']}")
             continue
         media_id = str(ep["mediaIds"][0])
-        if media_id not in cache:
+        entree = cache.get(media_id)
+        if isinstance(entree, dict):  # échec connu : {"introuvable": "AAAA-MM-JJ"}
+            depuis = date.fromisoformat(entree["introuvable"])
+            if (date.today() - depuis).days < REESSAI_JOURS:
+                continue  # sauté en silence jusqu'à la prochaine tentative
+            entree = None
+        if entree is None:
             print(f"audio {i}/{len(episodes)} : {ep['title']}")
             try:
                 url = json.loads(get(MEDIA_API.format(media_id))).get("url")
-            except Exception as e:
-                url = None
+            except Exception as e:  # erreur réseau : pas notée, on réessaiera
                 print(f"   erreur : {e}")
+                time.sleep(PAUSE)
+                continue
             time.sleep(PAUSE)
-            if not url:  # pas mis en cache : on réessaiera au prochain lancement
+            if not url:  # noté dans le cache, réessayé après REESSAI_JOURS
                 print("   SAUTÉ, audio introuvable")
+                cache[media_id] = {"introuvable": date.today().isoformat()}
+                CACHE_FILE.write_text(json.dumps(cache, indent=1), "utf-8")
                 continue
             cache[media_id] = url
             CACHE_FILE.write_text(json.dumps(cache, indent=1), "utf-8")
         ep["audio"] = cache[media_id]
         gardes.append(ep)
     return gardes
+
+
+def known_lengths(feed):
+    """URL audio -> taille déjà connue dans le flux existant (les length="0" sont ignorés)."""
+    if not feed.exists():
+        return {}
+    return {enc.get("url"): enc.get("length")
+            for enc in ET.parse(feed).iter("enclosure")
+            if enc.get("length", "0") != "0"}
+
+
+def head_length(url):
+    """Taille du fichier audio en octets (Content-Length d'une requête HEAD), "0" en cas d'échec."""
+    req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return r.headers.get("Content-Length", "0")
+    except Exception as e:  # length="0" : on réessaiera au prochain lancement
+        print(f"   taille introuvable : {e}")
+        return "0"
+
+
+def resolve_lengths(episodes, feed):
+    """Ajoute ep["length"] : reprise du flux existant, sinon requête HEAD."""
+    known = known_lengths(feed)
+    for i, ep in enumerate(episodes, 1):
+        ep["length"] = known.get(ep["audio"])
+        if not ep["length"]:
+            print(f"taille {i}/{len(episodes)} : {ep['title']}")
+            ep["length"] = head_length(ep["audio"])
+            time.sleep(PAUSE_HEAD)
 
 
 def prepare(ep):
@@ -147,7 +190,7 @@ def write_rss(path, slug, program, episodes, image):
       <guid isPermaLink="false">ohdio-{ep['globalId']['id']}</guid>
       <pubDate>{format_datetime(ep['date'])}</pubDate>
       <description>{escape(ep['summary'] or '')}</description>
-      <enclosure url="{escape(ep['audio'])}" length="0" type="audio/mp4"/>
+      <enclosure url="{escape(ep['audio'])}" length="{ep['length']}" type="audio/mp4"/>
       <itunes:duration>{ep['seconds']}</itunes:duration>{season}
       <itunes:explicit>false</itunes:explicit>
     </item>""")
@@ -244,7 +287,9 @@ def traiter(url):
     avec_audio = [ep for ep in first["episodes"] if ep.get("mediaIds")]
     if avec_audio and feed.exists():
         newest = max(avec_audio, key=lambda ep: ep["broadcastedFirstTimeAt"])
-        if f"<guid isPermaLink=\"false\">ohdio-{newest['globalId']['id']}</guid>" in feed.read_text("utf-8"):
+        contenu = feed.read_text("utf-8")
+        if (f"<guid isPermaLink=\"false\">ohdio-{newest['globalId']['id']}</guid>" in contenu
+                and 'length="0"' not in contenu):
             print(f"Déjà à jour (dernier épisode : {newest['title']})")
             return
     program, episodes = fetch_all(path, first)
@@ -252,6 +297,7 @@ def traiter(url):
         prepare(ep)
     episodes.sort(key=lambda ep: ep["date"], reverse=True)
     episodes = resolve_audio(episodes)
+    resolve_lengths(episodes, feed)
     image = program["picture"]["pattern"].replace("{width}", "1400").replace("{ratio}", "1x1")
     write_rss(path, slug, program, episodes, image)
     write_html(slug, program, episodes, image)

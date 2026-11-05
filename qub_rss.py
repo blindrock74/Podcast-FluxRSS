@@ -10,6 +10,7 @@ Usage : python qub_rss.py
 import http.cookiejar
 import json
 import re
+import time
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -24,6 +25,7 @@ USER_AGENT = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
 
 HERE = Path(__file__).parent
 OUT = HERE / "docs"  # publié par GitHub Pages
+PAUSE_HEAD = 0.2  # secondes entre deux requêtes HEAD (taille des fichiers)
 
 SOURCE_DOMAINE = "qub.ca"  # URL de emissions.txt traitées par ce script
 
@@ -136,6 +138,29 @@ def load_history(feed):
     return episodes
 
 
+def head_length(url):
+    """Taille du fichier audio en octets (Content-Length d'une requête HEAD), "0" en cas d'échec."""
+    req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return r.headers.get("Content-Length", "0")
+    except Exception as e:  # length="0" : on réessaiera au prochain lancement
+        print(f"   taille introuvable : {e}")
+        return "0"
+
+
+def resolve_lengths(episodes, history):
+    """Ajoute ep["length"] : reprise de l'historique, sinon requête HEAD."""
+    for i, ep in enumerate(episodes, 1):
+        connu = history.get(ep["guid"])
+        if connu and connu["audio"] == ep["audio"] and connu["length"] != "0":
+            ep["length"] = connu["length"]
+        else:
+            print(f"taille {i}/{len(episodes)} : {ep['title']}")
+            ep["length"] = head_length(ep["audio"])
+            time.sleep(PAUSE_HEAD)
+
+
 def hms(seconds):
     h, rest = divmod(seconds, 3600)
     m, s = divmod(rest, 60)
@@ -242,13 +267,14 @@ def traiter(url):
     history = load_history(feed)
     nouveaux = site.keys() - history.keys()
     print(f"{len(site)} épisodes sur QUB, {len(history)} dans l'historique, {len(nouveaux)} nouveau(x)")
-    if history and not nouveaux:
+    if history and not nouveaux and all(ep["length"] != "0" for ep in history.values()):
         print("Déjà à jour")
         return
     episodes = sorted({**history, **site}.values(), key=lambda ep: ep["date"], reverse=True)
     if not episodes:
         print("Aucun épisode trouvé")
         return
+    resolve_lengths(episodes, history)
     write_rss(slug, show, episodes)
     write_html(slug, show, episodes)
     print(f"OK : {slug}.xml et {slug}.html ({len(episodes)} épisodes)")
