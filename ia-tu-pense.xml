@@ -26,7 +26,7 @@ Mais quelqu’un qui la comprend, oui.
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Wed, 04 Nov 2026 14:23:06 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:35:16 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/image.jpg?t=1775231217&amp;size=Large</url>
       <title>iA-tu pensé?</title>
@@ -50,7 +50,7 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
 Comment évaluer la fiabilité des outils, protéger les renseignements personnels et surveiller les erreurs? La conversation aborde aussi le coût des services, l’utilisation de modèles américains, l’accès aux données juridiques et l’évolution du travail des avocats et de la formation des jeunes juristes.
 
 Le cadre proposé vise notamment les consultations, les avis juridiques et la rédaction de documents, mais exclut la représentation devant les tribunaux. Une discussion franche sur les possibilités et les limites de l’IA en droit, ainsi que sur son potentiel pour aider à régler des litiges avant le tribunal.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/a6f700db-be6a-44a0-9537-b4f1014e0bd3/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/a6f700db-be6a-44a0-9537-b4f1014e0bd3/audio.mp3" length="39938963" type="audio/mpeg"/>
       <itunes:duration>2478</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -70,7 +70,7 @@ Un harnais permet de créer ses propres agents intelligents, de conserver le con
 La question n’est plus seulement de savoir quelle IA est la meilleure, mais de déterminer qui contrôle réellement l’intelligence artificielle sur laquelle repose votre entreprise.
 
 Un épisode pour tous ceux qui veulent passer de simples utilisateurs de l’IA à véritables propriétaires de leur infrastructure intelligente.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/31f4dc9e-e713-4258-af42-b4eb01607592/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/31f4dc9e-e713-4258-af42-b4eb01607592/audio.mp3" length="43886969" type="audio/mpeg"/>
       <itunes:duration>2725</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -80,7 +80,7 @@ Un épisode pour tous ceux qui veulent passer de simples utilisateurs de l’IA 
       <guid isPermaLink="false">qub-2d7b3a4a-82bf-4ab1-9fa3-b4bb0130fe37</guid>
       <pubDate>Fri, 16 Oct 2026 20:00:00 +0000</pubDate>
       <description>Dans cet épisode de de IA-tu pensé?, Nicholas Belliveau anime en solo et reçoit Léo Lamy-Laliberté, fondateur et président de Local Energy Solutions, une startup montréalaise soutenue par Mila qui applique l&#x27;intelligence artificielle à la chaleur industrielle. Léo partage un chiffre qui donne la mesure de l&#x27;enjeu : une usine a économisé 36 millions de dollars en quatre heures simplement en modifiant la façon dont elle consommait son énergie. Dans le monde industriel, l&#x27;énergie est le premier poste de coûts, et à l&#x27;extérieur du Québec, ces installations sont majoritairement alimentées par des combustibles fossiles, ce qui en fait l&#x27;un des principaux moteurs des changements climatiques. L&#x27;échange explore comment Local Energy conçoit et opère des réseaux d&#x27;échange énergétique entre usines voisines, transformant la chaleur, la vapeur et l&#x27;électricité excédentaires en ressources partagées et monnayables. Léo explique pourquoi l&#x27;entreprise a délibérément choisi l&#x27;apprentissage par renforcement plutôt que l&#x27;IA générative, comment on entraîne une IA appelée à piloter des équipements physiques réels sans rien casser et le rôle du jumeau numérique dans cette mécanique. Léo raconte enfin comment son équipe utilise elle-même l&#x27;IA au quotidien pour opérer comme startup.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/2d7b3a4a-82bf-4ab1-9fa3-b4bb0130fe37/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/2d7b3a4a-82bf-4ab1-9fa3-b4bb0130fe37/audio.mp3" length="31637864" type="audio/mpeg"/>
       <itunes:duration>1959</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -92,7 +92,7 @@ Un épisode pour tous ceux qui veulent passer de simples utilisateurs de l’IA 
       <description>Et si la vraie valeur de l’IA ne se trouvait pas dans le meilleur chatbot, mais dans la capacité de votre entreprise à contrôler, adapter et déployer ses propres modèles? Dans cet épisode de IA tu pensé?, on plonge dans les enjeux de souveraineté numérique, de modèles ouverts et de données propriétaires avec une dirigeante de Mistral.
 
 Open source ou open weight? RAG ou fine-tuning? Modèle généraliste ou spécialisé? La conversation explore concrètement comment adapter l’IA à son entreprise, à sa langue et à sa culture, pourquoi les benchmarks génériques ne racontent pas toute l’histoire et pourquoi le Canada aurait intérêt à développer davantage sa propre infrastructure d’IA. Un échange qui pousse les entreprises à voir bien plus loin que le chatbot.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/cfe03483-43dd-4c6d-8612-b4de0146b5df/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/cfe03483-43dd-4c6d-8612-b4de0146b5df/audio.mp3" length="34536369" type="audio/mpeg"/>
       <itunes:duration>2140</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -104,7 +104,7 @@ Open source ou open weight? RAG ou fine-tuning? Modèle généraliste ou spécia
       <description>L’intelligence artificielle promet des gains spectaculaires pour l’État, mais est-ce vraiment la technologie qui manque au gouvernement? Dans cet épisode spécial élections, David Proulx reçoit Stéphanie Vallée pour discuter des conditions essentielles à une véritable transformation numérique du secteur public québécois.
 
 Ensemble, ils explorent les enjeux de littératie numérique, de dette technologique, de gouvernance des données et de dépendance aux consultants externes. La conversation aborde également la maturité numérique des organisations, les défis de recrutement dans les TI, la souveraineté technologique et les façons concrètes d’aider les équipes gouvernementales à réussir leur virage numérique. Une discussion franche, technique et pragmatique sur ce qu’il faut réellement changer avant de miser pleinement sur l’IA.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/1d336e13-b86b-433f-a1bd-b4d701268946/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/1d336e13-b86b-433f-a1bd-b4d701268946/audio.mp3" length="45929550" type="audio/mpeg"/>
       <itunes:duration>2853</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -114,7 +114,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <guid isPermaLink="false">qub-ab5f218c-32ce-4eb4-a431-b4cf01035f83</guid>
       <pubDate>Fri, 25 Sep 2026 20:00:00 +0000</pubDate>
       <description>En pleine campagne électorale, l&#x27;intelligence artificielle s&#x27;impose comme un enjeu incontournable pour le Québec. IA-tu pensé ? a sollicité les cinq partis, qui ont tous accepté de venir en studio discuter de l&#x27;importance de l&#x27;intelligence artificielle et de leur vision de l&#x27;IA au sein de leur gouvernement. Dans cet épisode : Anne Nguyen, candidate au parti Québécois dans Prévost et Patric Caron, candidat au parti conservateur dans Matane-Matapédia-Mitis.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/ab5f218c-32ce-4eb4-a431-b4cf01035f83/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/ab5f218c-32ce-4eb4-a431-b4cf01035f83/audio.mp3" length="50366159" type="audio/mpeg"/>
       <itunes:duration>3130</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -124,7 +124,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <guid isPermaLink="false">qub-c479c778-71a0-4119-a62a-b4c900f70379</guid>
       <pubDate>Fri, 18 Sep 2026 20:00:00 +0000</pubDate>
       <description>En pleine campagne électorale, l&#x27;intelligence artificielle s&#x27;impose comme un enjeu incontournable pour le Québec. IA-tu pensé ? a sollicité les cinq partis, qui ont tous accepté de venir en studio discuter de l&#x27;importance de l&#x27;intelligence artificielle et de leur vision de l&#x27;IA au sein de leur gouvernement. Dans cet épisode : Alain Chandonnet, candidat libéral dans La Peltrie, Bryan Gingras, candidat de Québec solidaire dans Marguerite-Bourgeoys, et Alex Gagné, candidat de la CAQ dans Berthier.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/c479c778-71a0-4119-a62a-b4c900f70379/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/c479c778-71a0-4119-a62a-b4c900f70379/audio.mp3" length="74779991" type="audio/mpeg"/>
       <itunes:duration>4656</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -134,7 +134,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <guid isPermaLink="false">qub-e99f8524-d913-411a-8e27-b4c80164386f</guid>
       <pubDate>Fri, 18 Sep 2026 15:04:03 +0000</pubDate>
       <description>Dans cet épisode de IA-tu pensé?, David Proulx et Nicholas Belliveau reçoivent Richard Chénier, directeur général de Québec Tech, pour une discussion sans détour sur le retard technologique du Québec et du Canada. Le constat de départ est frappant : seulement 12 % des PME ont adopté une forme ou une autre de technologie. Richard présente le plan que Québec Tech met de l&#x27;avant pour accélérer cette adoption et mieux arrimer les solutions technologiques aux besoins réels des PME. L&#x27;échange aborde ensuite une dimension culturelle rarement nommée : la réticence au risque qui caractérise les Québécois et les Canadiens, un frein illustré notamment par le faible nombre de grandes entreprises d&#x27;ici dotées d&#x27;un fonds de capital de risque corporatif, comparativement à ce qui se fait ailleurs. Pour Richard, l&#x27;accélération ne viendra pas uniquement des programmes publics : le privé doit assumer un rôle beaucoup plus important dans la croissance et l&#x27;adoption technologique. En pleine campagne électorale, David lance également une invitation aux chefs des partis politiques à venir présenter leur stratégie en matière d&#x27;intelligence artificielle.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/e99f8524-d913-411a-8e27-b4c80164386f/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/e99f8524-d913-411a-8e27-b4c80164386f/audio.mp3" length="54201366" type="audio/mpeg"/>
       <itunes:duration>3370</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -144,7 +144,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <guid isPermaLink="false">qub-16df019f-7ac3-45e8-a034-b4b101327a5e</guid>
       <pubDate>Fri, 04 Sep 2026 20:00:00 +0000</pubDate>
       <description>David Proulx et Nicholas Belliveau font le point ensemble sur tout ce qui s&#x27;est passé dans le monde de l&#x27;IA au cours des deux derniers mois. La course aux modèles s&#x27;est emballée tout l&#x27;été, et les failles ont suivi. David revient sur Fable et sa faille de sécurité, sur l&#x27;importance des harnais. Il fait aussi le point sur le California Transparency in Frontier Artificial Intelligence Act, sur l&#x27;AI Act européen et sur les textes signés par Anthropic. L&#x27;épisode aborde également la chute spectaculaire de la valorisation du fonds de Leopold Aschenbrenner, passée de 45 milliards à 10 milliards en un mois, ainsi qu&#x27;un tour d&#x27;horizon des nouveaux modèles vidéo, dont MiniMax H3 et ByteDance Seedance 2.5. La discussion se termine sur une réflexion vertigineuse : celle de l&#x27;IA qui entraîne désormais d&#x27;autres modèles d&#x27;IA, illustrée par une visualisation publiée par Anthropic montrant le logo de Claude se reproduisant à une échelle exponentielle.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/16df019f-7ac3-45e8-a034-b4b101327a5e/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/16df019f-7ac3-45e8-a034-b4b101327a5e/audio.mp3" length="40284557" type="audio/mpeg"/>
       <itunes:duration>2500</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -154,7 +154,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <guid isPermaLink="false">qub-8a6c2e9e-4afd-4515-a516-b4aa014519bf</guid>
       <pubDate>Fri, 28 Aug 2026 20:00:00 +0000</pubDate>
       <description>Pour lancer la deuxième saison de IA-tu pensé?, David Proulx et Nicholas Belliveau reçoivent Aref Kodeh, chef d&#x27;équipe en relations internationales et IA responsable au Centre d&#x27;intelligence artificielle du MDN et des FAC, pour une conversation de fond sur les implications de l&#x27;IA pour la défense, la sécurité et la souveraineté du Canada. Aref explique que l&#x27;innovation technologique est désormais menée par le secteur privé, ce qui brouille les frontières entre les sphères civile et militaire à travers des technologies dites à &quot;multi-usages&quot;. Cette réalité crée des dépendances complexes (semi-conducteurs, infonuagique, modèles d&#x27;IA) et des risques majeurs, comme la transformation d&#x27;infrastructures civiles en cibles militaires. L&#x27;échange définit la souveraineté numérique non pas comme une autarcie totale, mais comme une gestion stratégique et consciente des dépendances, et une responsabilité partagée entre le gouvernement, les entreprises et les citoyens. Aref met en lumière la tension entre les approches géopolitiques (stratégie mercantile américaine versus recherche d&#x27;un avantage informationnel chinois) et l&#x27;impératif pour le Canada de collaborer avec ses alliés tout en protégeant ses propres intérêts. La discussion aborde aussi l&#x27;intégration des PME canadiennes dans l&#x27;écosystème de la défense, l&#x27;importance d&#x27;une &quot;hygiène numérique&quot; collective, et se conclut sur ce qu&#x27;Aref considère comme l&#x27;enjeu le plus critique des cinq prochaines années : la souveraineté du Canada dans le développement de ses capacités militaires et technologiques.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/8a6c2e9e-4afd-4515-a516-b4aa014519bf/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/8a6c2e9e-4afd-4515-a516-b4aa014519bf/audio.mp3" length="56573300" type="audio/mpeg"/>
       <itunes:duration>3518</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -164,7 +164,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <guid isPermaLink="false">qub-6e1ea23c-350f-47f2-b07f-b47b014ae08f</guid>
       <pubDate>Tue, 18 Aug 2026 19:46:50 +0000</pubDate>
       <description>Dans ce quatorzième épisode de IA-tu pensé?, David Proulx et Nicholas Belliveau reçoivent Alistair Croll, entrepreneur, auteur et figure centrale de l&#x27;écosystème technologique montréalais, pour une conversation dense sur l&#x27;avenir de l&#x27;IA et la modernisation numérique. Alistair présente le StartupFest (10 au 12 juillet, Grand Quai du Vieux-Port), qui célèbre sa 16e édition avec une nouveauté : un Salon de l&#x27;entrepreneuriat ouvert au grand public. Il décrit également FWD50 (8 et 9 juillet), l&#x27;une des plus grandes conférences sur le gouvernement numérique au Canada, ainsi qu&#x27;une Hack Party réunissant une soixantaine d&#x27;experts mondiaux en IA pour explorer les frontières de la technologie. L&#x27;échange plonge ensuite dans les implications des modèles d&#x27;IA de nouvelle génération : accès restreint créant une citoyenneté à deux vitesses, risque de concentration des richesses via les marchés prédictifs, et enjeux géopolitiques liés au contrôle de la connaissance. Alistair introduit le concept de boucles d&#x27;auto-amélioration, où des systèmes d&#x27;IA améliorent d&#x27;autres systèmes de façon exponentielle, et cite en exemple une entreprise ayant identifié en quatre jours un médicament capable de bloquer le hantavirus, une tâche qui aurait pris des années. Sur la modernisation gouvernementale, le Canada est présenté comme en retard (47e rang mondial), avec ses 270 systèmes de connexion distincts, face au modèle estonien où le gouvernement ne peut demander deux fois la même information et où chaque accès aux données d&#x27;un citoyen est traçable. L&#x27;épisode se conclut sur la vision d&#x27;un futur d&#x27;agents IA personnels et interopérables, illustrée par la plateforme d&#x27;agents déployée par Alistair pour le StartupFest lui-même, où chaque participant dispose de son propre agent avec mémoire persistante.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/6e1ea23c-350f-47f2-b07f-b47b014ae08f/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/6e1ea23c-350f-47f2-b07f-b47b014ae08f/audio.mp3" length="55030630" type="audio/mpeg"/>
       <itunes:duration>3421</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -176,7 +176,7 @@ Ensemble, ils explorent les enjeux de littératie numérique, de dette technolog
       <description>Dans ce treizième épisode de IA-tu pensé?, David Proulx et Nicholas Belliveau reçoivent Caroline Boyce, CRHA et chargée de cours à HEC, pour explorer l&#x27;impact de l&#x27;IA sur le recrutement et la sélection de personnel. Caroline explique comment les LLM ont créé une &quot;inflation de la qualité&quot; perçue des CV, inondant les recruteurs de candidatures massives via des outils comme Easy Apply, rendant le tri encore plus complexe. Elle présente les lignes directrices de l&#x27;Ordre des CRHA : l&#x27;IA est un outil d&#x27;efficacité, mais ne doit pas remplacer le jugement professionnel, et les données confidentielles (CV, tests psychométriques) ne doivent pas être soumises à des IA publiques grand public. Elle cite l&#x27;Ontario comme modèle en matière de transparence : divulgation salariale, indication du recours à l&#x27;IA dans le processus, et nature réelle du poste.
 
 L&#x27;épisode aborde aussi les biais algorithmiques, les entrevues asynchrones comme levier d&#x27;inclusivité, et le fait que 93 % des candidats refusent d&#x27;interagir avec un avatar IA en entrevue, toutes générations confondues. David et Caroline concluent sur l&#x27;importance de calibrer les prompts, de maintenir un regard sceptique et de garder le jugement humain au centre du processus. Le segment actualités explore le retrait de Fable (ex-Mythos) par Anthropic, sa capacité présumée à compromettre des systèmes de la NSA en quelques heures, l&#x27;émergence des modèles open-weight comme GLM 5.2, et l&#x27;urgence croissante de la souveraineté numérique pour les entreprises qui dépendent de fournisseurs externes.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/52ac965f-1dd9-4706-9386-b47201542dcd/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/52ac965f-1dd9-4706-9386-b47201542dcd/audio.mp3" length="55131311" type="audio/mpeg"/>
       <itunes:duration>3428</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -186,7 +186,7 @@ L&#x27;épisode aborde aussi les biais algorithmiques, les entrevues asynchrones
       <guid isPermaLink="false">qub-cf76d82e-8dc5-4f5b-9c4b-b46c015a2f4f</guid>
       <pubDate>Fri, 19 Jun 2026 20:00:00 +0000</pubDate>
       <description>Dans ce douzième épisode de IA-tu pensé?, Nicholas Belliveau reçoit Simon Leroux, fondateur d&#x27;Optionality, une plateforme alimentée par l&#x27;IA qui aide les propriétaires de PME à comprendre la valeur de leur entreprise, à l&#x27;optimiser et à identifier des acheteurs potentiels des années avant une vente. Simon retrace son parcours d&#x27;entrepreneur en IA, notamment la vente de Gazelle.ai à KKR (devenue Lightcast), expérience qui l&#x27;a directement inspiré à créer Optionality. L&#x27;échange explore le défi québécois : 50 000 PME changeront de mains d&#x27;ici cinq ans, et la majorité des propriétaires ne s&#x27;y préparent pas assez tôt. Simon défend une thèse claire : commencer à préparer son transfert trois à dix ans avant la vente. Il souligne cependant les limites de la technologie : l&#x27;IA peut quantifier la valeur d&#x27;une entreprise, mais l&#x27;accompagnement humain reste indispensable. Il aborde également la dimension psychologique souvent négligée : vendre ce qu&#x27;on a bâti est un deuil, et un propriétaire doit y être prêt bien avant de considérer les multiples de valorisation.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/cf76d82e-8dc5-4f5b-9c4b-b46c015a2f4f/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/cf76d82e-8dc5-4f5b-9c4b-b46c015a2f4f/audio.mp3" length="36675929" type="audio/mpeg"/>
       <itunes:duration>2274</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -196,7 +196,7 @@ L&#x27;épisode aborde aussi les biais algorithmiques, les entrevues asynchrones
       <guid isPermaLink="false">qub-f16b9b8a-5149-44a2-8547-b46500f93dd3</guid>
       <pubDate>Fri, 12 Jun 2026 20:00:00 +0000</pubDate>
       <description>Dans ce onzième épisode de IA-tu pensé?, David Proulx et Nicholas Belliveau reçoivent Shawn Johal, entrepreneur en série et nouveau président d&#x27;Unicor Industries, une entreprise montréalaise de moulage par injection de précision fondée en 1971 qu&#x27;il a acquise il y a seulement six mois. La conversation porte sur le &quot;reprenariat augmenté&quot; : l&#x27;idée d&#x27;acheter une entreprise québécoise établie et de la transformer de l&#x27;intérieur grâce à l&#x27;intelligence artificielle. Shawn raconte comment, en déployant la vision par ordinateur sur la chaîne de production, son équipe est passée de 3 millions à 12 millions d&#x27;unités par année avec les mêmes machines - une multiplication par 4 sans l&#x27;ajout d&#x27;autres machines. Il détaille également comment l&#x27;IA accélère le processus de soumission pour cibler les meilleurs clients, optimise la conception des pièces sur mesure, aide à planifier la nouvelle usine, et réduit les temps de configuration des robots lors du démarrage de nouveaux projets - un enjeu majeur dans une industrie où chaque commande est entièrement personnalisée. En toile de fond, un constat fort : des milliers d&#x27;entreprises québécoises sont en attente de transfert, et l&#x27;IA représente un levier immédiat pour en décupler la valeur.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/f16b9b8a-5149-44a2-8547-b46500f93dd3/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/f16b9b8a-5149-44a2-8547-b46500f93dd3/audio.mp3" length="46295252" type="audio/mpeg"/>
       <itunes:duration>2875</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -208,7 +208,7 @@ L&#x27;épisode aborde aussi les biais algorithmiques, les entrevues asynchrones
       <description>Et si l’intelligence artificielle devenait l’assistant ultime du chirurgien… ou même son remplaçant ? Dans cet épisode, on plonge dans une innovation fascinante : une technologie qui agit comme un GPS en pleine opération, capable de guider les médecins en temps réel.
 
 On explore comment l’IA reconstruit l’anatomie en 3D à partir d’imageries médicales, puis accompagne le chirurgien directement dans la salle d’opération grâce à la vision par ordinateur. Il est aussi question de chirurgie robotique, de standardisation des soins et d’un futur où les robots pourraient intervenir de façon autonome. Une discussion concrète, accessible et tournée vers ce qui s’en vient plus vite qu’on le pense.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/2e32e512-f39e-48bd-9248-b45e0145b5bd/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/2e32e512-f39e-48bd-9248-b45e0145b5bd/audio.mp3" length="34644627" type="audio/mpeg"/>
       <itunes:duration>2147</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -218,7 +218,7 @@ On explore comment l’IA reconstruit l’anatomie en 3D à partir d’imageries
       <guid isPermaLink="false">qub-16a98c63-2100-4d32-9b01-b4570163012f</guid>
       <pubDate>Fri, 29 May 2026 20:00:00 +0000</pubDate>
       <description>Dans ce neuvième épisode de IA-tu pensé?, David Proulx et Nicholas Belliveau reçoivent Stéfanie Vallée, chercheuse en transformation numérique durable ayant déposé deux mémoires à la Commission Gallant, pour un diagnostic sans détour des échecs systémiques dans la gestion des projets technologiques du gouvernement québécois. En prenant le fiasco SAAQclic comme étude de cas, elle critique l&#x27;ingérence politique dans les décisions techniques, l&#x27;inadéquation des méthodes d&#x27;audit de la Vérificatrice générale et la concentration de pouvoir qui nuit à l&#x27;imputabilité. Elle plaide pour un changement de paradigme radical : passer de la gestion de projet à la gestion de produit, où les logiciels gouvernementaux sont traités comme des systèmes vivants en amélioration continue, co-créés avec les employés de terrain. Sur le plan stratégique, elle défend la souveraineté numérique du Québec et la création d&#x27;une entité étatique dédiée à l&#x27;IA, inspirée du modèle Hydro-Québec, pour que les données des citoyens restent sous contrôle québécois. Le segment éducatif de l&#x27;épisode illustre la différence entre les &quot;Projets&quot; et les GPTs personnalisés dans ChatGPT, avec une démonstration concrète d&#x27;une intégration API avec QuickBooks permettant de créer un client et générer une facture en langage naturel.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/16a98c63-2100-4d32-9b01-b4570163012f/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/16a98c63-2100-4d32-9b01-b4570163012f/audio.mp3" length="64385800" type="audio/mpeg"/>
       <itunes:duration>4006</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -230,7 +230,7 @@ On explore comment l’IA reconstruit l’anatomie en 3D à partir d’imageries
       <description>Et si l’intelligence artificielle devenait votre meilleur employé? Dans cet épisode, on plonge dans un cas concret d’entreprise touristique qui a intégré l’IA au cœur de ses opérations… avec des gains impressionnants en temps, en efficacité et en opportunités.
 
 Courriels automatisés, recrutement simplifié, création de contenu accélérée, service client optimisé : Jean-Philippe Duchesneau (Éco Récréo) partage comment son équipe a économisé des centaines d’heures par année grâce à des outils accessibles comme ChatGPT, Airtable et Make. On parle aussi des limites, des erreurs à éviter et surtout par où commencer pour réellement créer de la valeur avec l’IA.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/c4fbe138-81c2-402f-9319-b452013889f1/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/c4fbe138-81c2-402f-9319-b452013889f1/audio.mp3" length="44366382" type="audio/mpeg"/>
       <itunes:duration>2755</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -244,7 +244,7 @@ Courriels automatisés, recrutement simplifié, création de contenu accéléré
 Avec Dominique Gagnon (entrepreneur en résidence à la BDC), on plonge dans les vrais enjeux du terrain : pourquoi la majorité des entrepreneurs ne savent pas par où commencer, comment éviter les pièges coûteux (consultants à 10 000$/mois, projets à 1M$ inutiles), et surtout… comment utiliser l’IA dès aujourd’hui pour gagner du temps, réduire la charge de travail et améliorer sa productivité. On parle aussi d’outils simples (ChatGPT, prise de notes, rédaction), de démocratisation, et du fossé énorme entre ce qui est possible et ce qui est réellement fait.
 
 Un épisode essentiel pour tout entrepreneur, dirigeant ou professionnel qui veut arrêter de subir l’IA et commencer à l’utiliser intelligemment. Si vous vous sentez débordé, sceptique ou simplement curieux : cet épisode est votre point de départ.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/72283977-b111-4346-b327-b44b014774a5/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/72283977-b111-4346-b327-b44b014774a5/audio.mp3" length="52770672" type="audio/mpeg"/>
       <itunes:duration>3280</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -277,7 +277,7 @@ normalement pris de un an et demi à deux ans a été accompli en six
 mois - une transformation que Josh décrit à travers le concept de
 &quot;Business OS&quot; : l&#x27;IA non pas comme un outil ponctuel, mais comme le
 système d&#x27;exploitation de toute l&#x27;entreprise.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/471c4f66-0155-4cf1-a499-b4430134087a/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/471c4f66-0155-4cf1-a499-b4430134087a/audio.mp3" length="39522629" type="audio/mpeg"/>
       <itunes:duration>2452</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -292,7 +292,7 @@ L&#x27;équipe reçoit ensuite Benjamin Chalier, Directeur des ventes chez Reloc
 Benjamin détaille comment son équipe utilise l&#x27;IA à chaque étape du cycle de vente : enrichissement du CRM, priorisation des comptes, prospection personnalisée à grande échelle, et visualisations de micro-usines intégrées à la marque du client avant même d&#x27;avoir conclu la vente.
 
 L&#x27;épisode se poursuit avec Olivier J. Bergeron, cofondateur du mouvement Âge Standard, qui présente sa pétition pour fixer à 16 ans l&#x27;âge minimum d&#x27;accès aux réseaux sociaux au Canada, une initiative appuyée par des études documentant les effets des plateformes sur la santé mentale des jeunes et qui a recueilli plus de 17 000 signatures en sept jours. L&#x27;équipe explore les solutions concrètes pour la vérification d&#x27;âge : IA d&#x27;estimation sur appareil, mécanismes analogiques en point de vente, et micro-virement Interac comme alternative respectueuse de la vie privée. David Proulx et Nicholas Belliveau clôturent l&#x27;épisode avec les nouvelles tech de la semaine, notamment le réentraînement complet de ChatGPT 5.5, le modèle Kwen 27B pour l&#x27;exécution agentique locale sur laptop, et l&#x27;essor de DeepSea V4 avec ses mille milliards de paramètres.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/2bd92dc6-dd4b-46d0-8857-b43d0103514d/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/2bd92dc6-dd4b-46d0-8857-b43d0103514d/audio.mp3" length="50862280" type="audio/mpeg"/>
       <itunes:duration>3161</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -304,7 +304,7 @@ L&#x27;épisode se poursuit avec Olivier J. Bergeron, cofondateur du mouvement �
       <description>Dans ce quatrième épisode de IA tu pensé?, David Proulx et Nicholas Belliveau ouvrent l&#x27;émission avec un segment pratique sur l&#x27;utilisation de la voix avec l&#x27;IA : comment dicter, transcrire et rédiger plus efficacement grâce à des outils comme Whisper et les modules intégrés des grandes plateformes, une capacité particulièrement utile pour ceux qui sont moins à l&#x27;aise avec l&#x27;écriture ou la programmation. 
 L&#x27;équipe reçoit ensuite Mathieu Laneuville, directeur général de Réseau Environnement, un OBNL de près de 3 000 membres dont la mission est d&#x27;accélérer la transition vers un monde durable : optimisation des routes de collecte de matières résiduelles, robotisation des centres de tri, drones pour l&#x27;inventaire de la biodiversité, et compteurs intelligents pour détecter les fuites d&#x27;eau. L&#x27;épisode se poursuit avec Joseph Aubut, fondateur de Léomed Technologies, une plateforme d&#x27;orchestration des trajectoires de soins dont il annonce l&#x27;acquisition toute récente par Purkinj, le dossier patient électronique déployé dans plusieurs hôpitaux québécois et utilisé par l&#x27;armée canadienne. De la réduction des annulations chirurgicales à la création de protocoles cliniques en quelques minutes grâce à l&#x27;IA, Joseph illustre comment la technologie peut être mise directement dans les mains des cliniciens. 
 David Proulx et Nicholas Belliveau clôturent l&#x27;épisode avec les nouvelles tech de la semaine, notamment la sortie d&#x27;Opus 4.7, le lancement de Perplexity Personal Computer, l&#x27;annonce de ChatGPT 5.5, et une étude BCG sur l&#x27;«AI brain fry» et les risques cognitifs liés à l&#x27;utilisation simultanée de plusieurs agents.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/eea2daa7-b10e-426c-b746-b4340122d37f/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/eea2daa7-b10e-426c-b746-b4340122d37f/audio.mp3" length="52151279" type="audio/mpeg"/>
       <itunes:duration>3241</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -316,7 +316,7 @@ David Proulx et Nicholas Belliveau clôturent l&#x27;épisode avec les nouvelles
       <description>Dans cet épisode, David Proulx et Nicholas Belliveau reçoivent Mario Caetano (Refexio DKI) et Mehdi Merai (JetScale AI) pour parler très concrètement de la place de l&#x27;IA dans leurs organisations. Mario explique comment l&#x27;IA lui permet de gérer davantage de mandats et de sinistres sans agrandir son équipe. 
 De son côté, Mehdi montre comment une couche d&#x27;IA au-dessus du cloud peut aider les entreprises à mieux gouverner et optimiser leurs environnements. Un échange terrain, loin du hype, sur ce que l&#x27;IA change déjà aujourd&#x27;hui dans les PME et les grandes organisations. 
 On parle aussi de Iron Claw, de Mythos et de Gemma.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/55a9177b-df21-4db6-9008-b42e01211f53/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/55a9177b-df21-4db6-9008-b42e01211f53/audio.mp3" length="53621240" type="audio/mpeg"/>
       <itunes:duration>3333</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -326,7 +326,7 @@ On parle aussi de Iron Claw, de Mythos et de Gemma.</description>
       <guid isPermaLink="false">qub-1d4026bf-fc99-45ec-ac75-b4280107553d</guid>
       <pubDate>Fri, 10 Apr 2026 20:00:00 +0000</pubDate>
       <description>Dans ce deuxième épisode, David Proulx et Nicholas Belliveau reçoivent Bertrand Nepveu, co-fondateur et Geek-in-Chief de Triptyq Capital, pour une conversation qui va de la vente de son entreprise à Apple jusqu&#x27;à l&#x27;automatisation de sa maison par des agents IA, en passant par sa conviction que le métaverse finira par s&#x27;imposer grâce aux avancées de l&#x27;IA. L&#x27;équipe rencontre ensuite Olivier Rocheleau, co-propriétaire d&#x27;Outillage Placide Mathieu Inc., une entreprise familiale de 65 ans qui intègre l&#x27;IA dans ses opérations : de la communication client à l&#x27;expansion de son catalogue de 150 000 à un million de produits grâce à des agents IA, en passant par la capacité nouvelle de son équipe francophone à servir des clients anglophones partout au Canada. David Proulx et Nicholas Belliveau clôturent l&#x27;épisode en passant en revue les nouvelles tech de la semaine, notamment TurboQuant de Google.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/1d4026bf-fc99-45ec-ac75-b4280107553d/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/1d4026bf-fc99-45ec-ac75-b4280107553d/audio.mp3" length="50788743" type="audio/mpeg"/>
       <itunes:duration>3156</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -336,7 +336,7 @@ On parle aussi de Iron Claw, de Mythos et de Gemma.</description>
       <guid isPermaLink="false">qub-4ed3ccd3-af95-46fc-9295-b421010ef17b</guid>
       <pubDate>Fri, 03 Apr 2026 16:33:21 +0000</pubDate>
       <description>Dans ce premier épisode de IA-tu pensé?, David Proulx reçoit un invité de prestige : Benoît Dutrizac, pour un débat franc sur l&#x27;avenir du journalisme à l&#x27;ère de l&#x27;intelligence artificielle. On rencontre aussi Patrick Murphy, cofondateur de Maket.ca, une startup montréalaise qui démocratise l&#x27;architecture grâce à l&#x27;IA, Pierre Lévesque, entrepreneur qui partage comment l&#x27;IA transforme concrètement la gestion de son entreprise, et Nicolas Béliveau, co-animateur, qui décrypte les nouvelles tech de la semaine avec David Proulx.</description>
-      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/4ed3ccd3-af95-46fc-9295-b421010ef17b/audio.mp3" length="0" type="audio/mpeg"/>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/4ed3ccd3-af95-46fc-9295-b421010ef17b/audio.mp3" length="47104833" type="audio/mpeg"/>
       <itunes:duration>2926</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
