@@ -139,18 +139,30 @@ def load_history(feed):
 
 
 def head_length(url):
-    """Taille du fichier audio en octets (Content-Length d'une requête HEAD), "0" en cas d'échec."""
+    """Taille du fichier audio en octets (Content-Length d'une requête HEAD).
+
+    None si le fichier n'existe plus (404), "0" pour tout autre échec.
+    """
     req = urllib.request.Request(url, method="HEAD", headers={"User-Agent": USER_AGENT})
     try:
         with urllib.request.urlopen(req, timeout=30) as r:
             return r.headers.get("Content-Length", "0")
+    except urllib.error.HTTPError as e:
+        if e.code == 404:
+            return None
+        print(f"   taille introuvable : {e}")
+        return "0"
     except Exception as e:  # length="0" : on réessaiera au prochain lancement
         print(f"   taille introuvable : {e}")
         return "0"
 
 
 def resolve_lengths(episodes, history):
-    """Ajoute ep["length"] : reprise de l'historique, sinon requête HEAD."""
+    """Ajoute ep["length"] : reprise de l'historique, sinon requête HEAD.
+
+    Retourne les épisodes à garder : ceux dont l'audio renvoie 404 sont retirés.
+    """
+    gardes = []
     for i, ep in enumerate(episodes, 1):
         connu = history.get(ep["guid"])
         if connu and connu["audio"] == ep["audio"] and connu["length"] != "0":
@@ -159,6 +171,11 @@ def resolve_lengths(episodes, history):
             print(f"taille {i}/{len(episodes)} : {ep['title']}")
             ep["length"] = head_length(ep["audio"])
             time.sleep(PAUSE_HEAD)
+            if ep["length"] is None:
+                print("   RETIRÉ, audio 404")
+                continue
+        gardes.append(ep)
+    return gardes
 
 
 def hms(seconds):
@@ -267,14 +284,15 @@ def traiter(url):
     history = load_history(feed)
     nouveaux = site.keys() - history.keys()
     print(f"{len(site)} épisodes sur QUB, {len(history)} dans l'historique, {len(nouveaux)} nouveau(x)")
-    if history and not nouveaux and all(ep["length"] != "0" for ep in history.values()):
-        print("Déjà à jour")
-        return
     episodes = sorted({**history, **site}.values(), key=lambda ep: ep["date"], reverse=True)
+    episodes = resolve_lengths(episodes, history)
     if not episodes:
         print("Aucun épisode trouvé")
         return
-    resolve_lengths(episodes, history)
+    # rien de neuf (épisodes 404 retirés compris) : on ne réécrit pas le flux
+    if {ep["guid"]: ep["length"] for ep in episodes} == {g: ep["length"] for g, ep in history.items()}:
+        print("Déjà à jour")
+        return
     write_rss(slug, show, episodes)
     write_html(slug, show, episodes)
     print(f"OK : {slug}.xml et {slug}.html ({len(episodes)} épisodes)")
