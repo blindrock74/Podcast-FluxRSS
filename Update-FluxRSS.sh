@@ -56,11 +56,7 @@ echo "=== Generation des flux pour QUB"
 "$PYTHON" qub_rss.py
 
 echo
-# TEMPORAIRE : copie des .xml a la racine pour les anciens liens
-# (a retirer une fois les abonnements migres vers docs/)
-cp -f docs/*.xml .
-shopt -s nullglob
-git add -- docs *.xml cache_audio.json emissions.txt
+git add -- docs cache_audio.json emissions.txt
 if git diff --cached --quiet; then
     echo "=== Aucune mise a jour : tous les flux sont a jour."
     # commits locaux pas encore envoyes (ex. modification des scripts) : on les pousse
