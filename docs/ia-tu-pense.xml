@@ -26,7 +26,7 @@ Mais quelqu’un qui la comprend, oui.
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 17:35:16 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:22:39 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/image.jpg?t=1775231217&amp;size=Large</url>
       <title>iA-tu pensé?</title>
@@ -40,6 +40,20 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Créer avec l&#x27;IA : qui est vraiment l&#x27;artiste?</title>
+      <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep11-20261106-audio-1271673640</link>
+      <guid isPermaLink="false">qub-670089a8-67e6-4782-8a0f-b4f901174aec</guid>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 +0000</pubDate>
+      <description>Quand l’intelligence artificielle génère la musique et les images, qui crée vraiment? Dans cet épisode de IA-tu pensé?, David Proulx reçoit Gabriel Pelletier, réalisateur et président de l’Association des réalisateurs et réalisatrices du Québec, ainsi qu’Extraltodeus, artiste qui utilise l’IA pour créer des chansons et des vidéoclips.
+
+Derrière les résultats, il y a des personnages à imaginer, des consignes à écrire, des essais à recommencer et des choix à faire. À partir de la démarche d’Extraltodeus, la discussion explore ce qui relève de l’intention humaine et ce qu’on laisse à la machine. L’IA est-elle un instrument de création ou prend-elle la place de l’artiste?
+
+L’échange aborde aussi les questions qui bousculent le milieu culturel : les œuvres utilisées pour entraîner les modèles, la rémunération des créateurs et la protection des contenus générés. Une rencontre entre expérimentation artistique et défense du travail humain, autour d’une question centrale : qu’est-ce qui fait d’une création une œuvre?</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/670089a8-67e6-4782-8a0f-b4f901174aec/audio.mp3" length="54942816" type="audio/mpeg"/>
+      <itunes:duration>3416</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>L&#x27;IA entre dans le droit. Le Barreau veut fixer les bugs et les règles. | Me Catherine Ouimet</title>
       <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep10-20261030-audio-366081668</link>

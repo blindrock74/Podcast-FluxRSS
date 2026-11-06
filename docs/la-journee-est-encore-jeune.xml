@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Jean-Philippe Wauthier et ses complices, dont le bel Olivier Niquet, passent l&#x27;actualité dans le tordeur, avec l&#x27;esprit mordant et affûté qu&#x27;on leur connaît. Évidemment, Jean-Sébastien Girard y fait quelques saucettes. Les fans de l&#x27;émission culte &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt; en retrouveront l&#x27;énergie, le plaisir et le côté juste assez piquant.&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot; href=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Retrouvez les produits dérivés de&lt;em&gt; La journée (est encore jeune)&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;/em&gt;&lt;a title=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot; href=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 16:55:48 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:22:15 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg</url>
       <title>La journée (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Vendredi 6 nov. 2026 : Robin-Joël Cool et Pasquale Harrison-Julien</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1287622/vendredi-6-nov-2026-robin-joel-cool-et-pasquale-harrison-julien</link>
+      <guid isPermaLink="false">ohdio-1287622</guid>
+      <pubDate>Fri, 06 Nov 2026 19:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Olivier nous fait écouter Pierre Poilievre, qui se moque de ce que le PLC appelle des &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;investissements &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;investissements &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;investissements&lt;/span&gt;&lt;/q&gt;. Robin-Joël Cool propose que chaque personne choisisse son fuseau horaire pour résoudre le problème du changement d&amp;#x27;heure. Et Pasquale Harrison-Julien s’intéresse aux peptides injectables non homologués.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/1a3c882e-0f99-49dd-a8c7-d6c47d45622f/2026-11-06_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="36356873" type="audio/mp4"/>
+      <itunes:duration>1769</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Jeudi 5 nov. 2026 : David Saint-Jacques, Simon Coutu, Nathalie Petrowski et Hugo Dumas </title>
       <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1287342/jeudi-5-nov-2026-david-saint-jacques-simon-coutu-nathalie-petrowski-et-hugo-dumas</link>

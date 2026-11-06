@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Les décrypteurs discutent de ce qui a retenu leur attention dans l’actualité de la semaine : des phénomènes web, des tendances virales, de l’intelligence artificielle, de la science et des technologies. Des discussions sans montage (ou presque), spontanées et très décontractées pour mieux comprendre le monde numérique et distinguer le vrai du faux. &lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/decrypteurs&quot; href=&quot;https://ici.tou.tv/decrypteurs&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Prix Signal 2025&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;: &lt;/strong&gt;bronze et prix du public dans la catégorie technologie&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 18:02:14 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:22:26 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/visuel-moteur-les-decrypteurs-balado-2026.jpg</url>
       <title>Décrypteurs : le balado</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Élections de mi-mandat : l’IA « passe au cash  » </title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1287554/election-de-mi-mandat-lia-passe-au-cash</link>
+      <guid isPermaLink="false">ohdio-1287554</guid>
+      <pubDate>Fri, 06 Nov 2026 17:00:00 +0000</pubDate>
+      <description>&lt;p&gt;L’industrie de l’IA malmenée par l’électorat américain; l’investissement majeur du gouvernement du Canada dans l’entreprise Cohere, un fleuron canadien de l’IA; une vague de cyberpiratage contre des frigos en Europe; un vol historique de cryptomonnaie par la Corée du Nord; et le recours à l’IA par l’armée israélienne décrypté dans le documentaire &lt;em&gt;Naza&lt;/em&gt;.&amp;nbsp;&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/eafe983e-299a-4fe7-8dfb-c2c5f52bbe11/2026-11-06_11_35_16_decrypteurslebaladoohdio_0000_128.mp4" length="61559632" type="audio/mp4"/>
+      <itunes:duration>3358</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>« Octobre noir » en cybersécurité: l’IA déclenche une alerte mondiale</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1285694/octobre-noir-lia-declenche-une-alerte-mondiale</link>

@@ -16,7 +16,7 @@ Un balado mordant, punché et rafraîchissant… où l’immobilier prend enfin 
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 17:41:18 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:22:44 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/6fc5bdce-c599-4c28-bcb2-b35200f02f9e/image.jpg?t=1757342075&amp;size=Large</url>
       <title>Sans vice caché</title>
@@ -30,6 +30,16 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mike chez Rona : &quot;J&#x27;avais honte de dire que j&#x27;étais un artiste dans le domaine de la construction!&quot; </title>
+      <link>https://www.qub.ca/balado/sans-vice-cache/sans-vice-cache-edition-06-nov-mike-chez-rona-20261106-audio-2009643346</link>
+      <guid isPermaLink="false">qub-c7669c69-7890-4c8b-b593-b4f90155c7e7</guid>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 +0000</pubDate>
+      <description>Alexandre Pronovost, alias Mike chez Rona, nous rend visite cette semaine à Sans Vice Caché! Le parcours incroyable d&#x27;un gars ordinaire au destin fantastique. Devenu une superstar instantanée au Québec, on jase immobilier et vie en général avec un gars hyper sympathique qui souhaite donner au suivant! Ne manquez pas cet épisode unique, drôle et surtout touchant du charpentier menuisier devenu artiste! </description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/6fc5bdce-c599-4c28-bcb2-b35200f02f9e/c7669c69-7890-4c8b-b593-b4f90155c7e7/audio.mp3" length="35340080" type="audio/mpeg"/>
+      <itunes:duration>2188</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Ruiné par des formations immobilières</title>
       <link>https://www.qub.ca/balado/sans-vice-cache/sans-vice-cache-edition-30-oct-fabien-major-20261030-audio-2139324496</link>
