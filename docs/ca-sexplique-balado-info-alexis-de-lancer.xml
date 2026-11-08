@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Un sujet, un invité et une quinzaine de minutes pour en jaser. Du mardi au jeudi et le samedi, c&#x27;est le rendez-vous matinal que propose Alexis De Lancer. Il va au-delà de la nouvelle pour mieux comprendre les grands enjeux d&#x27;actualité.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New York Festivals Radio Awards (2024)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;:&lt;/strong&gt; finaliste dans la catégorie du meilleur balado d&#x27;information&lt;br/&gt;&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 18:12:34 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:30:56 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/ca-sexplique-balado-premiere.jpg</url>
       <title>Ça s&#x27;explique</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Eurovision : la recette d’un succès planétaire</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1287598/concours-eurovision-chanson-bulgarie-2027-canada-participation</link>
+      <guid isPermaLink="false">ohdio-1287598</guid>
+      <pubDate>Sat, 07 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;L’entrée en scène du Canada pour la toute première fois au Concours Eurovision de la chanson suscite un engouement inédit pour cette compétition musicale hors du commun. L’artiste que le public choisira aura l’honneur de représenter le pays au mois de mai prochain en Bulgarie et marquera l’histoire de la musique canadienne. Catherine Genest, qui est créatrice de contenu pour la Société canadienne des auteurs, compositeurs et éditeurs de musique (SOCAN) et collaboratrice de Radio-Canada, explique l’importance et la portée de l’Eurovision pour les artistes et le monde musical.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/ae2cf0b5-baf3-425a-bd2c-85177f973775/2026-11-06_16_40_00_casexplique_0000_128.mp4" length="35905400" type="audio/mp4"/>
+      <itunes:duration>1741</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Épidémie de solitude chez les jeunes&amp;nbsp;: comment en est-on arrivé là? </title>
       <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1287070/epidemie-de-solitude-chez-les-jeunes-comment-en-est-on-arrive-la</link>

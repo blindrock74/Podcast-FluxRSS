@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 18:54:04 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:29:55 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Le meilleur de la semaine du 2 novembre 2026</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1287492/le-meilleur-de-la-semaine-du-2-novembre-2026</link>
+      <guid isPermaLink="false">ohdio-1287492</guid>
+      <pubDate>Sat, 07 Nov 2026 02:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Voici un assemblage des quatre émissions diffusées cette semaine. Au menu&amp;nbsp;: la fondation de Radio-Canada, l’adoption du SOS, l’élection de Barack Obama et la nuit des longs couteaux du Québec.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/a421e1d7-b873-4d95-9c63-5458b264f269/2026-11-05_16_50_00_lhistoireestencorejeune_0000_128.mp4" length="86843708" type="audio/mp4"/>
+      <itunes:duration>4951</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>5 novembre 1981 : la nuit des longs couteaux du Québec</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1286193/5-novembre-1981-la-nuit-des-longs-couteaux-du-quebec</link>

@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Jean-Philippe Wauthier et ses complices, dont le bel Olivier Niquet, passent l&#x27;actualité dans le tordeur, avec l&#x27;esprit mordant et affûté qu&#x27;on leur connaît. Évidemment, Jean-Sébastien Girard y fait quelques saucettes. Les fans de l&#x27;émission culte &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt; en retrouveront l&#x27;énergie, le plaisir et le côté juste assez piquant.&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot; href=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Retrouvez les produits dérivés de&lt;em&gt; La journée (est encore jeune)&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;/em&gt;&lt;a title=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot; href=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 16:22:15 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:29:53 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg</url>
       <title>La journée (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Samedi 7 nov. 2026 : Olivier Niquet en brochette</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1287678/samedi-7-nov-2026-olivier-niquet-en-brochette</link>
+      <guid isPermaLink="false">ohdio-1287678</guid>
+      <pubDate>Sat, 07 Nov 2026 12:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La nomination de Jacinthe-Eve Arel au Parti québécois choque beaucoup de gens. L’ex-maire de Saguenay Jean Tremblay se dit très inspiré par les prières générées par l’intelligence artificielle. Et Martin St-Louis explique que la défaite historique du Canadien contre les Jets est due aux &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;,&amp;quot;data&amp;quot;:{&amp;quot;id&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;Français&amp;quot;}},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;détails qui ont descendu&amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;détails qui ont descendu&amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;détails qui ont descendu&lt;/span&gt;&lt;/q&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/b8158ddc-5d31-4836-a0c5-0ed091b978dd/2026-11-06_15_00_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="47825723" type="audio/mp4"/>
+      <itunes:duration>2492</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vendredi 6 nov. 2026 : Robin-Joël Cool et Pasquale Harrison-Julien</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1287622/vendredi-6-nov-2026-robin-joel-cool-et-pasquale-harrison-julien</link>
