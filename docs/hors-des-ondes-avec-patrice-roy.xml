@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hors des ondes avec Patrice Roy</title>
+    <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy</link>
+    <description>&lt;p&gt;Patrice Roy prend le temps de discuter avec des personnalités afin de mieux comprendre des enjeux de notre société.  Toutes les deux semaines, en dehors du rythme effréné de l’actualité, il nous convie à des conversations intimes qui donnent lieu à des échanges pertinents et parfois inédits, Patrice et les gens qu’il reçoit ayant l&#x27;occasion de dévoiler un peu plus le fond de leur pensée.&lt;/p&gt;</description>
+    <language>fr-ca</language>
+    <copyright>Radio-Canada</copyright>
+    <lastBuildDate>Mon, 09 Nov 2026 06:54:34 -0500</lastBuildDate>
+    <image>
+      <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/hors-des-ondes-balado-visuel-moteur-ohdio.jpg</url>
+      <title>Hors des ondes avec Patrice Roy</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy</link>
+    </image>
+    <itunes:image href="https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/hors-des-ondes-balado-visuel-moteur-ohdio.jpg"/>
+    <itunes:author>Radio-Canada</itunes:author>
+    <itunes:owner>
+      <itunes:name>Radio-Canada</itunes:name>
+    </itunes:owner>
+    <itunes:category text="Comedy"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mi-mandat : la défaite du parti de Trump analysée par Rafael Jacob</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1287290/mi-mandat-la-defaite-du-parti-de-trump-analysee-par-rafael-jacob</link>
+      <guid isPermaLink="false">ohdio-1287290</guid>
+      <pubDate>Fri, 06 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Le Parti républicain de Donald Trump a subi une cuisante défaite aux élections de mi-mandat du 3&amp;nbsp;novembre&amp;nbsp;2026 aux États-Unis. Mais qui aura vraiment le pouvoir maintenant que le Congrès est passé dans le camp démocrate? Qu&amp;#x27;est-ce qui attend Trump? Sitôt son émission spéciale terminée à RDI, Patrice Roy s&amp;#x27;est assis avec l&amp;#x27;analyste Rafael Jacob pour poursuivre la réflexion à chaud, en pleine nuit.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/5cb5e264-a5bf-4a69-bbdf-4f3d39018371/2026-11-05_18_13_45_horsdesondespatriceroyohdio_0000_128.mp4" length="43046495" type="audio/mp4"/>
+      <itunes:duration>2191</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Pourquoi meurt-on plus du cancer au Québec qu’ailleurs au pays? Dr Denis Soulières répond</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1283413/pourquoi-meurt-on-plus-du-cancer-au-quebec-quailleurs-au-pays-dr-denis-soulieres-repond</link>
+      <guid isPermaLink="false">ohdio-1283413</guid>
+      <pubDate>Sun, 25 Oct 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Ce n&amp;#x27;est pas juste une impression : le nombre de cas de cancers explose. Il y en a plus au Québec qu&amp;#x27;ailleurs au Canada, et de plus en plus de jeunes vivent avec cette maladie. Mais pourquoi le cancer s&amp;#x27;étend-il autant, et pourquoi attaque-t-il plus de jeunes? Qu&amp;#x27;est-ce qu&amp;#x27;on pourrait faire pour mieux prévenir, dépister et traiter la maladie? Patrice Roy en discute avec l&amp;#x27;hématologue et oncologue Denis Soulières.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8b2af9c9-c2e7-4d60-a8b4-439c33097cb2/2026-10-22_13_36_10_horsdesondespatriceroyohdio_0000_128.mp4" length="75015168" type="audio/mp4"/>
+      <itunes:duration>4207</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Trump, révolutionnaire ou insignifiant? L’analyse de Rafael Jacob </title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1279452/trump-revolutionnaire-ou-insignifiant-lanalyse-de-rafael-jacob</link>
+      <guid isPermaLink="false">ohdio-1279452</guid>
+      <pubDate>Sun, 11 Oct 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Que restera-t-il du passage de Donald Trump à la présidence des États-Unis? Est-il un dictateur, ou une marionnette? Va-t-il tenter de se faire élire pour un troisième mandat? Patrice Roy discute de toutes ces questions avec son collaborateur de longue date, Rafael Jacob. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/14894aa4-62d5-4262-8339-cb69fef13de7/2026-10-08_07_36_32_horsdesondespatriceroyohdio_0000_128.mp4" length="77256509" type="audio/mp4"/>
+      <itunes:duration>4349</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Yoshua Bengio : l’IA pourrait « se retourner contre nous » </title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1276180/yoshua-bengio-lia-pourrait-se-retourner-contre-nous</link>
+      <guid isPermaLink="false">ohdio-1276180</guid>
+      <pubDate>Sun, 27 Sep 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Tricheries, manipulations, attaques coordonnées : au cours des derniers mois, l&amp;#x27;intelligence artificielle a multiplié les dérapages. Mais pourquoi les agents IA mentent? Les géants de l’IA ont-ils déjà perdu le contrôle? Pour aller au fond des choses, Patrice Roy reçoit l’un des pères de l’IA, Yoshua Bengio.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/30f3adea-2851-406f-9ad2-87777a019467/2026-09-25_09_12_25_horsdesondespatriceroyohdio_0000_128.mp4" length="77965713" type="audio/mp4"/>
+      <itunes:duration>4393</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mike Ward sur la censure, l’argent et la vente de Sous écoute</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1272715/mike-ward-sur-la-censure-largent-et-la-vente-de-sous-ecoute</link>
+      <guid isPermaLink="false">ohdio-1272715</guid>
+      <pubDate>Sun, 13 Sep 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;L&amp;#x27;humoriste Mike Ward est le roi incontesté du balado québécois avec &lt;em&gt;Sous écoute&lt;/em&gt;. Avec Patrice Roy, il parle d’argent, du mouvement souverainiste québécois et du dossier Jérémy Gabriel.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/7f50c2ef-f2c8-4feb-97fe-4533417adee8/2026-09-11_08_30_00_horsdesondespatriceroyohdio_0000_128.mp4" length="71375954" type="audio/mp4"/>
+      <itunes:duration>3978</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Chantal Hébert sur les États-Unis, Mark Carney et l’Alberta</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1269779/chantal-hebert-sur-les-etats-unis-mark-carney-et-lalberta</link>
+      <guid isPermaLink="false">ohdio-1269779</guid>
+      <pubDate>Sun, 30 Aug 2026 15:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Qui de mieux placé que la journaliste et analyste Chantal Hébert pour parler avec Patrice Roy des relations tendues entre les États-Unis de Donald Trump et le Canada, de la lune de miel de Mark Carney avec la population canadienne et des mouvements séparatistes en Alberta et au Québec?&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/95f7b199-ac44-4181-8b52-0b65ff5bb1e8/2026-08-28_14_54_57_horsdesondespatriceroyohdio_0000_128.mp4" length="73664713" type="audio/mp4"/>
+      <itunes:duration>4124</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Mounir Kaddouri</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1264667/mounir-kaddouri-maire-laval-reseaux-sociaux-souverainete-web</link>
+      <guid isPermaLink="false">ohdio-1264667</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Faut-il être absolument viral sur les réseaux sociaux pour toucher les jeunes? Quelle est l’importance de l’objectivité en journalisme? Le Québec doit-il devenir un pays? En discussion avec le créateur de contenu Mounir Kaddouri, alias «&amp;nbsp;Maire de Laval&amp;nbsp;», le chef d’antenne Patrice Roy aborde toutes ces questions. Choc des idées ou combat des générations? Deux figures médiatiques se livrent à un échange passionné sur l’importance de l’information et son évolution à l’ère du web. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/b060bc61-8f28-4b2e-b7e7-5c871322f960/2026-08-12_15_43_00_horsdesondespatriceroyohdio_0000_128.mp4" length="70013999" type="audio/mp4"/>
+      <itunes:duration>3890</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Hors des ondes avec Patrice Roy – bande-annonce</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1261221/bande-annonce</link>
+      <guid isPermaLink="false">ohdio-1261221</guid>
+      <pubDate>Mon, 10 Aug 2026 19:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Patrice Roy prend le temps de discuter avec des personnalités afin de mieux comprendre des enjeux de notre société.  Toutes les deux semaines, en dehors du rythme effréné de l’actualité, il nous convie à des conversations intimes qui donnent lieu à des échanges pertinents et parfois inédits, Patrice et les gens qu’il reçoit ayant l&amp;#x27;occasion de dévoiler un peu plus le fond de leur pensée.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0984da3b-568c-4bc3-970b-ffebddb1f946/2026-08-10_09_13_18_horsdesondespatriceroyohdio_0000_128.mp4" length="10165071" type="audio/mp4"/>
+      <itunes:duration>119</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
