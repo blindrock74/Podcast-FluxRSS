@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Comprendre notre passé, c&#x27;est comprendre ce que nous avons été pour mieux comprendre qui nous sommes aujourd&#x27;hui. Maxime Coutié aborde un fait, un événement ou une idée qui a marqué l&#x27;histoire, la nôtre ou celle des autres, en compagnie d&#x27;un ou de plusieurs invités. Les sujets peuvent être sérieux ou légers.&lt;/p&gt;&lt;p&gt;Regards de jeunes, regards empreints d&#x27;expérience, regards de femmes, regards d&#x27;hommes, regards d&#x27;ici et d&#x27;ailleurs... l&#x27;émission aborde le passé dans toutes ses dimensions&amp;nbsp;: histoire politique, histoire sociale, histoire populaire. Naturellement, les événements liés à l&#x27;histoire contemporaine sont illustrés par des extraits d&#x27;archives sonores tirés de la collection de Radio-Canada.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 17:50:54 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:01:14 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/aujourdhui-lhistoire-visuel-moteur-maxime-coutie.jpg</url>
       <title>Aujourd&#x27;hui l&#x27;histoire</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Les émissions jeunesse, une priorité de Radio-Canada</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242445/les-emissions-jeunesse-une-priorite-de-radio-canada</link>
+      <guid isPermaLink="false">ohdio-1242445</guid>
+      <pubDate>Mon, 09 Nov 2026 20:06:00 +0000</pubDate>
+      <description>&lt;p&gt;Une plus vieille génération a connu &lt;em&gt;Fanfreluche&lt;/em&gt;, &lt;em&gt;Bobino&lt;/em&gt; et &lt;em&gt;La Souris verte&lt;/em&gt;. Une plus jeune, &lt;em&gt;Félix et Ciboulette&lt;/em&gt;, &lt;em&gt;Bouledogue Bazar&lt;/em&gt; et &lt;em&gt;Watatatow&lt;/em&gt;. L’historienne Sophie Imbeault raconte comment, dès ses débuts en télévision, en 1952, Radio-Canada a fait de la jeunesse une priorité.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/412316c8-dc37-4814-bd3b-a619c4bbe1a5/2026-11-09_15_06_00_aujourdhuilhistoire_0000_128.mp4" length="30171627" type="audio/mp4"/>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>La vulgarisation scientifique à Radio-Canada, une tradition «&amp;nbsp;fascinante&amp;nbsp;»</title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242354/la-vulgarisation-scientifique-a-radio-canada-une-tradition-fascinante</link>
