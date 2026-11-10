@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Comprendre notre passé, c&#x27;est comprendre ce que nous avons été pour mieux comprendre qui nous sommes aujourd&#x27;hui. Maxime Coutié aborde un fait, un événement ou une idée qui a marqué l&#x27;histoire, la nôtre ou celle des autres, en compagnie d&#x27;un ou de plusieurs invités. Les sujets peuvent être sérieux ou légers.&lt;/p&gt;&lt;p&gt;Regards de jeunes, regards empreints d&#x27;expérience, regards de femmes, regards d&#x27;hommes, regards d&#x27;ici et d&#x27;ailleurs... l&#x27;émission aborde le passé dans toutes ses dimensions&amp;nbsp;: histoire politique, histoire sociale, histoire populaire. Naturellement, les événements liés à l&#x27;histoire contemporaine sont illustrés par des extraits d&#x27;archives sonores tirés de la collection de Radio-Canada.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 16:01:14 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:01:15 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/aujourdhui-lhistoire-visuel-moteur-maxime-coutie.jpg</url>
       <title>Aujourd&#x27;hui l&#x27;histoire</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Le sumo, un sport vieux de 2000&amp;nbsp;ans</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242462/le-sumo-un-sport-vieux-de-2000-ans</link>
+      <guid isPermaLink="false">ohdio-1242462</guid>
+      <pubDate>Tue, 10 Nov 2026 20:06:00 +0000</pubDate>
+      <description>&lt;p&gt;Les règles du sumo sont simples en apparence&amp;nbsp;: deux colosses sur une plateforme d’argile tentent, par la force brute, de jeter l’adversaire hors du cercle ou de lui faire toucher le sol. La sociologue spécialiste du Japon Valérie Harvey explique comment ce pays en a fait son sport national.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/763299ae-a3d6-4cdc-b8b9-efb173bcce9d/2026-11-10_15_06_00_aujourdhuilhistoire_0000_128.mp4" length="30171075" type="audio/mp4"/>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Les émissions jeunesse, une priorité de Radio-Canada</title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242445/les-emissions-jeunesse-une-priorite-de-radio-canada</link>
