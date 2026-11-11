@@ -6,7 +6,7 @@
     <description>&lt;p&gt;En plus de &lt;a title=&quot;https://ici.radio-canada.ca/ohdio/balados/12879/moteur-en-herbe&quot; href=&quot;https://ici.radio-canada.ca/ohdio/balados/12879/moteur-en-herbe&quot;&gt;&lt;em&gt;Moteur en herb&lt;/em&gt;e&lt;/a&gt;, Matthieu Dugal et son équipe présentent&lt;em&gt; Moteur de recherche&lt;/em&gt;, une émission conviviale axée sur vos questions en matière de consommation, de technologie, de science, d&#x27;environnement et de santé, et vous proposent les meilleures réponses.&lt;/p&gt;&lt;p&gt;L&#x27;émission veut donner un sens au fouillis de liens et de résultats que vos questions génèrent lorsque vous effectuez une recherche sur Internet... parce que les algorithmes nous cachent autant de choses qu&#x27;ils nous en montrent.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Moteur de recherche&lt;/em&gt; vous propose une infolettre remplie de sujets étonnants. &lt;a title=&quot;https://ici.radio-canada.ca/infolettres/moteur-de-recherche&quot; href=&quot;https://ici.radio-canada.ca/infolettres/moteur-de-recherche&quot;&gt;&lt;strong&gt;Abonnez-vous!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/moteur-de-recherche&quot; href=&quot;https://ici.tou.tv/moteur-de-recherche&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 21:01:04 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:01:11 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/moteur-de-recherche-ohdio-visuel-moteur-2025-matthieu-dugal.jpg</url>
       <title>Moteur de recherche</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mardi 10 nov. 2026 : Les vaccins contre le cancer du sein, et l’apparition de la vie sur Terre</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/1242463/mardi-10-nov-2026-les-vaccins-contre-le-cancer-du-sein-et-lapparition-de-la-vie-sur-terre</link>
+      <guid isPermaLink="false">ohdio-1242463</guid>
+      <pubDate>Wed, 11 Nov 2026 00:06:00 +0000</pubDate>
+      <description>&lt;p&gt;L&amp;#x27;origine et la datation de l&amp;#x27;apparition de la vie sur Terre; le potentiel de remise en liberté des caribous nés en captivité; la résonance par sympathie des cordes d&amp;#x27;un piano; et l&amp;#x27;efficacité des vaccins thérapeutiques en remplacement de la chimiothérapie pour le cancer du sein.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/798a468b-a6c1-47f7-9e47-3eacfcd60def/2026-11-10_19_06_00_moteurderecherche_0000_128.mp4" length="58724337" type="audio/mp4"/>
+      <itunes:duration>3180</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Lundi 9 nov. 2026 : Les filtres anti-lumière bleue, et les commotions cérébrales à l’âge adulte</title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/moteur-de-recherche/episodes/1242447/lundi-9-nov-2026-les-filtres-anti-lumiere-bleue-et-les-commotions-cerebrales-a-lage-adulte</link>
