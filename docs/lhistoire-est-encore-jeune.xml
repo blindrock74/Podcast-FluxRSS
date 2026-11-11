@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 19:00:04 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:00:06 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>10 novembre 1983&amp;nbsp;: l’annonce de la création de Windows 1.0</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1288366/10-novembre-1983-lannonce-de-la-creation-de-windows-1-0</link>
+      <guid isPermaLink="false">ohdio-1288366</guid>
+      <pubDate>Tue, 10 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Le piratage d’ordinateur ne date pas d’hier&amp;nbsp;: déjà, le 10 novembre 1983, on pouvait lire dans &lt;em&gt;La Presse&lt;/em&gt; que des étudiants avaient utilisé des ordinateurs pour avoir accès à des banques de données ailleurs au pays. Jean-Philippe s’entretient avec la vulgarisatrice scientifique Stéphanie Jolicœur, qui explique comment Windows 1.0 a démocratisé l’accès aux ordinateurs, et Félix Lemieux s’intéresse au compositeur italien Ennio Morricone, célèbre pour ses musiques de film.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/b985daa3-89ba-4b3c-b959-b3da2d4fe27f/2026-11-10_10_30_00_lhistoireestencorejeune_0000_128.mp4" length="37071861" type="audio/mp4"/>
+      <itunes:duration>1814</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>9 novembre 1989 : la chute du mur de Berlin</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1287663/9-novembre-1989-la-chute-du-mur-de-berlin</link>
@@ -62,7 +72,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>3 novembre 1906&amp;nbsp;: adoption du SOS</title>
+      <title>3 novembre 1906 : l’adoption du SOS</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1285730/3-novembre-1906-adoption-du-sos</link>
       <guid isPermaLink="false">ohdio-1285730</guid>
       <pubDate>Tue, 03 Nov 2026 23:30:00 +0000</pubDate>
