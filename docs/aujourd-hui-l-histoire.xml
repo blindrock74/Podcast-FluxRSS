@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Comprendre notre passé, c&#x27;est comprendre ce que nous avons été pour mieux comprendre qui nous sommes aujourd&#x27;hui. Maxime Coutié aborde un fait, un événement ou une idée qui a marqué l&#x27;histoire, la nôtre ou celle des autres, en compagnie d&#x27;un ou de plusieurs invités. Les sujets peuvent être sérieux ou légers.&lt;/p&gt;&lt;p&gt;Regards de jeunes, regards empreints d&#x27;expérience, regards de femmes, regards d&#x27;hommes, regards d&#x27;ici et d&#x27;ailleurs... l&#x27;émission aborde le passé dans toutes ses dimensions&amp;nbsp;: histoire politique, histoire sociale, histoire populaire. Naturellement, les événements liés à l&#x27;histoire contemporaine sont illustrés par des extraits d&#x27;archives sonores tirés de la collection de Radio-Canada.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Tue, 10 Nov 2026 16:01:15 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:01:10 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/aujourdhui-lhistoire-visuel-moteur-maxime-coutie.jpg</url>
       <title>Aujourd&#x27;hui l&#x27;histoire</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Le Parti québécois et le 50e&amp;nbsp;anniversaire de son arrivée au pouvoir</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242491/le-parti-quebecois-et-le-50e-anniversaire-de-son-arrivee-au-pouvoir</link>
+      <guid isPermaLink="false">ohdio-1242491</guid>
+      <pubDate>Wed, 11 Nov 2026 20:06:00 +0000</pubDate>
+      <description>&lt;p&gt;Moins de dix ans après sa création, en 1968, le Parti québécois (PQ) remportait l’élection de 1976. Maxime Coutié décortique les semaines qui ont précédé cette élection du 15&amp;nbsp;novembre1976 avec Jean-Pierre Charbonneau, qui l’a vécue de l’intérieur puisqu’il a été élu député péquiste, et l’historien Jean-Charles Panneton, qui lance le livre &lt;em&gt;15&lt;/em&gt;&amp;nbsp;&lt;em&gt;novembre1976&lt;/em&gt;&amp;nbsp;&lt;em&gt;: récit d’une journée qui changera le Québec&lt;/em&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/cdce34fd-7643-4b9a-ae7b-44c279c5ef12/2026-11-11_15_06_00_aujourdhuilhistoire_0000_128.mp4" length="30176108" type="audio/mp4"/>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Le sumo, un sport vieux de 2000&amp;nbsp;ans</title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242462/le-sumo-un-sport-vieux-de-2000-ans</link>
