@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Comprendre notre passé, c&#x27;est comprendre ce que nous avons été pour mieux comprendre qui nous sommes aujourd&#x27;hui. Maxime Coutié aborde un fait, un événement ou une idée qui a marqué l&#x27;histoire, la nôtre ou celle des autres, en compagnie d&#x27;un ou de plusieurs invités. Les sujets peuvent être sérieux ou légers.&lt;/p&gt;&lt;p&gt;Regards de jeunes, regards empreints d&#x27;expérience, regards de femmes, regards d&#x27;hommes, regards d&#x27;ici et d&#x27;ailleurs... l&#x27;émission aborde le passé dans toutes ses dimensions&amp;nbsp;: histoire politique, histoire sociale, histoire populaire. Naturellement, les événements liés à l&#x27;histoire contemporaine sont illustrés par des extraits d&#x27;archives sonores tirés de la collection de Radio-Canada.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Wed, 11 Nov 2026 16:01:10 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:01:10 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/aujourdhui-lhistoire-visuel-moteur-maxime-coutie.jpg</url>
       <title>Aujourd&#x27;hui l&#x27;histoire</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>L’élection du Parti québécois, le 15&amp;nbsp;novembre&amp;nbsp;1976</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242494/lelection-du-parti-quebecois-le-15-novembre-1976</link>
+      <guid isPermaLink="false">ohdio-1242494</guid>
+      <pubDate>Thu, 12 Nov 2026 20:06:00 +0000</pubDate>
+      <description>&lt;p&gt;Une soirée par comme les autres a eu lieu le 15&amp;nbsp;novembre&amp;nbsp;1976. Le Parti québécois (PQ) a réussi l’impensable&amp;nbsp;: former le premier gouvernement souverainiste de l’histoire du Québec. Jean-Pierre Charbonneau a été élu ce soir-là. L’historien Jean-Charles Panneton décrit et analyse le déroulement de la soirée.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/70288f7e-0fba-49db-83f4-4edac3693413/2026-11-12_15_06_00_aujourdhuilhistoire_0000_128.mp4" length="30176058" type="audio/mp4"/>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Le Parti québécois et le 50e&amp;nbsp;anniversaire de son arrivée au pouvoir</title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242491/le-parti-quebecois-et-le-50e-anniversaire-de-son-arrivee-au-pouvoir</link>
