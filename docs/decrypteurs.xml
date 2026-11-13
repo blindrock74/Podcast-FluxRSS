@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Les décrypteurs discutent de ce qui a retenu leur attention dans l’actualité de la semaine : des phénomènes web, des tendances virales, de l’intelligence artificielle, de la science et des technologies. Des discussions sans montage (ou presque), spontanées et très décontractées pour mieux comprendre le monde numérique et distinguer le vrai du faux. &lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/decrypteurs&quot; href=&quot;https://ici.tou.tv/decrypteurs&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Prix Signal 2025&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;: &lt;/strong&gt;bronze et prix du public dans la catégorie technologie&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 16:22:26 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:00:11 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/visuel-moteur-les-decrypteurs-balado-2026.jpg</url>
       <title>Décrypteurs : le balado</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Jensen Huang : un géant déchu</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1289388/jensen-huang-un-geant-dechu</link>
+      <guid isPermaLink="false">ohdio-1289388</guid>
+      <pubDate>Fri, 13 Nov 2026 17:05:00 +0000</pubDate>
+      <description>&lt;p&gt;L’industrie de l’IA ébranlée par la chute libre de l’entreprise technologique américaine Nvidia et la tourmente de son ex-dirigeant, Jensen Huang; l’engouement majeur pour le jeu vidéo &lt;em&gt;Grand Theft Auto V&lt;/em&gt;; et le retour du spectre de la fraude électorale dans le discours de Donald Trump.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/f3d0fd2a-2f3a-42ea-9ed5-178a3605189a/2026-11-13_11_25_15_decrypteurslebaladoohdio_0000_128.mp4" length="61457916" type="audio/mp4"/>
+      <itunes:duration>3352</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Élections de mi-mandat : l’IA « passe au cash  » </title>
       <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1287554/election-de-mi-mandat-lia-passe-au-cash</link>
