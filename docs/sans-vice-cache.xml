@@ -16,7 +16,7 @@ Un balado mordant, punché et rafraîchissant… où l’immobilier prend enfin 
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 16:22:44 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:00:28 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/6fc5bdce-c599-4c28-bcb2-b35200f02f9e/image.jpg?t=1757342075&amp;size=Large</url>
       <title>Sans vice caché</title>
@@ -30,6 +30,20 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>&quot;Le mur était tellement moisi, que mon ami est passé au travers!&quot; </title>
+      <link>https://www.qub.ca/balado/sans-vice-cache/sans-vice-cache-edition-13-nov-moisissure-20261113-audio-884569898</link>
+      <guid isPermaLink="false">qub-fffa8c7b-dd03-47ff-8f80-b500012e00fd</guid>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 +0000</pubDate>
+      <description>C&#x27;était pourtant le projet d&#x27;une vie. Quand ce jeune couple a acheté sa première maison, après des années d&#x27;économies et de sacrifices, il était loin de se douter de l&#x27;enfer qui l&#x27;attendait.
+
+Sous-sol moisi, matériaux contaminés, structure endommagée, problèmes de santé… Et ce n&#x27;était que la pointe de l&#x27;iceberg!
+
+Ne manquez pas cet épisode de Sans Vice Caché, qui raconte une histoire bouleversante, de celles qui marquent les esprits. Un véritable parcours du combattant pour ces premiers acheteurs, où la frontière entre la dépression et la résilience devient parfois dangereusement mince.</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/6fc5bdce-c599-4c28-bcb2-b35200f02f9e/fffa8c7b-dd03-47ff-8f80-b500012e00fd/audio.mp3" length="25084582" type="audio/mpeg"/>
+      <itunes:duration>1548</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mike chez Rona : &quot;J&#x27;avais honte de dire que j&#x27;étais un artiste dans le domaine de la construction!&quot; </title>
       <link>https://www.qub.ca/balado/sans-vice-cache/sans-vice-cache-edition-06-nov-mike-chez-rona-20261106-audio-2009643346</link>

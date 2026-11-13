@@ -26,7 +26,7 @@ Mais quelqu’un qui la comprend, oui.
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Fri, 06 Nov 2026 16:22:39 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:00:22 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/image.jpg?t=1775231217&amp;size=Large</url>
       <title>iA-tu pensé?</title>
@@ -40,6 +40,18 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>L&#x27;IA change votre travail : comment rester indispensable?</title>
+      <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep12-20261113-audio-1532249151</link>
+      <guid isPermaLink="false">qub-9a7485ea-4249-4c0c-b03e-b4fe01631748</guid>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 +0000</pubDate>
+      <description>L’intelligence artificielle transforme le travail, du tri des CV aux tâches confiées à la relève. Comment profiter de ses capacités tout en préservant le jugement professionnel et la place de l’humain? David Proulx en discute avec Marie-Ève Girard, CRHA, directrice du Centre de services et de formation de l’Ordre des conseillers en ressources humaines agréés. Au programme : recrutement, évolution des compétences, agents IA et responsabilité des décisions.
+
+En deuxième partie, l’entrepreneur Dominic Gagnon rejoint David pour présenter leur livre Devenez indispensable avec l’IA. Ensemble, ils explorent les craintes qui freinent l’adoption et les façons concrètes d’utiliser ces outils pour récupérer du temps, au travail comme à la maison. Une discussion pour passer de l’inquiétude à l’action, sans avoir besoin de devenir un expert en technologie.</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/9a7485ea-4249-4c0c-b03e-b4fe01631748/audio.mp3" length="43454799" type="audio/mpeg"/>
+      <itunes:duration>2698</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Créer avec l&#x27;IA : qui est vraiment l&#x27;artiste?</title>
       <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep11-20261106-audio-1271673640</link>
