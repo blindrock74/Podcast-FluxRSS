@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Jean-Philippe Wauthier et ses complices, dont le bel Olivier Niquet, passent l&#x27;actualité dans le tordeur, avec l&#x27;esprit mordant et affûté qu&#x27;on leur connaît. Évidemment, Jean-Sébastien Girard y fait quelques saucettes. Les fans de l&#x27;émission culte &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt; en retrouveront l&#x27;énergie, le plaisir et le côté juste assez piquant.&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot; href=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Retrouvez les produits dérivés de&lt;em&gt; La journée (est encore jeune)&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;/em&gt;&lt;a title=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot; href=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 15:00:38 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:00:35 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg</url>
       <title>La journée (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Samedi 14 nov. 2026 : Olivier Niquet en brochette</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1289498/samedi-14-nov-2026-olivier-niquet-en-brochette</link>
+      <guid isPermaLink="false">ohdio-1289498</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Des péquistes évitent de se prononcer sur la nomination de Jacinthe-Eve Arel. Des mononcles commentent le Gala de l&amp;#x27;Adisq. Et une citoyenne de Sainte-Monique croit avoir aperçu un cougar.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/f561f144-b5c4-4ad7-afe5-51e5bbe8ad0e/2026-11-13_16_02_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="42370964" type="audio/mp4"/>
+      <itunes:duration>2148</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Vendredi 13 nov. 2026 : Pierre Brassard, Jean-Séastien Girard et Jean-François Lépine</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1289436/vendredi-13-nov-2026-pierre-brassard-jean-seastien-girard-et-jean-francois-lepine</link>
