@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Un sujet, un invité et une quinzaine de minutes pour en jaser. Du mardi au jeudi et le samedi, c&#x27;est le rendez-vous matinal que propose Alexis De Lancer. Il va au-delà de la nouvelle pour mieux comprendre les grands enjeux d&#x27;actualité.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New York Festivals Radio Awards (2024)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;:&lt;/strong&gt; finaliste dans la catégorie du meilleur balado d&#x27;information&lt;br/&gt;&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Sat, 14 Nov 2026 07:00:59 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:01:02 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/ca-sexplique-balado-premiere.jpg</url>
       <title>Ça s&#x27;explique</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Déchets militaires dans le fleuve Saint-Laurent : doit-on s’en inquiéter?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1289920/dechets-militaires-dans-le-fleuve-saint-laurent-doit-on-sen-inquieter</link>
+      <guid isPermaLink="false">ohdio-1289920</guid>
+      <pubDate>Tue, 17 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Pendant la Deuxième Guerre mondiale, du bacille de charbon (anthrax) a été secrètement produit en plein cœur du fleuve Saint-Laurent pour le compte des forces alliées. Qu’est-il advenu des surplus de cette substance hautement létale? La version la plus crédible soutient que ces rebuts toxiques auraient été carrément jetés dans le fleuve. L’apparition d’un mystérieux baril sur le littoral de l’affluent vient relancer les spéculations. Gaétan Pouliot, journaliste à l’émission Enquête, explique les rebondissements de cette histoire méconnue.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/9b66ac2b-f0e8-4b02-82d5-e8fa19441b63/2026-11-16_17_45_43_casexplique_0000_128.mp4" length="28465193" type="audio/mp4"/>
+      <itunes:duration>1272</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Scandale Nvidia et espionnage : jusqu’où la Chine est-elle prête à aller?</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1289415/scandale-nvidia-jensen-huang-alice-espionne-chinoise</link>
