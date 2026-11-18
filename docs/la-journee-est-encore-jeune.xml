@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Jean-Philippe Wauthier et ses complices, dont le bel Olivier Niquet, passent l&#x27;actualité dans le tordeur, avec l&#x27;esprit mordant et affûté qu&#x27;on leur connaît. Évidemment, Jean-Sébastien Girard y fait quelques saucettes. Les fans de l&#x27;émission culte &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt; en retrouveront l&#x27;énergie, le plaisir et le côté juste assez piquant.&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot; href=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Retrouvez les produits dérivés de&lt;em&gt; La journée (est encore jeune)&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;/em&gt;&lt;a title=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot; href=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 15:00:35 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:00:40 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg</url>
       <title>La journée (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Mercredi 18 nov. 2026 : Jean-Sébastien Girard, Dominic Tardif et Avi Lewis</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1290327/mercredi-18-nov-2026-jean-sebastien-girard-dominic-tardif-et-avi-lewis</link>
+      <guid isPermaLink="false">ohdio-1290327</guid>
+      <pubDate>Wed, 18 Nov 2026 19:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Jeannot révèle son historique sur ChatGPT. Dominic Tardif nous dit quels sont les pires gagnants de l’ADISQ et des Grammy del’histoire. Et le nouveau chef du NPD, Avi Lewis, critique le virage à droite du gouvernement de Mark Carney.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/45dd71fa-5ee7-40c0-955a-d490930db62d/2026-11-18_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="36360202" type="audio/mp4"/>
+      <itunes:duration>1770</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mardi 17 nov. 2026 : Josée Boileau, Paul Journet et Mike Morrice</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1290104/mardi-17-nov-2026-josee-boileau-paul-journet-et-mike-morrice</link>
