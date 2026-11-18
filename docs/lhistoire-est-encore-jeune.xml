@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Mon, 16 Nov 2026 19:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:00:05 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>17 novembre 2003 : L’assermentation de Schwarzenegger comme gouverneur de la Californie</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289530/17-novembre-2003-lassermentation-de-schwarzenegger-comme-gouverneur-de-la-californie</link>
+      <guid isPermaLink="false">ohdio-1289530</guid>
+      <pubDate>Tue, 17 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Déjà le 17 novembre 1967, on pouvait lire dans le journal que des députés de l’Union nationale avaient le projet de réformer les coutumes monarchiques à l’Assemblée nationale du Québec! Le même jour, en 2003, Arnold Schwarzenegger devenait gouverneur de la Californie. Jean-Philippe reçoit la politologue Karine Prémont pour parler de la carrière politique de l’acteur, et Félix Lemieux s’intéresse à Catherine II de Russie, dont le mariage s’est soldé par un assassinat.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0a339ce8-ed9f-4e26-a4e3-5fee5a6a60ec/2026-11-13_12_52_00_lhistoireestencorejeune_0000_128.mp4" length="33266511" type="audio/mp4"/>
+      <itunes:duration>1575</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>16 novembre 1938&amp;nbsp;: la première synthétisation du LSD</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289512/16-novembre-1938-la-premiere-synthetisation-du-lsd</link>
