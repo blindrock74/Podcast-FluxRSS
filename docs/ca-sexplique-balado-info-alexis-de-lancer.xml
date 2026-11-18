@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Un sujet, un invité et une quinzaine de minutes pour en jaser. Du mardi au jeudi et le samedi, c&#x27;est le rendez-vous matinal que propose Alexis De Lancer. Il va au-delà de la nouvelle pour mieux comprendre les grands enjeux d&#x27;actualité.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New York Festivals Radio Awards (2024)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;:&lt;/strong&gt; finaliste dans la catégorie du meilleur balado d&#x27;information&lt;br/&gt;&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 06:01:02 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:01:00 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/ca-sexplique-balado-premiere.jpg</url>
       <title>Ça s&#x27;explique</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Paralysie aérienne aux États-Unis : un scénario possible au Canada?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1290164/panne-avions-aeroports-etats-unis-informatique-annulations-vols</link>
+      <guid isPermaLink="false">ohdio-1290164</guid>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La pagaille aérienne du vendredi 13&amp;nbsp;novembre aux États-Unis a mené à la plus longue suspension de vols à l&amp;#x27;échelle nationale depuis les attentats terroristes du 11&amp;nbsp;septembre&amp;nbsp;2001. Pendant environ quatre heures, les décollages étaient formellement interdits.  Cette paralysie a entraîné plus de 16&amp;nbsp;000 annulations. Selon les autorités, une défectuosité liée au système de télécommunications est en cause. Est-ce qu’un tel scénario pourrait se produire au Canada? L&amp;#x27;expert en aviation et chargé de cours John Gradek fait le point.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/215ae649-1369-4745-aaf9-71342e0f6dc6/2026-11-17_16_43_00_casexplique_0000_128.mp4" length="28331990" type="audio/mp4"/>
+      <itunes:duration>1264</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Déchets militaires dans le fleuve Saint-Laurent : doit-on s’en inquiéter?</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1289920/dechets-militaires-dans-le-fleuve-saint-laurent-doit-on-sen-inquieter</link>
