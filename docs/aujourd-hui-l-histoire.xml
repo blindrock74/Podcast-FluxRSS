@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Comprendre notre passé, c&#x27;est comprendre ce que nous avons été pour mieux comprendre qui nous sommes aujourd&#x27;hui. Maxime Coutié aborde un fait, un événement ou une idée qui a marqué l&#x27;histoire, la nôtre ou celle des autres, en compagnie d&#x27;un ou de plusieurs invités. Les sujets peuvent être sérieux ou légers.&lt;/p&gt;&lt;p&gt;Regards de jeunes, regards empreints d&#x27;expérience, regards de femmes, regards d&#x27;hommes, regards d&#x27;ici et d&#x27;ailleurs... l&#x27;émission aborde le passé dans toutes ses dimensions&amp;nbsp;: histoire politique, histoire sociale, histoire populaire. Naturellement, les événements liés à l&#x27;histoire contemporaine sont illustrés par des extraits d&#x27;archives sonores tirés de la collection de Radio-Canada.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 16:01:13 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:01:09 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/aujourdhui-lhistoire-visuel-moteur-maxime-coutie.jpg</url>
       <title>Aujourd&#x27;hui l&#x27;histoire</title>
@@ -22,11 +22,21 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
-      <title>Mercredi 18 novembre 2026</title>
+      <title>Marcelle Ferron, et son parcours artistique unique</title>
+      <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242665/jeudi-19-novembre-2026</link>
+      <guid isPermaLink="false">ohdio-1242665</guid>
+      <pubDate>Thu, 19 Nov 2026 20:06:00 +0000</pubDate>
+      <description>&lt;p&gt;Dès son enfance, Marcelle Ferron était convaincue d’une chose&amp;nbsp;: qu’elle serait peintre. L’historienne de l’art Louise Déry explique pourquoi cette artiste a tant marqué l’art québécois et canadien.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/156cc3a7-574d-4b85-b65a-0b404ee9deb5/2026-11-19_15_06_00_aujourdhuilhistoire_0000_128.mp4" length="30172139" type="audio/mp4"/>
+      <itunes:duration>1380</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>L’importance du YMCA dans les villes et pour les personnes isolées</title>
       <link>https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/episodes/1242626/mercredi-18-novembre-2026</link>
       <guid isPermaLink="false">ohdio-1242626</guid>
       <pubDate>Wed, 18 Nov 2026 20:06:00 +0000</pubDate>
-      <description></description>
+      <description>&lt;p&gt;En 1844, George Williams fondait à Londres, en Angleterre, le Young Men Christian Association (YMCA). En 1851, cette organisation caritative internationale ouvrait un chapitre à Montréal, le premier en Amérique du Nord. L’historien Hugues Théorêt nous rappelle les grands moments de cette organisation unique.&lt;/p&gt;</description>
       <enclosure url="https://rcavmedias-download.akamaized.net/mp4/5baaf1d4-982d-49eb-a94c-53e96c023049/2026-11-18_15_06_00_aujourdhuilhistoire_0000_128.mp4" length="30170478" type="audio/mp4"/>
       <itunes:duration>1380</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
