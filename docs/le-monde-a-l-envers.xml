@@ -22,7 +22,7 @@ Sceptique? Parfait. Croyant? Encore mieux. Une chose est sûre : après l’éco
 Troublant. Parce que certaines vérités ne veulent pas être trouvées.</description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 11:00:25 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:00:24 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a563e634-c95e-45ed-b79a-aefb00da0cda/image.jpg?t=1792113168&amp;size=Large</url>
       <title>Troublant - Christian Page</title>
@@ -36,6 +36,23 @@ Troublant. Parce que certaines vérités ne veulent pas être trouvées.</descri
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Effondrement de la civilisation maya: les extraterrestres en cause?</title>
+      <link>https://www.qub.ca/balado/troublant-christian-page/effondrement-de-la-civilisation-maya-les-extraterrestres-en-cause-342758980</link>
+      <guid isPermaLink="false">qub-be4c48d0-d3df-4854-a117-b5070100c0f9</guid>
+      <pubDate>Thu, 19 Nov 2026 15:36:17 +0000</pubDate>
+      <description>Extraterrestres... ou poison ? Les bunkers de l&#x27;apocalypse.
+
+Phénomènes de l’étrange avec Christian Page, spécialiste du paranormal.
+
+ 
+
+Regardez aussi cette discussion en vidéo via https://www.qub.ca/videos ou en vous abonnant à QUB télé : https://www.tvaplus.ca/qub ou sur la chaîne YouTube QUB https://www.youtube.com/@qub_radio</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a563e634-c95e-45ed-b79a-aefb00da0cda/be4c48d0-d3df-4854-a117-b5070100c0f9/audio.mp3" length="13604000" type="audio/mpeg"/>
+      <itunes:duration>817</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Sommes-nous RÉELLEMENT visités par des extraterrestres?</title>
       <link>https://www.qub.ca/balado/troublant-christian-page/sommes-nous-reellement-visites-par-des-extraterrestres-1535141304</link>
