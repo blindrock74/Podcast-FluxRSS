@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Jean-Philippe Wauthier et ses complices, dont le bel Olivier Niquet, passent l&#x27;actualité dans le tordeur, avec l&#x27;esprit mordant et affûté qu&#x27;on leur connaît. Évidemment, Jean-Sébastien Girard y fait quelques saucettes. Les fans de l&#x27;émission culte &lt;em&gt;La soirée est (encore) jeune&lt;/em&gt; en retrouveront l&#x27;énergie, le plaisir et le côté juste assez piquant.&lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot; href=&quot;https://ici.tou.tv/la-journee-est-encore-jeune&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Retrouvez les produits dérivés de&lt;em&gt; La journée (est encore jeune)&lt;/em&gt;&amp;nbsp;&lt;em&gt;&lt;/em&gt;&lt;a title=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot; href=&quot;https://ifboutiqueweb.com/categorie-produit/la-journee-est-encore-jeune/&quot;&gt;ici&lt;/a&gt;.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 15:00:40 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:00:39 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/emission/1x1/la-journee-est-encore-jeune-visuel-moteur.jpg</url>
       <title>La journée (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Jeudi 19 nov. 2026 : Nathalie Petrowski, Hugo Dumas et Étienne Grandmont</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1290720/jeudi-19-nov-2026-nathalie-petrowski-hugo-dumas-et-etienne-grandmont</link>
+      <guid isPermaLink="false">ohdio-1290720</guid>
+      <pubDate>Thu, 19 Nov 2026 19:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Nathalie Petrowski critique le film &lt;em&gt;Moi, Rocky&lt;/em&gt;, qui raconte le difficile parcours de Sylvester Stallone pour jouer Rocky. Hugo Dumas nous fait découvrir les plus belles expressions entendues à &lt;em&gt;Occupation double Panamá&lt;/em&gt;. Et le député solidaire Étienne Grandmont parle du Sommet sur l’itinérance.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/83e46474-f5fd-41d9-9428-c5c50603fe08/2026-11-19_14_30_00_lajourneeestencorejeuneohdio_0000_128.mp4" length="40497907" type="audio/mp4"/>
+      <itunes:duration>2031</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mercredi 18 nov. 2026 : Jean-Sébastien Girard, Dominic Tardif et Avi Lewis</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/9887/la-journee-est-encore-jeune/1290327/mercredi-18-nov-2026-jean-sebastien-girard-dominic-tardif-et-avi-lewis</link>
