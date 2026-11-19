@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Tue, 17 Nov 2026 19:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 19:00:05 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>18 novembre 1883 : la standardisation de l’heure</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289536/18-novembre-1883-la-standardisation-de-lheure</link>
+      <guid isPermaLink="false">ohdio-1289536</guid>
+      <pubDate>Wed, 18 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Dans le &lt;em&gt;Montreal Witness&lt;/em&gt;, un journal anglophone protestant, un éditorialiste est indigné de voir le peuple canadien-français se reproduire si rapidement, et prophétise que les Anglo-Saxons seront bientôt envahis! À pareille date sont aussi adoptés quatre fuseaux horaires en Amérique du Nord. Jean-Philippe discute avec le professeur d’histoire Harold Bérubé du rôle des compagnies de chemin de fer dans l’adoption de l’heure normale.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/dc90d840-db22-480c-ad2c-bfe9d514a9fb/2026-11-13_16_40_00_lhistoireestencorejeune_0000_128.mp4" length="35087387" type="audio/mp4"/>
+      <itunes:duration>1690</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>17 novembre 2003 : L’assermentation de Schwarzenegger comme gouverneur de la Californie</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289530/17-novembre-2003-lassermentation-de-schwarzenegger-comme-gouverneur-de-la-californie</link>
