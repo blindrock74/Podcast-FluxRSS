@@ -26,7 +26,7 @@ Mais quelqu’un qui la comprend, oui.
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 17:00:22 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:00:22 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/image.jpg?t=1775231217&amp;size=Large</url>
       <title>iA-tu pensé?</title>
@@ -40,6 +40,16 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Alimentation et de l&#x27;intelligence artificielle avec le Dr Sylvain Charlebois</title>
+      <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep13-20261120-audio-1322353509</link>
+      <guid isPermaLink="false">qub-c6bdea5d-eb53-4ca1-9567-b50800ff9684</guid>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
+      <description>Des robots qui cueillent les pommes aux machines qui désherbent au laser, l’IA change déjà le travail à la ferme. David Proulx et le Dr Sylvain Charlebois parlent aussi de ce que ça change à l’épicerie : préparer des menus à partir des circulaires et, du côté des détaillants, personnaliser les prix selon le profil des clients.</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/c6bdea5d-eb53-4ca1-9567-b50800ff9684/audio.mp3" length="39505942" type="audio/mpeg"/>
+      <itunes:duration>2451</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>L&#x27;IA change votre travail : comment rester indispensable?</title>
       <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep12-20261113-audio-1532249151</link>

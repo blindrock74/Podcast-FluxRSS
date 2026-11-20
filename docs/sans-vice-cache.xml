@@ -16,7 +16,7 @@ Un balado mordant, punché et rafraîchissant… où l’immobilier prend enfin 
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Fri, 13 Nov 2026 17:00:28 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:00:26 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/6fc5bdce-c599-4c28-bcb2-b35200f02f9e/image.jpg?t=1757342075&amp;size=Large</url>
       <title>Sans vice caché</title>
@@ -30,6 +30,24 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Leur maison n&#x27;est pas assurable… ET SE RETROUVENT RESPONSABLES DE 50 VOISINS !</title>
+      <link>https://www.qub.ca/balado/sans-vice-cache/sans-vice-cache-edition-20-nov-conduite-deau-20261120-audio-1592260927</link>
+      <guid isPermaLink="false">qub-415a21ab-ca2e-4591-b10f-b50800fe05d2</guid>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
+      <description>Quand le rêve devient un véritable cauchemar !
+
+Lorsque Michael et Vanessa ont fait construire leur propriété, ils ont découvert qu&#x27;une conduite d&#x27;eau municipale était enfouie sur leur terrain. Ce qu&#x27;ils ignoraient, c&#x27;est qu&#x27;ils devenaient responsables de la gestion des eaux pluviales de plus de 50 de leurs voisins !
+
+Imaginez : si un bris survient ou si l&#x27;une de ces propriétés subit une inondation liée à cette conduite, leur responsabilité pourrait être engagée !
+
+Résultat : ils ne sont désormais plus assurables !
+
+La maison de leurs rêves s&#x27;est transformée en un cauchemar sans fin, entre poursuites judiciaires et frais d&#x27;avocat qui ne cessent de grimper. Découvrez une histoire qui défie toute logique et qui soulève de sérieuses questions sur les responsabilités des propriétaires et les pouvoirs des villes.</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/6fc5bdce-c599-4c28-bcb2-b35200f02f9e/415a21ab-ca2e-4591-b10f-b50800fe05d2/audio.mp3" length="32520505" type="audio/mpeg"/>
+      <itunes:duration>2012</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>&quot;Le mur était tellement moisi, que mon ami est passé au travers!&quot; </title>
       <link>https://www.qub.ca/balado/sans-vice-cache/sans-vice-cache-edition-13-nov-moisissure-20261113-audio-884569898</link>
