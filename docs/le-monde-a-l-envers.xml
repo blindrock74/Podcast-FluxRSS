@@ -22,7 +22,7 @@ Sceptique? Parfait. Croyant? Encore mieux. Une chose est sûre : après l’éco
 Troublant. Parce que certaines vérités ne veulent pas être trouvées.</description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 11:00:24 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:00:21 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a563e634-c95e-45ed-b79a-aefb00da0cda/image.jpg?t=1792113168&amp;size=Large</url>
       <title>Troublant - Christian Page</title>
@@ -36,6 +36,23 @@ Troublant. Parce que certaines vérités ne veulent pas être trouvées.</descri
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Paranormal et IA:«Dans le temps, on pouvait vérifier, maintenant c&#x27;est difficile», dit Christian Page</title>
+      <link>https://www.qub.ca/balado/troublant-christian-page/paranormal-et-ia-dans-le-temps-on-pouvait-verifier-maintenant-c-est-difficile-557462570</link>
+      <guid isPermaLink="false">qub-261ca7f1-366b-402c-a4c3-b50801015caf</guid>
+      <pubDate>Fri, 20 Nov 2026 15:37:55 +0000</pubDate>
+      <description>-Une curieuse créature volante au Mexique
+
+-Bigfoot au New Jersey
+
+Phénomènes de l’étrange avec Christian Page, spécialiste du paranormal.
+
+Regardez aussi cette discussion en vidéo via https://www.qub.ca/videos ou en vous abonnant à QUB télé : https://www.tvaplus.ca/qub ou sur la chaîne YouTube QUB https://www.youtube.com/@qub_radio </description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a563e634-c95e-45ed-b79a-aefb00da0cda/261ca7f1-366b-402c-a4c3-b50801015caf/audio.mp3" length="12284539" type="audio/mpeg"/>
+      <itunes:duration>735</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Effondrement de la civilisation maya: les extraterrestres en cause?</title>
       <link>https://www.qub.ca/balado/troublant-christian-page/effondrement-de-la-civilisation-maya-les-extraterrestres-en-cause-342758980</link>
