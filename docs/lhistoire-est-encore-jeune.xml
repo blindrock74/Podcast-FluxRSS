@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Wed, 18 Nov 2026 19:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:00:05 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -22,6 +22,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>19 novembre 1967 : la fondation du Mouvement souveraineté-association</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289538/19-novembre-1967-la-fondation-du-mouvement-souverainete-association</link>
+      <guid isPermaLink="false">ohdio-1289538</guid>
+      <pubDate>Thu, 19 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;En 1967, une jeune Louise Harel couvre une conférence de presse qui annonce la fondation du Mouvement souveraineté-association par René Lévesque. Près de 60 ans plus tard, elle en discute avec Jean-Philippe. La vulgarisatrice scientifique Micha Horswill s’intéresse à l’Ordre de Jacques-Cartier, une société secrète fondée en 1926, à l’époque où les Canadiens français peinaient à accéder à des postes de pouvoir. &lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/f7622e1f-a0c7-426b-a31e-352802c93ae8/2026-11-13_16_42_00_lhistoireestencorejeune_0000_128.mp4" length="35259917" type="audio/mp4"/>
+      <itunes:duration>1700</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>18 novembre 1883 : la standardisation de l’heure</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289536/18-novembre-1883-la-standardisation-de-lheure</link>
       <guid isPermaLink="false">ohdio-1289536</guid>
@@ -32,7 +42,7 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>17 novembre 2003 : L’assermentation de Schwarzenegger comme gouverneur de la Californie</title>
+      <title>17 novembre 2003 : l’assermentation de Schwarzenegger comme gouverneur de la Californie</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289530/17-novembre-2003-lassermentation-de-schwarzenegger-comme-gouverneur-de-la-californie</link>
       <guid isPermaLink="false">ohdio-1289530</guid>
       <pubDate>Tue, 17 Nov 2026 23:30:00 +0000</pubDate>
