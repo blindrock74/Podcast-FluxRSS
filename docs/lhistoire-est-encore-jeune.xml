@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 19 Nov 2026 19:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 22:00:05 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Le meilleur de la semaine du 16 novembre 2026</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1290509/le-meilleur-de-la-semaine-du-16-novembre-2026</link>
+      <guid isPermaLink="false">ohdio-1290509</guid>
+      <pubDate>Sat, 21 Nov 2026 02:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Voici un assemblage des quatre émissions diffusées cette semaine. Au menu&amp;nbsp;: la première synthétisation du LSD, l’assermentation d’Arnold Schwarzenegger comme gouverneur de la Californie, la standardisation de l’heure et la fondation du Mouvement souveraineté-association par René Lévesque.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/1b8ef4a7-b9f4-4b89-b1f5-5d2f39f0a363/2026-11-19_09_20_00_lhistoireestencorejeune_0000_128.mp4" length="86826698" type="audio/mp4"/>
+      <itunes:duration>4950</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>19 novembre 1967 : la fondation du Mouvement souveraineté-association</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1289538/19-novembre-1967-la-fondation-du-mouvement-souverainete-association</link>
