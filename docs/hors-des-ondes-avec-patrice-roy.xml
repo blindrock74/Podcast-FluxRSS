@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Patrice Roy prend le temps de discuter avec des personnalités afin de mieux comprendre des enjeux de notre société.  Toutes les deux semaines, en dehors du rythme effréné de l’actualité, il nous convie à des conversations intimes qui donnent lieu à des échanges pertinents et parfois inédits, Patrice et les gens qu’il reçoit ayant l&#x27;occasion de dévoiler un peu plus le fond de leur pensée.&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Mon, 09 Nov 2026 06:54:34 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 11:00:17 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/hors-des-ondes-balado-visuel-moteur-ohdio.jpg</url>
       <title>Hors des ondes avec Patrice Roy</title>
@@ -20,6 +20,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>La biologiste Catherine Potvin dénonce le pouvoir du lobby du pétrole au Canada</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1290613/la-biologiste-catherine-potvin-denonce-le-pouvoir-du-lobby-du-petrole-au-canada</link>
+      <guid isPermaLink="false">ohdio-1290613</guid>
+      <pubDate>Sun, 22 Nov 2026 16:00:00 +0000</pubDate>
+      <description>&lt;p&gt;Au micro de Patrice Roy, la biologiste de renommée mondiale Catherine Potvin est catégorique&amp;nbsp;: on fait face à un lobby extrême de l&amp;#x27;industrie pétrolière au Canada qui nous empêche d&amp;#x27;avancer dans la lutte contre les changements climatiques. Une entrevue sans filtre sur le climat, qui donne l&amp;#x27;heure juste et des raisons d&amp;#x27;espérer.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/6219e024-d8db-43e1-9052-089a57013764/2026-11-19_11_40_34_horsdesondespatriceroyohdio_0000_128.mp4" length="72321085" type="audio/mp4"/>
+      <itunes:duration>4037</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Mi-mandat : la défaite du parti de Trump analysée par Rafael Jacob</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/13843/hors-des-ondes-avec-patrice-roy/1287290/mi-mandat-la-defaite-du-parti-de-trump-analysee-par-rafael-jacob</link>
