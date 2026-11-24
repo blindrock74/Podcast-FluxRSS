@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 22:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:00:06 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>23 novembre 1970 : la fondation de Charlie Hebdo</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1291281/23-novembre-1970-la-fondation-de-charlie-hebdo</link>
+      <guid isPermaLink="false">ohdio-1291281</guid>
+      <pubDate>Mon, 23 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Déjà en 1970, on pouvait lire dans le journal que la guerre tarifaire menaçait l’Alliance atlantique et que le Canada voulait se débarrasser de la tutelle américaine! Pierre Huet, ancien rédacteur en chef de la revue &lt;em&gt;Croc&lt;/em&gt;, parle du journal satirique français &lt;em&gt;Charlie Hebdo&lt;/em&gt;, et Félix Lemieux s’intéresse à Roald Dahl, auteur du roman &lt;em&gt;Charlie et la chocolaterie&lt;/em&gt;.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/23621748-fdc0-4551-8778-732f585d71d9/2026-11-23_11_21_00_lhistoireestencorejeune_0000_128.mp4" length="35408394" type="audio/mp4"/>
+      <itunes:duration>1710</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Le meilleur de la semaine du 16 novembre 2026</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1290509/le-meilleur-de-la-semaine-du-16-novembre-2026</link>
