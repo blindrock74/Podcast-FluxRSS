@@ -22,7 +22,7 @@ Sceptique? Parfait. Croyant? Encore mieux. Une chose est sûre : après l’éco
 Troublant. Parce que certaines vérités ne veulent pas être trouvées.</description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Mon, 23 Nov 2026 12:00:19 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:00:19 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a563e634-c95e-45ed-b79a-aefb00da0cda/image.jpg?t=1792113168&amp;size=Large</url>
       <title>Troublant - Christian Page</title>
@@ -36,6 +36,23 @@ Troublant. Parce que certaines vérités ne veulent pas être trouvées.</descri
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Une «créature» mi-homme mi-papillon aperçue aux États-Unis ?</title>
+      <link>https://www.qub.ca/balado/troublant-christian-page/une-creature-mi-homme-mi-papillon-apercue-aux-etats-unis-1752677336</link>
+      <guid isPermaLink="false">qub-31f1706e-75b5-4f0d-90b6-b50c011bde1d</guid>
+      <pubDate>Tue, 24 Nov 2026 17:14:45 +0000</pubDate>
+      <description>En novembre 1966, à Point Pleasant, en Virginie occidentale, des citoyens ont rapporté la présence d&#x27;une étrange créature ailée. La «chose» ressemblait à une mixture entre un homme et... un papillon. 
+
+Phénomènes de l’étrange avec Christian Page, spécialiste du paranormal.
+
+ 
+
+Regardez aussi cette discussion en vidéo via https://www.qub.ca/videos ou en vous abonnant à QUB télé : https://www.tvaplus.ca/qub ou sur la chaîne YouTube QUB https://www.youtube.com/@qub_radio</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a563e634-c95e-45ed-b79a-aefb00da0cda/31f1706e-75b5-4f0d-90b6-b50c011bde1d/audio.mp3" length="11537608" type="audio/mpeg"/>
+      <itunes:duration>703</itunes:duration>
+      <itunes:season>2</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Un monstre qui se «dandine comme un robot» aperçu en Virginie?</title>
       <link>https://www.qub.ca/balado/troublant-christian-page/un-monstre-qui-se-dandine-comme-un-robot-apercu-en-virginie-1162051712</link>
