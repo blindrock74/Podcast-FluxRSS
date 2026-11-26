@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Tue, 24 Nov 2026 19:00:05 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:00:04 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>25 novembre 1885&amp;nbsp;: la création du parc national de Banff</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1291286/25-novembre-1885-la-creation-du-parc-national-de-banff</link>
+      <guid isPermaLink="false">ohdio-1291286</guid>
+      <pubDate>Wed, 25 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Fin 19e, après la découverte de sources thermales par le personnel du chemin de fer Canadien Pacifique en Alberta (alors les Territoires du Nord-Ouest), la compagnie y voit l’occasion de s’enrichir. Le spécialiste de l’histoire intellectuelle François Pageau raconte comment le premier parc national du Canada s’est créé pour encourager le tourisme. Félix Lemieux parle de Joe DiMaggio, né le 25 novembre 1914, connu comme étant l’un des meilleurs joueurs de baseball au monde.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/801476cc-7d85-4e6c-8f58-b79244af0094/2026-11-23_11_23_00_lhistoireestencorejeune_0000_128.mp4" length="36835353" type="audio/mp4"/>
+      <itunes:duration>1800</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>24 novembre 1883&amp;nbsp;: l’invention de la poubelle</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1291283/24-novembre-1883-linvention-de-la-poubelle</link>
