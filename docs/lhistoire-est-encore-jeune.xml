@@ -6,7 +6,7 @@
     <description>&lt;p&gt;&lt;em&gt;L’histoire (est encore jeune),&lt;/em&gt; des éphémérides sur l’acide! Jean-Philippe Wauthier insuffle l’énergie, l’esprit et le mordant de &lt;em&gt;La journée (est encore jeune) &lt;/em&gt;au récit historique. Entouré de complices et de spécialistes, il présente le passé avec un sens du rythme, une curiosité et un humour assumé : c’est de l’histoire autrement!&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Wed, 25 Nov 2026 19:00:04 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:00:04 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/lheej-visuel-moteur-balado-ohdio.jpg</url>
       <title>L’histoire (est encore jeune)</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>26 novembre 1942 : la sortie du film Casablanca</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1291291/26-novembre-1942-la-sortie-du-film-casablanca</link>
+      <guid isPermaLink="false">ohdio-1291291</guid>
+      <pubDate>Thu, 26 Nov 2026 23:30:00 +0000</pubDate>
+      <description>&lt;p&gt;Malgré des décors en carton-pâte et un scénario écrit au fur et à mesure du tournage, &lt;em&gt;Casablanca&lt;/em&gt; trône au troisième rang des meilleurs films américains de l’histoire, selon l’American Film Institut. Le chroniqueur Marc Cassivi se penche sur ce film au tournage chaotique et au succès instantané. Magali Saint-Vincent en profite pour s’intéresser à l’invention du tourisme et à son âge d’or, où un vol direct Montréal-Casablanca était promu dans une publicité : &lt;q data-attributes=&quot;{&amp;quot;lang&amp;quot;:{&amp;quot;value&amp;quot;:&amp;quot;fr&amp;quot;,&amp;quot;label&amp;quot;:&amp;quot;Français&amp;quot;},&amp;quot;value&amp;quot;:{&amp;quot;html&amp;quot;:&amp;quot;À nous les jolies danseuses, le golf et les plages ensoleillées… &amp;quot;,&amp;quot;text&amp;quot;:&amp;quot;À nous les jolies danseuses, le golf et les plages ensoleillées… &amp;quot;}}&quot;&gt;&lt;span lang=&quot;fr&quot; title=&quot;Français&quot;&gt;À nous les jolies danseuses, le golf et les plages ensoleillées…&lt;/span&gt;&lt;/q&gt;&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/8bdfedc2-f07e-4fcc-870f-cb00ddbad485/2026-11-23_11_24_00_lhistoireestencorejeune_0000_128.mp4" length="38343837" type="audio/mp4"/>
+      <itunes:duration>1895</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>25 novembre 1885&amp;nbsp;: la création du parc national de Banff</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/14021/lhistoire-est-encore-jeune/1291286/25-novembre-1885-la-creation-du-parc-national-de-banff</link>
