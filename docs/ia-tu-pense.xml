@@ -26,7 +26,7 @@ Mais quelqu’un qui la comprend, oui.
 Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB ou en direct à la radio numérique et la chaîne télé au https://www.qub.ca/.  </description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 17:00:22 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:00:23 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/image.jpg?t=1775231217&amp;size=Large</url>
       <title>iA-tu pensé?</title>
@@ -40,6 +40,20 @@ Disponible en balado audio et en podcast vidéo, sur la chaîne Youtube de QUB o
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>ChatGPT dans votre assiette : jusqu&#x27;où lui faire confiance?</title>
+      <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep14-20261127-audio-1206386083</link>
+      <guid isPermaLink="false">qub-d4e41246-4e26-4071-8561-b50e016c6f51</guid>
+      <pubDate>Fri, 27 Nov 2026 21:00:00 +0000</pubDate>
+      <description>Demander un menu à ChatGPT, photographier son assiette pour compter les calories ou obtenir des conseils pour perdre du poids : l’intelligence artificielle s’invite dans notre alimentation. Mais sait-elle vraiment ce qui est bon pour nous? Cette semaine à IA-tu pensé?, David Proulx reçoit Joëlle Emond, présidente de l’Ordre des diététistes-nutritionnistes du Québec, pour distinguer les usages utiles des raccourcis risqués.
+
+Ensemble, ils explorent les limites des applications de nutrition, l’importance de bien formuler ses questions et les précautions à prendre lorsqu’une maladie ou des médicaments entrent dans l’équation. Ils abordent aussi les intérêts commerciaux derrière les recommandations et la responsabilité des professionnels qui intègrent ces outils à leur pratique.
+
+Une conversation sur ce que l’IA peut apporter à notre alimentation, ce qu’elle ne peut pas déduire d’une photo et le moment où consulter un professionnel fait toute la différence.</description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/f987d04a-a0e8-4dc1-80df-b42101041165/d4e41246-4e26-4071-8561-b50e016c6f51/audio.mp3" length="53220418" type="audio/mpeg"/>
+      <itunes:duration>3308</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Alimentation et de l&#x27;intelligence artificielle avec le Dr Sylvain Charlebois</title>
       <link>https://www.qub.ca/balado/ia-tu-pense/ia-tu-pense-s2ep13-20261120-audio-1322353509</link>
