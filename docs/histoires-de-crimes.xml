@@ -3,14 +3,16 @@
   <channel>
     <title>Histoires de crimes</title>
     <link>https://www.qub.ca/balado/histoires-de-crimes</link>
-    <description>Les coulisses des histoires criminelles qui ont retenu l&#x27;attention cette semaine, racontées par les journalistes des Affaires judiciaires et policières du Journal de Montréal.   
+    <description>Histoires de crimes vous plonge au cœur des affaires criminelles qui ont marqué le Québec, défrayé les manchettes et retenu l&#x27;attention des journalistes du Journal de Montréal.
 
-Dans la salle des archives du Journal, on s’intéresse aux plus récentes affaires juridiques, enquêtes policières, condamnations criminelles, procès, et aux histoires de crimes tirées de nos archives.   
+En compagnie des journalistes Valérie Gonthier et Frédérique Giguère, découvrez les coulisses de grandes enquêtes policières, des procès médiatisés, des meurtres, des crimes violents et des faits divers qui ont marqué l&#x27;actualité. Accompagnées de leurs invités, elles revisitent des dossiers fascinants tirés des vastes archives du Journal de Montréal et vous dévoilent les dessous d&#x27;affaires criminelles, les éléments troublants des enquêtes et les histoires humaines qui se cachent derrière chaque dossier.
 
-Avec Valérie Gonthier, Maxime Deland, Michaël Nguyen et Stéphane Alarie </description>
+Des crimes qui ont bouleversé des vies aux enquêtes qui ont tenu le Québec en haleine, Histoires de crimes raconte les événements, les révélations et les rebondissements qui ont marqué notre histoire judiciaire et criminelle.
+
+Un balado de true crime québécois signé QUB et Journal de Montréal.</description>
     <language>fr-ca</language>
     <copyright>QUB radio</copyright>
-    <lastBuildDate>Thu, 05 Nov 2026 17:35:58 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 01:00:18 -0500</lastBuildDate>
     <image>
       <url>https://static-radio.qub.ca/d/programs/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a17d35b3-9e91-4534-95d7-b11e01087924/image.jpg?t=1708618432&amp;size=Large</url>
       <title>Histoires de crimes</title>
@@ -24,6 +26,17 @@ Avec Valérie Gonthier, Maxime Deland, Michaël Nguyen et Stéphane Alarie </de
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Le policier qui a arrêté Vito Rizzuto</title>
+      <link>https://www.qub.ca/balado/histoires-de-crimes/saison3/le-policier-qui-a-arrete-vito-rizzuto-2006217472</link>
+      <guid isPermaLink="false">qub-10bfe91d-bc21-4c0c-b8a0-b50e015c16f7</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:00 +0000</pubDate>
+      <description>Il y a 20 ans, Nicodemo Milano se présentait au domicile de Vito Rizzuto à Montréal pour l’arrêter pour un triple meurtre survenu aux États-Unis en 1981.  Il raconte à Laurent et Valérie comment il s’est retrouvé à passer les menottes au parrain de la mafia montréalaise et la relation qu’il a développé avec le criminel. </description>
+      <enclosure url="https://traffic.omny.fm/d/clips/bf51a523-1f9d-4e51-9cdf-a8d501394d60/a17d35b3-9e91-4534-95d7-b11e01087924/10bfe91d-bc21-4c0c-b8a0-b50e015c16f7/audio.mp3" length="72999865" type="audio/mpeg"/>
+      <itunes:duration>4498</itunes:duration>
+      <itunes:season>3</itunes:season>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Gérald Gallant : les confessions d&#x27;un tueur à gages</title>
       <link>https://www.qub.ca/balado/histoires-de-crimes/jdm-histoires-de-crimes-gerald-gallant-1009196735</link>
