@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Les décrypteurs discutent de ce qui a retenu leur attention dans l’actualité de la semaine : des phénomènes web, des tendances virales, de l’intelligence artificielle, de la science et des technologies. Des discussions sans montage (ou presque), spontanées et très décontractées pour mieux comprendre le monde numérique et distinguer le vrai du faux. &lt;/p&gt;&lt;p&gt;&lt;a title=&quot;https://ici.tou.tv/decrypteurs&quot; href=&quot;https://ici.tou.tv/decrypteurs&quot;&gt;Aussi sur Tou.tv&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Prix Signal 2025&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;: &lt;/strong&gt;bronze et prix du public dans la catégorie technologie&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Fri, 20 Nov 2026 13:00:12 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 13:00:18 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/visuel-moteur-les-decrypteurs-balado-2026.jpg</url>
       <title>Décrypteurs : le balado</title>
@@ -21,6 +21,16 @@
     <itunes:category text="Comedy"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Nvidia : « un gros scandale »</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1292397/nvidia-un-gros-scandale</link>
+      <guid isPermaLink="false">ohdio-1292397</guid>
+      <pubDate>Fri, 27 Nov 2026 17:05:00 +0000</pubDate>
+      <description>&lt;p&gt;L’entrepreneur Jensen Huang de retour aux commandes de l’entreprise technologique Nvidia; le virage à 180 degrés pour certains PDG des géants du numérique; l’intelligence artificielle au service de la nudification; l’entreprise Bell ciblée par une cyberattaque propulsée par l’intelligence artificielle; et l’utilisation de l’intelligence artificielle au cinéma dans le plus récent film du réalisateur David Fincher.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/90171acf-2827-4b50-b9f3-a5fb04df3040/2026-11-27_11_30_00_decrypteurslebaladoohdio_0000_128.mp4" length="63764496" type="audio/mp4"/>
+      <itunes:duration>3498</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Panne informatique générale : démêler le vrai du faux</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/11099/decrypteurs/1290896/panne-informatique-generale-demeler-le-vrai-du-faux</link>
