@@ -6,7 +6,7 @@
     <description>&lt;p&gt;Un sujet, un invité et une quinzaine de minutes pour en jaser. Du mardi au jeudi et le samedi, c&#x27;est le rendez-vous matinal que propose Alexis De Lancer. Il va au-delà de la nouvelle pour mieux comprendre les grands enjeux d&#x27;actualité.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;New York Festivals Radio Awards (2024)&lt;/strong&gt;&amp;nbsp;&lt;strong&gt;:&lt;/strong&gt; finaliste dans la catégorie du meilleur balado d&#x27;information&lt;br/&gt;&lt;/p&gt;</description>
     <language>fr-ca</language>
     <copyright>Radio-Canada</copyright>
-    <lastBuildDate>Thu, 26 Nov 2026 05:00:58 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:00:57 -0500</lastBuildDate>
     <image>
       <url>https://images.radio-canada.ca/q_auto,w_1400/v1/audio/balado/1x1/ca-sexplique-balado-premiere.jpg</url>
       <title>Ça s&#x27;explique</title>
@@ -22,6 +22,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <item>
+      <title>Loi 21&amp;nbsp;: que retenir du jugement de la Cour suprême?</title>
+      <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1292493/loi-21-laicite-quebec-signes-religieux-jugement-cour-supreme</link>
+      <guid isPermaLink="false">ohdio-1292493</guid>
+      <pubDate>Sat, 28 Nov 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;La Cour suprême du Canada a validé la quasi-totalité de la Loi sur la laïcité de l’État québécois. En conséquence, les personnes employées par l&amp;#x27;État en position d&amp;#x27;autorité ne retrouveront pas le droit de porter des signes religieux ostentatoires. Le plus haut tribunal du pays statue également que la disposition de dérogation de la Constitution peut bel et bien être invoquée de manière préventive par les gouvernements provinciaux. Le professeur de droit Louis-Philippe Lampron explique ce qu’il faut retenir de ce jugement historique.&lt;/p&gt;</description>
+      <enclosure url="https://rcavmedias-download.akamaized.net/mp4/0452fa19-232e-4ac2-b38b-7a2a2d21c1b5/2026-11-27_15_15_00_casexplique_0000_128.mp4" length="28144912" type="audio/mp4"/>
+      <itunes:duration>1252</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Réussite scolaire&amp;nbsp;: comment mieux soutenir les garçons? </title>
       <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1291972/reussite-scolaire-comment-mieux-soutenir-les-garcons</link>
       <guid isPermaLink="false">ohdio-1291972</guid>
@@ -32,11 +42,11 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>Scandale NVIDIA : des conflits d’intérêts en vue?</title>
+      <title>Scandale Nvidia&amp;nbsp;: des conflits d’intérêts en vue?</title>
       <link>https://ici.radio-canada.ca/ohdio/balados/6108/ca-sexplique-balado-info-alexis-de-lancer/1291714/scandale-nvidia-des-conflits-dinterets-en-vue</link>
       <guid isPermaLink="false">ohdio-1291714</guid>
       <pubDate>Wed, 25 Nov 2026 11:00:00 +0000</pubDate>
-      <description>&lt;p&gt;Dans un contexte politique normal, le retour de Jensen Huang à la tête de l’entreprise NVIDIA aurait été difficilement envisageable. Mais, sous le règne de Donald Trump, les choses se déroulent autrement. Le correspondant de &lt;em&gt;La Presse&lt;/em&gt; Richard Hétu explique ce que l’affaire Jensen Huang révèle sur de potentiels conflits d’intérêts entre le président américain, son entourage et l&amp;#x27;industrie de l’intelligence artificielle.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dans un contexte politique normal, le retour de Jensen Huang à la tête de l’entreprise Nvidia aurait été difficilement envisageable. Mais, sous le règne de Donald Trump, les choses se déroulent autrement. Le correspondant de &lt;em&gt;La Presse&lt;/em&gt; Richard Hétu explique ce que l’affaire Jensen Huang révèle sur de potentiels conflits d’intérêts entre le président américain, son entourage et l&amp;#x27;industrie de l’intelligence artificielle.&lt;/p&gt;</description>
       <enclosure url="https://rcavmedias-download.akamaized.net/mp4/2892952a-3cda-4cbc-8357-e4817ba6811b/2026-11-24_17_16_58_casexplique_0000_128.mp4" length="29479679" type="audio/mp4"/>
       <itunes:duration>1336</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
